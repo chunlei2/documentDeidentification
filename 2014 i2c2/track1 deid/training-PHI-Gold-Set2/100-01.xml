@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2106-02-12
+
+Campbell Orthopedic Associates
+4 Madera Circle
+Omak, GA 28172
+ 
+Habib Valenzuela, M.D.
+ 
+ 
+                                             Valdez, Harlan Jr.  
+                                           845-41-54-4
+                                             February 12, 2106 
+Har is a 43 year old 6' 214 pound gentleman who is referred for
+consultation by Dr. Harlan Oneil.  About a week ago he slipped on
+the driveway at home and sustained an injury to his left ankle. 
+He was seen at Tri-City Hospital and was told he had a
+fracture.  He was placed in an air splint and advised to be
+partial weight bearing, and he is using a cane.  He is here for
+routine follow-up. 
+Past medical history is notable for no ankle injuries previously. 
+He has a history of diabetes and sleep apnea.  He takes Prozac,
+Cardizem, Glucophage and Amaryl.  He is also followed by Dr. Harold
+Nutter for an arrhythmia.  He does not smoke.  He drinks
+minimally.  He is a set designer at Columbia Pictures.
+ 
+On examination today he has slight tenderness of the left ankle
+about four fingerbreadths above the malleolus.  The malleolus is
+non-tender medially or laterally with no ligamentous tenderness
+either.  Dorsal flexion and plantar flexion is without pain. 
+There is no significant swelling.  There are no some skin changes
+with some small abrasions proximally.  There is no fibular
+tenderness proximally.  No anterior pain is noted.  No hindfoot,
+midfoot or forefoot tenderness is noted. 
+I would like him to use a tube sock with his air cast.  He is
+using a cane for ambulation.  His x-rays do not show a notable
+fracture pattern today, and we will await the Radiology opinion. 
+I would like him to stay in the air splint with the sock.  I will
+see him back in six weeks for review at the Boxborough office. 
+ 
+ 
+Diagnosis:  Left ankle fracture.
+ 
+ 
+ 
+ 
+ 
+__________________________________________
+Habib Valenzuela, M.D.
+ 
+HV/kuntz
+Mmedical
+ 
+cc:  Harlan Oneil, M.D.
+     
+     Harold Nutter, M.D.
+     Doctors Hospital North
+     64 Bruce St
+     Omak, GA 72196
+ 
+Habib Valenzuela, M.D.
+ 
+DD: 02/12/06
+DT: 02/17/06
+DV: 02/12/06
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2106-02-12" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="28" end="36" text="Campbell" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P2" start="59" end="74" text="4 Madera Circle" TYPE="STREET" comment="" />
+<LOCATION id="P3" start="75" end="79" text="Omak" TYPE="CITY" comment="" />
+<LOCATION id="P4" start="81" end="83" text="GA" TYPE="STATE" comment="" />
+<LOCATION id="P5" start="84" end="89" text="28172" TYPE="ZIP" comment="" />
+<NAME id="P6" start="92" end="108" text="Habib Valenzuela" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="164" end="182" text="Valdez, Harlan Jr." TYPE="PATIENT" comment="" />
+<ID id="P8" start="228" end="239" text="845-41-54-4" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P9" start="285" end="302" text="February 12, 2106" TYPE="DATE" comment="" />
+<NAME id="P10" start="304" end="307" text="Har" TYPE="PATIENT" comment="" />
+<AGE id="P11" start="313" end="315" text="43" TYPE="AGE" comment="" />
+<NAME id="P12" start="388" end="400" text="Harlan Oneil" TYPE="DOCTOR" comment="" />
+<LOCATION id="P13" start="514" end="531" text="Tri-City Hospital" TYPE="HOSPITAL" comment="" />
+<PHI id="P14" start="890" end="903" text="Harold
+Nutter" TYPE="DOCTOR" comment="" />
+<PROFESSION id="P15" start="974" end="986" text="set designer" TYPE="PROFESSION" comment="" />
+<LOCATION id="P16" start="990" end="1007" text="Columbia Pictures" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P17" start="1799" end="1809" text="Boxborough" TYPE="CITY" comment="" />
+<NAME id="P18" start="1909" end="1925" text="Habib Valenzuela" TYPE="DOCTOR" comment="" />
+<NAME id="P19" start="1934" end="1936" text="HV" TYPE="DOCTOR" comment="" />
+<NAME id="P20" start="1937" end="1942" text="kuntz" TYPE="DOCTOR" comment="" />
+<NAME id="P21" start="1959" end="1971" text="Harlan Oneil" TYPE="DOCTOR" comment="" />
+<NAME id="P22" start="1989" end="2002" text="Harold Nutter" TYPE="DOCTOR" comment="" />
+<LOCATION id="P23" start="2014" end="2036" text="Doctors Hospital North" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P24" start="2042" end="2053" text="64 Bruce St" TYPE="STREET" comment="" />
+<LOCATION id="P25" start="2059" end="2063" text="Omak" TYPE="CITY" comment="" />
+<LOCATION id="P26" start="2065" end="2067" text="GA" TYPE="STATE" comment="" />
+<LOCATION id="P27" start="2068" end="2073" text="72196" TYPE="ZIP" comment="" />
+<NAME id="P28" start="2076" end="2092" text="Habib Valenzuela" TYPE="DOCTOR" comment="" />
+<DATE id="P29" start="2105" end="2113" text="02/12/06" TYPE="DATE" comment="" />
+<DATE id="P30" start="2118" end="2126" text="02/17/06" TYPE="DATE" comment="" />
+<DATE id="P31" start="2131" end="2139" text="02/12/06" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

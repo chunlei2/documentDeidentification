@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2093-11-20
+
+ 
+	977-82-23
+	Horn, Gregory
+
+
+
+November 20, 2093  Endocrine/Diabetes
+
+Present Illness:  
+Asked to see this 59 year old man with IPF, diagnosed in 2090, an admission to BCC last month with pneumonia, who presented with rapidly progressive respiratory distress last week and was admitted intubated to the MICU. He as treated with high dose Solumedrol and with antibiotics, and is improving nicely. He is extubated and has begun to eat. 
+
+Diabetes was diagnosed 14 years ago. He was treated with pioglitazone 45 mg qd, metformin 2000 mg in divided doses and a sulfonylurea until February of this year, when the sulfonylurea was replaced with insulin. For convenience with his travel schedule, his insulin has been 70/30 administered by pen, with 30 U before breakfast and 40 U before  supper. He tests his BS before  breakfast and supper only and reports that, since he has been more careful with his diet recently, they have been in the low 100   s and mid 100   s, respectively. His hemoglobin A1c was 7.4 % a month ago.
+Retinopathy:	He is due for his yearly appointment with his ophthalmologist. No retinopathy in the past.  
+Nephropathy:	BUN/Cr 31/1.3 today. No microalbumin/creatinine ratio in CAS.
+Neuropathy:	He has occasional paresthesias in his feet.
+Cardiac:	He is s/p stent for coronary artery disease about 8-9 years ago.
+Vascular:	No claudication.
+
+His IPF is treated with Mucomyst and gamma interferon, which he administers to himself. 
+
+Past Medical History:  
+Surgery:	Coronary stent
+	Lung biopsy at time of diagnosis of IPF 
+Medical:	Hypertension	
+	Hyperlipidemia
+	GERD
+Allergies:	No known drug allergies.
+Smoking History:	No
+Alcohol History:	No
+
+Family History:  
+There is a significant family history of diabetes, including his mother, maternal grandmother, one of his 5 siblings, and some paternal relatives as well.
+
+Social History: 
+Lives with his wife and their adopted son, who is a Recruitment Officer.
+Computer and Network Technicians for General Dynamics, covering 8 states. His job entails travel.
+
+Review of Systems: above
+Ears: Mild hearing loss. 
+Review of systems is otherwise negative.
+
+Physical Exam:	
+Very pleasant, ruddy complexioned man in no distress.
+BP:   148/78		P:   76, regular	T: 98.0
+Wt:   209 by history		Ht: 5    7.5    by history
+HEENT:	Anicteric. Full EOM's. 
+Fundi:	Not examined.
+Carotids:	Normal pulses, without bruits
+Thyroid:	Not palpable
+Chest:	Few rales anteriorly, L>R.
+Heart:	Normal S1; physiologic S2.  No gallops.  No murmurs
+Abdomen:	No hepatosplenomegaly. No masses. No tenderness. No palpable AAA. 
+Extremities:	No edema.  DP 2+ R, absent L. PT 2+,=.  Good foot care.
+Neurological:	AJ 1+,=, with normal relaxation. 
+
+Impressions and Plan:	
+59 year old man with type 2 diabetes now on steroids for IPF flare, currently down to 125 mg q12h, given at noon and MN.
+Having reviewed his recent data, would suggest that we change his current insulin to:
+NPH 40 / Regular 10+ scale qAM before  breakfast
+Regular 10+ scale qPM before  supper
+NPH 30 at bedtime
+QID Regular sliding scale
+These initial doses will need to be adjusted based on experience and on any changes in the steroid doses.
+I have no objection to resuming his pioglitazone, or substituting rosiglitazone while he is here, as long as you do not feel that volume overload is playing any role in his deterioration.
+I would prefer not to resume the metformin while is at risk for acute respiratory deterioration with risk of acidosis.
+Would change the steroid dosing to 8AM, 8 PM, hoping that we can also start to reduce the doses, PM first, if possible.
+He appears to have an anemia that has at least a component of iron deficiency. If you agree, would start iron repletion. (Note that in addition to the iron studies, his MCV, though still normal, has come down over time.)
+
+Thanks.
+
+
+				Nicholas Q. Vasquez, M.D., Ph.D.
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2093-11-20" TYPE="DATE" comment="" />
+<ID id="P1" start="31" end="40" text="977-82-23" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="42" end="55" text="Horn, Gregory" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="59" end="76" text="November 20, 2093" TYPE="DATE" comment="" />
+<AGE id="P4" start="135" end="137" text="59" TYPE="AGE" comment="" />
+<DATE id="P5" start="174" end="178" text="2090" TYPE="DATE" comment="" />
+<LOCATION id="P6" start="196" end="199" text="BCC" TYPE="HOSPITAL" comment="" />
+<DATE id="P7" start="604" end="612" text="February" TYPE="DATE" comment="" />
+<PROFESSION id="P8" start="1932" end="1951" text="Recruitment Officer" TYPE="PROFESSION" comment="" />
+<PROFESSION id="P9" start="1953" end="1985" text="Computer and Network Technicians" TYPE="PROFESSION" comment="" />
+<LOCATION id="P10" start="1990" end="2006" text="General Dynamics" TYPE="ORGANIZATION" comment="" />
+<AGE id="P11" start="2727" end="2729" text="59" TYPE="AGE" comment="" />
+<NAME id="P12" start="3833" end="3852" text="Nicholas Q. Vasquez" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2091-10-24
+
+
+
+October 24, 2091
+
+
+
+
+
+Billie Givens, M.D.
+
+406 Cross Street
+
+Juana Diaz, CT 89568 
+
+
+
+Re:  	Horn, Gregory
+
+      	BCC Unit #: 977-82-23
+
+
+
+Dear Dr. Givens:
+
+
+
+I had the pleasure of seeing your patient, Mr. Horn, today in follow-up.  
+
+
+
+VATS biopsy on 9/27 showed usual interstitial pneumonitis with extensive smooth muscle metaplasia - a rather unusual reading.  
+
+
+
+Since the biopsy, he has recovered well, but is mildly more short of breath than previous. For example, he notes that going up the four stairs to the house with bundles he is mildly short of breath and has to rest.
+
+
+
+The cough is slightly increased to 3/10, but is markedly better than on presentation.
+
+
+
+He has no leg edema, chest pain, skin rash, joint problems, or fevers.
+
+
+
+He has managed to lose 6 lbs. by giving up sweets, and his sugars are slightly better.  
+
+
+
+GE reflux is very well controlled.
+
+
+
+Medications:  Prilosec 20 mg b.i.d., aspirin, Glyset, Actose, metformin, metoprolol, Lipitor, and Hyzaar.
+
+
+
+On Examination:  He is well appearing. Blood pressure 110/60, respiratory rate 20 and unlabored.  Oropharynx is clear.  Conjunctivae are clear. Trachea is midline, no goiter.  Chest:  Normal percussion note, well-healed VATS scar; fine inspiratory crackles 1/3 of the way up bilaterally with coarser crackles over the axilla.  Cardiac:  Normal apex beat, normal P2, no murmur, JVP less than 8 cm with equivocal HJR.  Abdomen:  Obese, soft, nontender, no hepatosplenomegaly or mass.  Extremities:  No edema, borderline clubbing, no cyanosis. 
+
+
+
+Exercise oximetry:  Saturation at rest 96% and after treadmill ergometry 94%.
+
+
+
+Pulmonary function tests today by my review show an FEV1 and FVC that are decreased by approximately 10%, total lung capacity decreased by 1 liter, and DLCO down from 20 to 14.
+
+
+
+Weight is 238 lbs. (BMI 38).
+
+
+
+Impression:
+
+
+
+1.	Biopsy-proven idiopathic pulmonary fibrosis - The biopsy reading is somewhat unusual, and I will review this at our Pulmonary group weekly meeting, particularly with an eye to agents that might possibly target to exclude muscle metaplasia.  I continue to think him a relatively high risk candidate for the low-benefit regiment of prednisone, with an immunosuppressant agent.  I think he may be a very good candidate for gamma-interferon, but unfortunately not every one benefits from this.  
+
+
+
+I emphasized strongly to he and his wife that his disease may have progressed, or could be made worse by the recent chest surgery and worsened gastroesophageal reflux.  If the disease was, indeed, progressing, we would need to proceed with lung transplantation workup.  The most significant contraindication currently to transplantation is his substantial obesity.  I calculated with him that he needed to have his weight down to 190 lbs. to get to a BMI of 30, and that by the time of listing he needed to have a BMI of approximately 32.  Hence, he has his work cut out for him.
+
+
+
+2.	Obesity - As above.
+
+
+
+3.	Diabetes.
+
+
+
+4.	Possible coronary artery disease - He apparently did fine on his preoperative cardiac workup.
+
+
+
+5.	GE reflux - As mentioned.
+
+
+
+6.	Cough - Mainly due to GE reflux, and less prominent contribution from the pulmonary fibrosis.
+
+
+
+Recommendations:
+
+
+
+1.	Add Reglan 10 mg b.i.d.
+
+
+
+2.	Continue Prilosec 40 mg b.i.d. - as 20 mg b.i.d. did not give full control with the generic pills.
+
+
+
+3.	We will review pathology.
+
+
+
+4.	Follow-up visit with full pulmonary function tests in one month.
+
+
+
+5.	I strongly urged him to continue a steady, but progressive weight loss program - I expect that his life will depend upon it.  
+
+
+
+It has been a pleasure to participate in his care.  Please feel free to call with any comments or questions.  
+
+
+
+Sincerely, 
+
+
+
+
+
+Paul N. Tam, M.D. 
+
+
+
+PNT/ivester/yanez
+
+      
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2091-10-24" TYPE="DATE" comment="" />
+<DATE id="P1" start="30" end="46" text="October 24, 2091" TYPE="DATE" comment="" />
+<NAME id="P2" start="52" end="65" text="Billie Givens" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="73" end="89" text="406 Cross Street" TYPE="STREET" comment="" />
+<LOCATION id="P4" start="91" end="101" text="Juana Diaz" TYPE="CITY" comment="" />
+<LOCATION id="P5" start="103" end="105" text="CT" TYPE="STATE" comment="" />
+<LOCATION id="P6" start="106" end="111" text="89568" TYPE="ZIP" comment="" />
+<NAME id="P7" start="122" end="135" text="Horn, Gregory" TYPE="PATIENT" comment="" />
+<LOCATION id="P8" start="144" end="147" text="BCC" TYPE="HOSPITAL" comment="" />
+<ID id="P9" start="156" end="165" text="977-82-23" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P10" start="178" end="184" text="Givens" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="236" end="240" text="Horn" TYPE="PATIENT" comment="" />
+<DATE id="P12" start="282" end="286" text="9/27" TYPE="DATE" comment="" />
+<NAME id="P14" start="3748" end="3759" text="Paul N. Tam" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="3770" end="3773" text="PNT" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="3774" end="3781" text="ivester" TYPE="DOCTOR" comment="" />
+<NAME id="P17" start="3782" end="3787" text="yanez" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

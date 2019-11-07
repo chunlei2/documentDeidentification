@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2077-01-21
+
+
+
+
+
+INTERNAL MEDICINE ASSOCIATES
+
+MESA VISTA HOSPITAL
+
+
+
+Personal data and overall health   Primary care physician, Ronnie Le, MD.
+
+
+
+Major Problems
+
+Syncope
+
+Syncopal episode.  S:  The patient speaks Korean with limited English and is here with his wife who informed me that they are here for a followup visit after an inpatient hospitalization at as best as I could understand it was Abbott Hospital.  The patient is on multiple medications.  However does not have a list of his medications, and according to the record, the patient is on atenolol, Norvasc, hydrochlorothiazide, Zestril, metformin, and Lipitor.  The patient feels well.  No shortness of breath.  No chest pain.  No recurrent syncopal episodes.       O:  See physical examination.       A:  The patient with stable hypertension, diabetes, and elevated cholesterol.      P:  We will check labs today.  We will verify the patient has a carotid ultrasound scheduled, and the patient is scheduled  to follow up with Dr. Le in March 2077.  May return to clinic PRN if needed.
+
+
+
+Physical examination
+
+Pulse   64
+
+Blood pressure 130/60    Right arm 130/60
+
+Chest   Lungs clear to auscultation.  Carotid, marked bruit on the right
+
+
+
+Note transcribed by outside service   Transcription errors may be present.
+
+
+
+Signed electronically by Amy  Jenkins  on Jun 30, 2077     
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2077-01-21" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="62" end="81" text="MESA VISTA HOSPITAL" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="144" end="153" text="Ronnie Le" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="229" end="235" text="Korean" TYPE="COUNTRY" comment="" />
+<LOCATION id="P4" start="414" end="429" text="Abbott Hospital" TYPE="HOSPITAL" comment="" />
+<NAME id="P5" start="1012" end="1014" text="Le" TYPE="DOCTOR" comment="" />
+<DATE id="P6" start="1018" end="1028" text="March 2077" TYPE="DATE" comment="" />
+<NAME id="P7" start="1326" end="1338" text="Amy  Jenkins" TYPE="DOCTOR" comment="" />
+<DATE id="P8" start="1343" end="1355" text="Jun 30, 2077" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

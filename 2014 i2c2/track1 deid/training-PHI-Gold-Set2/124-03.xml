@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2086-11-09
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 09, 2086
+ 
+ 
+ 
+Nicodemus Paz, M.D.
+40 Harvard Street
+Queenstown, WI    
+ 
+RE:  Edwin Workman
+     #612-48-04-0
+ 
+Dear Dr. Paz:
+ 
+I had the pleasure of seeing Mr. Workman in follow-up today. 
+Overall he is relatively stable from a cardiac standpoint.  Most
+importantly, recently he was laid off from his job at Belkin.  He
+has been quite depressed about this.  
+ 
+His medical regimen includes Cyclosporin 150 b.i.d., prednisone 6
+q.d., Imuran 275 q.d., Cardizem CD 300 q.d., Cardura 4 mg. q.d.,
+Pravachol 40 mg. q.d., Axid 150 b.i.d., Calcium, vitamin C and D,
+Mag. Oxide 250 q.d., Paxil 300 q.d., NPH Insulin.
+ 
+On physical examination he was well appearing in no distress.  He
+had a blood pressure of 136/80 with a heart rate of 90, weight was
+309 pounds which has increased eight pounds from July.  Chest was
+clear to auscultation.  Cardiac exam revealed a flat JVP at 30
+degrees, non-displaced PMI with a normal S1 and S2 without murmurs,
+rubs or gallops.  Carotids are 2+ bilaterally without bruits.
+Abdomen was soft, nontender. There is no organomegaly, no
+hepatojugular reflux. Extremities without edema.
+ 
+Electrocardiogram reveals normal sinus rhythm with a rate of 90. 
+Intervals of .16/.08/.33 with an axis of 70 degrees. This is a
+normal tracing and unchanged from his previous tracing on 9/20/86.Edwin Workman
+#612-48-04-0                  - 2 -          November 09, 2086
+ 
+Therefore, Mr. Workman is stable at this time from a cardiac
+perspective.  We will make the necessary adjustments in his medical
+regimen according to his laboratory results.
+ 
+Best regards.
+ 
+Sincerely,
+ 
+ 
+ 
+Elmer Knott, M.D.
+ 
+/ismail
+ 
+DD: 11/09/86
+DT: 11/11/86
+DV: 11/09/86
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2086-11-09" TYPE="DATE" comment="" />
+<DATE id="P1" start="52" end="69" text="November 09, 2086" TYPE="DATE" comment="" />
+<NAME id="P2" start="76" end="89" text="Nicodemus Paz" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="96" end="113" text="40 Harvard Street" TYPE="STREET" comment="" />
+<LOCATION id="P4" start="114" end="124" text="Queenstown" TYPE="CITY" comment="" />
+<LOCATION id="P5" start="126" end="128" text="WI" TYPE="STATE" comment="" />
+<NAME id="P6" start="140" end="153" text="Edwin Workman" TYPE="PATIENT" comment="" />
+<ID id="P7" start="160" end="171" text="612-48-04-0" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P8" start="183" end="186" text="Paz" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="223" end="230" text="Workman" TYPE="PATIENT" comment="" />
+<LOCATION id="P10" start="371" end="377" text="Belkin" TYPE="ORGANIZATION" comment="" />
+<DATE id="P11" start="855" end="859" text="July" TYPE="DATE" comment="" />
+<DATE id="P12" start="1361" end="1368" text="9/20/86" TYPE="DATE" comment="" />
+<NAME id="P13" start="1369" end="1382" text="Edwin Workman" TYPE="PATIENT" comment="" />
+<ID id="P14" start="1384" end="1395" text="612-48-04-0" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P15" start="1428" end="1445" text="November 09, 2086" TYPE="DATE" comment="" />
+<NAME id="P16" start="1463" end="1470" text="Workman" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="1657" end="1668" text="Elmer Knott" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="1678" end="1684" text="ismail" TYPE="DOCTOR" comment="" />
+<DATE id="P19" start="1691" end="1699" text="11/09/86" TYPE="DATE" comment="" />
+<DATE id="P20" start="1704" end="1712" text="11/11/86" TYPE="DATE" comment="" />
+<DATE id="P21" start="1717" end="1725" text="11/09/86" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

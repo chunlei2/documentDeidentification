@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2070-03-16
+
+
+
+
+NAME:    Vines, Stephen
+MRN:      1672569
+
+Stephen comes in today.  He has been feeling pretty well.  Really has no new
+complaints.  He still has 5 block claudication in his calves and he continues to smoke 
+a half pack per day.  His neuropathy is stabilized and his sugars have been good for
+the most part in the 140-150 range on insulin.  His weight has been stable.  He has
+had no shortness of breath or chest pain and his review of systems is otherwise
+negative.
+
+HABITS: Smokes about a half pack per day.  Does not drink, not really getting much
+exercise.  His legs hurt only when he walks over 5 blocks.  It doesn't hurt when he is
+working in the McCormick Company.
+
+PHYSICAL EXAM: He looks well.  His blood pressure is 142/80.  His pulse is 74
+and regular.  Respirations are 16. Lungs are clear.  No worrisome skin lesions. No
+bruits.  1+ carotids.  Abdomen is soft and nontender, no hepatosplenomegaly, no
+pulsatile masses, no bruits. Decreased pulses in the feet and decreased capillary refill
+and decreased sensation of vibration and fine touch.
+
+ASSESSMENT AND PLAN:  
+
+(1)  Diabetes.  Will check his hemoglobin A1c to see where we stand.  Continue
+     on his current regimen.  Encouraged him to increase his exercise and watch his
+     diet.  He has an eye exam scheduled.  His feet look okay, though we will have
+     to be careful given his neuropathy and peripheral vascular disease.
+
+(2)  Claudication.  Once again, talked to Mr. Vines about the absolute
+     importance of quitting smoking.  He is going to try using the Wellbutrin.  Gave
+     him a prescription for #60.  He will take one a day for 3-4 days and then go
+     up to 1 p.o. b.i.d.  He has no contraindications. I also encouraged him to use
+     the patch.  Hopefully, we will be able to get him off the cigarettes.  I also
+     encouraged him to walk until it hurts at least 3-4 x a day to try and train his
+     legs.
+
+(3)  Hypertension.  Our goal is to get his blood pressure down about 130.  Will
+     increase the Mavik to twice a day.
+
+(4)  Hyperlipidemia.  Well controlled on Lipitor.  Recheck his lipids.
+
+(5)  Neuropathy.  Stable.  He doesn't feel the need for any medication for it.
+
+(6)  HPDP.  Will check his guaiac cards.  He is not interested in a sigmoidoscopy. 
+     He has had a Pneumovax.  Patient will follow up with me in 3 months. 
+
+  
+
+Scott Phipps, M.D.
+
+SP/irons/quang
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2070-03-16" TYPE="DATE" comment="" />
+<NAME id="P1" start="40" end="54" text="Vines, Stephen" TYPE="PATIENT" comment="" />
+<ID id="P2" start="65" end="72" text="1672569" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P3" start="74" end="81" text="Stephen" TYPE="PATIENT" comment="" />
+<LOCATION id="P4" start="684" end="701" text="McCormick Company" TYPE="ORGANIZATION" comment="" />
+<NAME id="P5" start="1478" end="1483" text="Vines" TYPE="PATIENT" comment="" />
+<NAME id="P6" start="2371" end="2383" text="Scott Phipps" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="2391" end="2393" text="SP" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="2394" end="2399" text="irons" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="2400" end="2405" text="quang" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2073-07-04
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+July 04, 2073
+ 
+ 
+ 
+Jacob Bautista, M.D.
+352 Eldorado Circle
+Coeburn, WA 42646
+ 
+Re:  Umstead, Kenneth
+     MR #401-10-87-8
+ 
+Dear Jac:
+ 
+I saw your patient, Kenneth Umstead, in the Cardiology office today
+and he seems to be doing very well from a cardiovascular
+perspective.  Apparently he has had guaiac positive stools and has
+undergone a colonoscopy with the identification of four polyps. 
+Three have been removed and he then had a GI bleed.  This has been
+reevaluated and he has been stable.  The fourth polyp will need to
+be removed at a later time.  At this point, his aspirin has been
+discontinued for a number of days and the Lopid was also
+discontinued apparently because of increased liver function tests. 
+His current medications therefore include Lasix 40 mg per day,
+Metoprolol 25 mg qd, Nifedipine XL 30 mg qd.  He is aware of a
+belching and burping sensation after eating but otherwise no
+exertional or other related symptoms.  He is reasonably active but
+somewhat limited by his claudication.
+ 
+On exam today, he is comfortable with a blood pressure of 130/70,
+a heart rate of 65 and regular.  Head and neck were unremarkable. 
+Chest is clear.  Cardiac exam showed no jugular venous distension
+at 30 degrees.  PMI is normal.  S1 and S2 are normal with a
+physiologic split.  There is an S4 and a I/VI systolic ejection
+murmur at the left sternal border.  Abdominal exam was
+unremarkable.  Extremities showed no edema or cyanosis.  
+ 
+His resting 12-lead electrocardiogram demonstrates normal sinus
+rhythm with left axis deviation and a nonspecific left
+intraventricular conduction delay.
+ 
+Jacob Bautista, M.D.
+Re:  Umstead, Kenneth
+July 04, 2073
+Page 2
+ 
+ 
+I think Mr. Umstead is basically doing quite well.  It would be of
+value to repeat an exercise test since he has not had one since
+2069.  He had minimal ischemia at that time.  There are no symptoms
+that would prompt cardiac catheterization at this point and we will
+see how he does on the exercise test with the objective findings. 
+ 
+ 
+If any problems develop, please don't hesitate to contact me. 
+Thank you very much for allowing me to help with his care.
+ 
+Kindest personal regards.
+ 
+Sincerely yours,
+ 
+ 
+ 
+Marshall O. Lehman, M.D.
+ 
+DD: 07/04/73
+DT: 07/16/73
+DV: 07/04/73
+MOL/troutman
+ 
+WILSON MEDICAL CENTER
+79 Pinecrest Rd.
+Tonkawa, WA 67495
+ 
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2073-07-04" TYPE="DATE" comment="" />
+<DATE id="P1" start="44" end="57" text="July 04, 2073" TYPE="DATE" comment="" />
+<NAME id="P2" start="64" end="78" text="Jacob Bautista" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="85" end="104" text="352 Eldorado Circle" TYPE="STREET" comment="" />
+<LOCATION id="P4" start="105" end="112" text="Coeburn" TYPE="CITY" comment="" />
+<LOCATION id="P5" start="114" end="116" text="WA" TYPE="STATE" comment="" />
+<LOCATION id="P6" start="117" end="122" text="42646" TYPE="ZIP" comment="" />
+<NAME id="P7" start="130" end="146" text="Umstead, Kenneth" TYPE="PATIENT" comment="" />
+<ID id="P8" start="156" end="167" text="401-10-87-8" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P9" start="175" end="178" text="Jac" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="202" end="217" text="Kenneth Umstead" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="1651" end="1665" text="Jacob Bautista" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="1677" end="1693" text="Umstead, Kenneth" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="1694" end="1707" text="July 04, 2073" TYPE="DATE" comment="" />
+<NAME id="P14" start="1731" end="1738" text="Umstead" TYPE="PATIENT" comment="" />
+<DATE id="P15" start="1850" end="1854" text="2069" TYPE="DATE" comment="" />
+<NAME id="P16" start="2232" end="2250" text="Marshall O. Lehman" TYPE="DOCTOR" comment="" />
+<DATE id="P17" start="2263" end="2271" text="07/04/73" TYPE="DATE" comment="" />
+<DATE id="P18" start="2276" end="2284" text="07/16/73" TYPE="DATE" comment="" />
+<DATE id="P19" start="2289" end="2297" text="07/04/73" TYPE="DATE" comment="" />
+<NAME id="P20" start="2298" end="2301" text="MOL" TYPE="DOCTOR" comment="" />
+<NAME id="P21" start="2302" end="2310" text="troutman" TYPE="DOCTOR" comment="" />
+<LOCATION id="P22" start="2313" end="2334" text="WILSON MEDICAL CENTER" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P23" start="2335" end="2351" text="79 Pinecrest Rd." TYPE="STREET" comment="" />
+<LOCATION id="P24" start="2352" end="2359" text="Tonkawa" TYPE="CITY" comment="" />
+<LOCATION id="P25" start="2361" end="2363" text="WA" TYPE="STATE" comment="" />
+<LOCATION id="P26" start="2364" end="2369" text="67495" TYPE="ZIP" comment="" />
+</TAGS>
+</deIdi2b2>

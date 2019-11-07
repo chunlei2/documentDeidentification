@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2097-02-01
+
+ADMISSION NOTE
+02/01/97
+
+
+HPI: 61y/o male who underwent heart transplant in 2083 and has ESRD on HD (recently started -&gt; 9 sessions so far FAT). 
+He is been electively admitted from his cardiologists office w/ slightly elevated troponins peaked at 0.41, most recent 0.24.  He is CP free and stable and is being transferred for further evaluation and work up.  Last HD session on Tuesday. 
+
+
+Last dobutamine echo last year showed some LV apex hypokinesis, which augments in response dobutamine. 
+
+
+ECG revealed NSR at 82 w/ poor R wave progression on anterior leads. Qwave on AvL but no new TWI or ST changes. 
+
+
+Echo at OSH reveiled lower EF at 30-35% with HK on anteroseptal, mid anterior, apical lateral and apical inferior walls segments. 
+
+
+He reports chronic dypsnea on moderate exertion. He is quite sedentary. 
+
+
+ROS: preserved appetite. 
+
+
+PMH: CAD, obesity, diabetes, obstructive sleep apnea wears cpap at night, ESRD hemodialysis dependent, depression and GERD.  
+
+
+His current medications include aspirin 81 mg p.o. daily, Axid 150 mg p.o. b.i.d., Cardizem CD 360 mg p.o. daily, Effexor 125 mg p.o. daily, , Lantus 120 units subcutaneously b.i.d., Lasix 60 m p.o. BID nonHD days, lexapro 10 mg p.o. daily, Lipitor 10 mg p.o. daily, cyclosporine 75 mg p.o. b.i.d.,  Toprol-XL 50 mg p.o. daily, vitamin C 500 mg p.o. b.i.d., and vitamin E 400 international units p.o. b.i.d.
+
+
+All: pravastatin
+
+
+SH: lives w/ wife. Ex-smoker
+
+
+FH: positive for DM and CAD
+
+
+PE:  96.3  130/74  16 100% 2l
+NAD, JVP flat
+RRR distant HS
+CTA b/l
+Abd obese, soft, NT, ND
+L forearm AVF w/ good thrill and bruit
+LE no edema
+
+
+LABS
+pending
+
+
+IMPRESSION
+61 yo M s/p heart transplant and ESRD on HD presenting with elevated troponin. The trend of his creatinine from outside hospital is not suggestive of acute coronary syndrome. Troponin leak is a common finding in patients with ESRD on hemodialysis since the hemodynamic changes lead to subendocardial ischemia during short-time ultrafiltration. On the other hand, due to the difficulty in evaluating ACS in patients that had undergone transplant, will repeat cardiac markers for the next 12 hours and meanwhile, continue medical management with ASA, statin, BB and heparin. The lower EF on outside echo could suggest as well recent past event of myocardial infarction, especially with the multiple walls demonstrating hypokinesis. 
+&gt; Continue other home meds.
+&gt; Check CSA level in am.
+&gt; Since stable volume status, consider contacting renal in am for further decision about next HD session depending on lab results. 
+&gt; Will continue lasix on nonHD days. 
+&gt; Will defer further testing to primary cardiologist in am.
+&gt; CPAP at night
+&gt; Keep NPO after MN. 
+&gt; Will check PTH, iron store, Ca/PO4 and 25 vitD. 
+
+
+_________________
+Henry Norris, MD
+    
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2097-02-01" TYPE="DATE" comment="" />
+<DATE id="P1" start="43" end="51" text="02/01/97" TYPE="DATE" comment="" />
+<AGE id="P2" start="59" end="61" text="61" TYPE="AGE" comment="" />
+<DATE id="P3" start="104" end="108" text="2083" TYPE="DATE" comment="" />
+<DATE id="P4" start="170" end="171" text="F" TYPE="DATE" comment="" />
+<DATE id="P5" start="171" end="172" text="A" TYPE="DATE" comment="" />
+<DATE id="P6" start="172" end="173" text="T" TYPE="DATE" comment="" />
+<DATE id="P7" start="410" end="417" text="Tuesday" TYPE="DATE" comment="" />
+<AGE id="P8" start="1667" end="1669" text="61" TYPE="AGE" comment="" />
+<NAME id="P9" start="2814" end="2826" text="Henry Norris" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

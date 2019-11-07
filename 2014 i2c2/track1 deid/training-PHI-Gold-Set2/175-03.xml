@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2094-07-22
+
+CARDIOLOGY
+
+PERHAM MERITCARE CLINIC
+
+
+
+Reason for visit:
+
+   Ms. Neill came into the emergency room even though she was feeling fine because she insists that she wanted to see me today even though it is not an office day.  She was instructed to come to the office and I was able to see her in between catheterization cases
+
+
+
+Interval History:
+
+   Ms. Neill was recently evaluated at Janesville Clinic for her dyspnea.  She was concerned that her dyspnea was related to her lungs and I believe self referred to Janesville for further evaluation.  
+
+
+
+She was found by cardiac echo there to have significant decrease in her ejection fraction to 15%.  Previously here last fall her ejection fraction measured 43%.  She had global hypokinesis.
+
+
+
+She was hospitalized at Janesville and had an abnormal set of pulmonary function tests showing moderate restrictive disease.  She had some air trapping and was noted to have room air saturation 97% at rest, 94% with exertion.  Lower extremity ultrasound negative for DVT.  d dimer 400 rnage.  BNP elevated at 500.  VQ scan showed possible perfusion defect in the left lower lobe.  Previous CTA in the emergency room had been negative for pulmonary embolus.  Because of continued suspicion about PE she underwent pulmonary arterogram which was unremarkable.  A repeat VQ scan after a normal PA gram showed some persistence in the left lower lobe defect and ultimately it was felt that she did not have evidence of any thromboembolic pulmonary vascular disease.  Of note pulmonary artery pressure was approximately 50 at the time of PA gram.
+
+
+
+The patient was commenced on Lasix 20mg.  Her Atenolol was changed to Toprol.
+
+
+
+Unfortunately she does not bring with her a complete list of her medications today although she relates that she is taking:
+
+Lasix 20mg
+
+Toprol XL 50mg
+
+ASA 325mg
+
+Zestril 20mg
+
+Lantus 10 units hs
+
+Glucovance 2.5/500mg
+
+Multivitamin
+
+
+
+She relates that her dyspnea is better
+
+
+
+She is extremely reluctant to undergo Cardiac catheterization at this time despite recommendation on my part.  She would much prefer cardiac echo and if there is improvement, continued medical therapy.
+
+
+
+
+
+Past medical history:
+
+   1. Diabetes
+
+2. Hypertension
+
+3. Hyperlipidemia
+
+4. Sick Sinus syndrome requiring permanant pacemaker
+
+5. cardiomypathy
+
+6. Minimal CAD by cath 2090
+
+
+
+Family history:
+
+   No significant cardiac disease
+
+
+
+Social history:
+
+   She and her husband are doing well.  She has retired. Daughter is finished with college and Quarry Worker in the Bristow area.
+
+
+
+Review of systems:
+
+   Patinet is improved with regard to exertional tolerance as noted.  Denies edema, PND, orthopnea.  Still has dyspnea with walking flat ground but not until 1-2 blocks.
+
+
+
+Physical examination:
+
+-BP: 130/80  
+
+-General appearance:   No acute distress.
+
+-Skin:   No rashes, anicteric.
+
+-Heent:   Unremarkable
+
+-Neck:   CVP 8.  No carotid bruits
+
+-Chest:   Clear to auscultation and percussion.
+
+-Cardiac:   S1 S2.   No significant murmurs.  PMI normal.
+
+-Abdomen:   Obese, soft, no hepatosplenomegly
+
+-Extremities:   Good pulses, no edema
+
+-Neuro:   Non-focal
+
+-Pulse: 89  
+
+
+
+EKG:
+
+   Atrial triggered ventricular pacing with borderline first degree AV block.
+
+
+
+Impression:
+
+   Ms. Neill is very reluctant regarding angiography despite a drop in her ejection fraction.
+
+
+
+Her evaluation at Janesville Clinic for thromboembolic pulmonary disease was unremarkable.
+
+
+
+She was found to have a markedly positive ANA at 1-1280 with a speckled pattern and single stranded DNA postive.  Further markers etc are not available to me at this time.
+
+
+
+At this point, repeat cardiac echo at our institution will be obtained.
+
+
+
+Depending upon the results I will again approach the patient regarding considering Cardiac catheterization although in truth her pattern in LV dysfunction is more suggestive of recurrent myocarditis/undetermined cardiomyopathy than coronary disease.
+
+
+
+In addition, the patient relates that she stopped Lipitor due to myalgia and that she is taking a differrent cholesterol tablet at this time although once again she unable to name the medication.  She relates that she will call our office.
+
+
+
+Signed electronically by   Samantha G Noland MD  on  Jul 27, 2094     
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2094-07-22" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="40" end="63" text="PERHAM MERITCARE CLINIC" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="93" end="98" text="Neill" TYPE="PATIENT" comment="" />
+<NAME id="P3" start="380" end="385" text="Neill" TYPE="PATIENT" comment="" />
+<LOCATION id="P4" start="412" end="429" text="Janesville Clinic" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P5" start="539" end="549" text="Janesville" TYPE="HOSPITAL" comment="" />
+<DATE id="P6" start="699" end="703" text="fall" TYPE="DATE" comment="" />
+<LOCATION id="P7" start="796" end="806" text="Janesville" TYPE="HOSPITAL" comment="" />
+<DATE id="P8" start="2351" end="2355" text="2090" TYPE="DATE" comment="" />
+<PROFESSION id="P9" start="2525" end="2538" text="Quarry Worker" TYPE="PROFESSION" comment="" />
+<LOCATION id="P10" start="2546" end="2553" text="Bristow" TYPE="CITY" comment="" />
+<NAME id="P11" start="3267" end="3272" text="Neill" TYPE="PATIENT" comment="" />
+<LOCATION id="P12" start="3375" end="3392" text="Janesville Clinic" TYPE="HOSPITAL" comment="" />
+<NAME id="P13" start="4224" end="4241" text="Samantha G Noland" TYPE="DOCTOR" comment="" />
+<DATE id="P14" start="4250" end="4262" text="Jul 27, 2094" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

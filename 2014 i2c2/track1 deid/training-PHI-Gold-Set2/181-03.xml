@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2080-10-11
+
+
+Hearthstone Cardiovascular Division
+CVD R5
+53 Peterborough Place                                      LEVINE, LYDIA
+Hartsville, VA 84583                                           81325605
+(201) 957-6458                                           10/11/80
+
+
+This patient was seen in combination with Dr. Lance Camacho.  His note reflects our joint assessment and plan.
+
+HISTORY OF PRESENT ILLNESS:  Briefly, Ms. Levin is a 54-year-old female with diabetes, hypertension, hypercholesterolemia, who has known coronary artery disease.  She had an exercise test in 2076 for some vague symptoms, which was positive, and led to cardiac catheterization.  This catheterization revealed 60% LAD lesion, 50% first marginal, 60% RCA, and a 70% diagonal lesion.  She was maintained on medical management with few symptoms.  She has been lost to followup from Cardiology Clinic.  She has within the last week developed increasing symptoms with minimal exertion.  She underwent a stress test in which she was able to exercise for 6 minutes and 9 seconds on the Bruce protocol.  She achieved 93% of age-predicted maximal heart rate.  At 4 minutes, she developed 2 mm ST segment depressions in the anterior leads associated with chest discomfort.  She is a vague historian, but has not had clear rest anginal symptoms.
+
+PHYSICAL EXAMINATION:  On physical examination, she is mildly obese white female.  She has no jugular venous distention.  Her carotids are 2+.  Her heart shows normal S1 and S2.  There is a 2/6 holosystolic murmur at the apex.  Lungs are clear.  Abdomen is benign.  Extremities show no cyanosis or edema.  Electrocardiogram shows normal sinus rhythm, normal axis and intervals.  There is no evidence of ischemia or infarction.
+
+ASSESSMENT:  Ms. Levin is a 55-year-old diabetic woman with progressive anginal symptoms with known moderate 3-vessel coronary artery disease from 4 years ago with at least moderate risk, positive stress test.  After discussion with Dr. Camacho, our plan will be continue her on aspirin, beta-blocker, and a low-dose ACE inhibitor through her regimen.  She refuses to take a cholesterol-lowering agent due to previous concerns with myalgias.  She will be referred for cardiac catheterization within the next several days with a goal to better define her coronary anatomy for the possibility of percutaneous coronary intervention versus cardiac bypass surgery.
+
+
+
+
+
+______________________________
+Clyde Roe, MD
+
+
+Dictated By: Clyde Roe
+
+
+eScription document:1-3896405 AFFocus
+
+
+
+DD: 10/11/80
+DT: 10/12/80
+DV: 10/11/80
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2080-10-11" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="29" end="40" text="Hearthstone" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P3" start="72" end="93" text="53 Peterborough Place" TYPE="STREET" comment="" />
+<NAME id="P4" start="131" end="144" text="LEVINE, LYDIA" TYPE="PATIENT" comment="" />
+<LOCATION id="P5" start="145" end="155" text="Hartsville" TYPE="CITY" comment="" />
+<LOCATION id="P6" start="157" end="159" text="VA" TYPE="STATE" comment="" />
+<LOCATION id="P7" start="160" end="165" text="84583" TYPE="ZIP" comment="" />
+<ID id="P8" start="208" end="216" text="81325605" TYPE="MEDICALRECORD" comment="" />
+<CONTACT id="P9" start="217" end="231" text="(201) 957-6458" TYPE="PHONE" comment="" />
+<DATE id="P10" start="274" end="282" text="10/11/80" TYPE="DATE" comment="" />
+<NAME id="P11" start="331" end="344" text="Lance Camacho" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="439" end="444" text="Levin" TYPE="PATIENT" comment="" />
+<AGE id="P13" start="450" end="452" text="54" TYPE="AGE" comment="" />
+<DATE id="P14" start="588" end="592" text="2076" TYPE="DATE" comment="" />
+<NAME id="P15" start="1776" end="1781" text="Levin" TYPE="PATIENT" comment="" />
+<AGE id="P16" start="1787" end="1789" text="55" TYPE="AGE" comment="" />
+<NAME id="P17" start="1996" end="2003" text="Camacho" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="2455" end="2464" text="Clyde Roe" TYPE="DOCTOR" comment="" />
+<NAME id="P19" start="2484" end="2493" text="Clyde Roe" TYPE="DOCTOR" comment="" />
+<ID id="P20" start="2516" end="2525" text="1-3896405" TYPE="IDNUM" comment="" />
+<DATE id="P21" start="2541" end="2549" text="10/11/80" TYPE="DATE" comment="" />
+<DATE id="P22" start="2554" end="2562" text="10/12/80" TYPE="DATE" comment="" />
+<DATE id="P23" start="2567" end="2575" text="10/11/80" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2123-11-25
+
+			
+
+NPH 9 / R 0  (H)
+
+Lopressor 75 mg tid	795-76-17
+
+Lisinopril 10 mg qd	CORONA, Bruce
+
+ASA 325 mg qd	
+
+Zocor 40 mg qd (D/C'd by Dr. Chandler)
+
+Flomax 0.4 mg bid
+
+Celebrex 100 mg qd
+
+Colace 100 mg tid
+
+
+
+November 25, 2123
+
+
+
+Interim History:	
+
+Comes to review diabetes and related problems.
+
+He feels that he gets tired and needs to rest more after doing any exercise. He denies shortness of breath or chest pain, but he is not just describing generalized fatigue in that this is clearly related to physical exercise. He has not had an ETT since April, 2122.
+
+Home Blood Tests:  
+
+B 	103-149
+
+L	not testing
+
+S	not testing
+
+HS	150-175, about 2pc
+
+
+
+Retinopathy:	Sees Dr. Dailey each January. In January, he had very mild diabetic retinopathy and slight macular degeneration.
+
+Nephropathy:	Due for microalbumin/creatinine ratio; normal in past.
+
+Neuropathy:	No foot discomfort.
+
+Cardiac:	above; has seen Dr. Brian recently.
+
+Vascular:	No claudication
+
+
+
+Past Medical History: 
+
+Has had flu shot this year.
+
+He told me in 2119 that he had had a PneumoVax, but did not know exactly when.
+
+
+
+Social History: 
+
+His wife has had walking difficulty after radiation therapy for her gynecologic malignancy. She sees Dr. YAEL Pratt.
+
+
+
+Social History:
+
+He retired. A new management gave him 3 hours to decide whether to retire or to work nights.
+
+
+
+Review of Systems: above
+
+
+
+Physical Exam:	
+
+Looks well.
+
+BP:   126/60		P:   72, regular	
+
+Wt:   148.5 without shoes, down 17 since May !
+
+HEENT:	Anicteric. 
+
+Carotids:	Normal pulses, without bruits
+
+Chest:	Clear to auscultation
+
+Heart:	Normal S1; physiologic S2.  S4.  2/6 systolic ejection murmur
+
+Abdomen:	No hepatosplenomegaly. No masses. No tenderness. No palpable AAA. 
+
+Extremities:	Trace edema.         DP absent R, 1+ L.   PT absent.   There is an area at medial tip of L great toe with ? underlying dark blood and overlying callus that is of concern.
+
+
+
+Impressions and Plan:	
+
+Would check some BS before supper as well.
+
+I have several concerns:
+
+Could his exercise-induced fatigue be an angina-equivalent? Will defer to Dr. Brian with respect to the need for another ETT.
+
+His weight loss continues, without explanation. Dr. Chandler is aware of this.
+
+His L great toe is of concern. Dr. Aldridge has been following this area and he will continue to follow-up with him.
+
+A1c, CBC, Fe, TIBC, ferritin, SGOT, SGPT, alkaline phosphatase, Bili T/D, TSH, Electrolytes, BUN/Creatinine, spot urine for microalbumin and creatinine
+
+
+
+Appointments:	4 months
+
+
+
+cc:	Devan Chandler, M.D., Ph.D.
+
+	Bruce Brian, M.D.
+
+
+
+
+
+			Betty G. Pierce, M.D., Ph.D.
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2123-11-25" TYPE="DATE" comment="" />
+<ID id="P1" start="71" end="80" text="795-76-17" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="102" end="115" text="CORONA, Bruce" TYPE="PATIENT" comment="" />
+<NAME id="P3" start="162" end="170" text="Chandler" TYPE="DOCTOR" comment="" />
+<DATE id="P4" start="233" end="250" text="November 25, 2123" TYPE="DATE" comment="" />
+<DATE id="P5" start="575" end="586" text="April, 2122" TYPE="DATE" comment="" />
+<NAME id="P6" start="699" end="705" text="Dailey" TYPE="DOCTOR" comment="" />
+<DATE id="P7" start="711" end="718" text="January" TYPE="DATE" comment="" />
+<DATE id="P8" start="723" end="730" text="January" TYPE="DATE" comment="" />
+<NAME id="P9" start="935" end="940" text="Brian" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="1048" end="1052" text="2119" TYPE="DATE" comment="" />
+<NAME id="P11" start="1239" end="1249" text="YAEL Pratt" TYPE="DOCTOR" comment="" />
+<DATE id="P12" start="1499" end="1502" text="May" TYPE="DATE" comment="" />
+<NAME id="P13" start="2103" end="2108" text="Brian" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="2204" end="2212" text="Chandler" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="2267" end="2275" text="Aldridge" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="2535" end="2549" text="Devan Chandler" TYPE="DOCTOR" comment="" />
+<NAME id="P17" start="2565" end="2576" text="Bruce Brian" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="2591" end="2606" text="Betty G. Pierce" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

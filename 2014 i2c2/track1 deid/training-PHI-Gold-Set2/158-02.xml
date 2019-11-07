@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2099-06-29
+
+
+
+Mr. Fredrick returns to clinic three years following right middle lobectomy for T1N0 carcinoid.  He is a 50-year-old man without symptomatic complaints.  He denies any stridor, wheezing, productive cough, shortness of breath, hemoptysis or fever.  He had a recent chest CT scan which was of concern to him.
+
+On physical exam today, the patient appears quite well.  HEENT examination shows no JVD or thyromegaly.  No supraclavicular, cervical or axillary adenopathy is noted.  His blood pressure today is 132/92, with a regular heart rate and rhythm of 86.  S1 and S2 are within normal limits; there is no murmur, rub or gallop.  His resting O2 saturation is 98% on room air, with a respiratory rate of 16 per minute.  His temperature is 98.6, and his weight is 228 pounds.  Chest examination reveals clear breath sounds bilaterally to percussion and auscultatory examination.  He has good chest wall excursion and no evidence of wheezing.  He does not have any egophony.  His abdomen is soft, nondistended and nontender, without hepatosplenomegaly; and his extremities show no evidence of edema, cyanosis or clubbing.  The surgical wound is well-healed.  There is no evidence of local recurrence.
+
+The chest CT scan shows two small nodules that do not appear to have significantly changed given the correction for volume averaging. The area of his previous resection shows no suggestion of recurrence.
+
+In summary, Mr. Fredrick has two small pulmonary abnormalities that are not particularly suggestive of recurrent disease.  I agree with Dr. Ordonez's plan to repeat the CT scan in four months.
+
+
+Larry T. Jansen, M.D.
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2099-06-29" TYPE="DATE" comment="" />
+<NAME id="P1" start="34" end="42" text="Fredrick" TYPE="PATIENT" comment="" />
+<AGE id="P2" start="135" end="137" text="50" TYPE="AGE" comment="" />
+<NAME id="P3" start="1449" end="1457" text="Fredrick" TYPE="PATIENT" comment="" />
+<NAME id="P4" start="1573" end="1580" text="Ordonez" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="1628" end="1643" text="Larry T. Jansen" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2081-02-06
+
+54 yo for CPE
+
+
+
+MEDICATIONS
+
+
+
+FOLIC ACID      Tablet(s) PO  
+
+VIT C (ASCORBIC ACID)      Capsule(s) PO  
+
+VIT E (TOCOPHEROL-DL-ALPHA)      Capsule(s) PO  
+
+VIT B12 (CYANOCOBALAMIN)      Tablet(s) PO  
+
+VITAMIN B 6 (PYRIDOXINE HCL)      Tablet(s) PO  
+
+NIFEDIPINE (EXTENDED RELEASE)   30MG  1 Tablet(s) PO QD 
+
+CARDURA (DOXAZOSIN)   8MG  1 Tablet(s) PO QD 
+
+ALLOPURINOL   300MG  1 Tablet(s) PO QD 
+
+NAPROSYN (NAPROXEN)   500MG  1 Tablet(s) PO BID 
+
+VASOTEC (ENALAPRIL MALEATE)   20MG  2 Tablet(s) PO QD  
+
+ULTRAM   50MG      1-2 Tablet(s) PO BID  
+
+one touch test strips BLANK        test up to tid disp # 100
+
+LASIX (FUROSEMIDE)   40MG  1 Tablet(s) PO BID  
+
+
+
+
+
+PROBLEMS
+
+
+
+lower extremity ulcer  
+
+Nephropathy  
+
+Hypertension  
+
+Obesity  
+
+Diabetes mellitus  Type 2
+
+Hereditary spherocytosis  s/p splenectomy at age 18;
+
+S/P Pneumonia  12/2078.
+
+H/O Kidney stone  inactive problem
+
+Free text diagnosis  venous stasis/edema, R>L secondary to old injury;
+
+Sleep apnea  obstructive; on c-pap;
+
+Degenerative joint disease  bilateral knees;
+
+Gout  
+
+
+
+
+
+VITAL SIGNS
+
+
+
+BLOOD PRESSURE  128/70
+
+
+
+He has been doing very well, feeling well
+
+
+
+1. Obesity - he got up over 400 lbs over thanksgiving and has been watching his weight since Dec 24. Down to about
+
+   389.
+
+
+
+2. Nephrotic syndrome -proteinuria had decreased off Naprosyn. He is due for appt with Dr. Fry
+
+  but pedal edema has resolved and he has had no more problems with ulcers.
+
+
+
+3. Diabetes - sugar has been in good range on his home checks: 130-160 in the morning but 90-100 on later checks during the day.  Will check HGBAIC, lipids.  He does see the eye doctor yearly.
+
+
+
+4. BP in good range.
+
+
+
+ROS otherwise neg in detail
+
+
+
+Habits: no smoking, no alcohol, no exercise
+
+
+
+SH: enjoying new grandson
+
+
+
+FH: no change
+
+
+
+Exam: looks well, obese  P 72 reg  skin ok (stasis dermatitis on legs)
+
+          PERRL mouth ok poor teeth, no adenopathy or thyromegaly
+
+          lungs clear cor S1S2 abd obese minimal pedal edema
+
+          normal genitalia, rectal normal prostate normal stool guaiac neg
+
+
+
+HM: needs colon ca screening
+
+
+
+
+
+f/u 3 months
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2081-02-06" TYPE="DATE" comment="" />
+<AGE id="P1" start="28" end="30" text="54" TYPE="AGE" comment="" />
+<AGE id="P2" start="848" end="850" text="18" TYPE="AGE" comment="" />
+<DATE id="P3" start="868" end="875" text="12/2078" TYPE="DATE" comment="" />
+<DATE id="P4" start="1208" end="1220" text="thanksgiving" TYPE="DATE" comment="" />
+<DATE id="P5" start="1260" end="1266" text="Dec 24" TYPE="DATE" comment="" />
+<NAME id="P6" start="1385" end="1388" text="Fry" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

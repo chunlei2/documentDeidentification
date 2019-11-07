@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2076-01-26
+
+
+
+New Patient Visit
+
+
+
+
+
+
+
+Chief Complaint of:  2nd opinion
+
+
+
+History of Present Illness: 74 yo M who comes to the office in search of a second opinion about his care at the Boaz Nursing Home in Lynden. He has a hx of prostate CA diagnosed in 2059 at the BNH and had an RRP shortly thereafter at the BNH. Apparently his pathology showed extraprostatic extension and he received postop XRT. Apparently, he has remained disease free since this time until a PSA was checked this past October which was 3.53. He states that he had not had his PSA checked for a few years before this, admittedly perhaps because he had missed appointments. The Urologists at the BNH have since checked a bone scan and abdominal CT scan, all of which were negative. He has the reports here with him. The bone scan does show an abnormality at L5, but with data from plain films this appears to not be consistent with a met lesion. He also has had recurrent problems with bleeding from hemorrhagic radiation cystitis. This occurs once every few months or so and is not currently bothering him. He states that he is scheduled to have a cystoscopy at the BNH next week, however, is unsure if he has had a urine cytology done.
+
+
+
+
+
+Impression: In reviewing the patient's limited records that he brings and his history, it appears that he has had the appropriate care at the BNH. I have reassured him of this, and have indicated that he should just make sure that a urine cytology is also checked and that a repeat PSA be performed in the near future. I also informed him that he will likely need anti-androgen therapy in the future for further treatment of his prostate CA. He may follow up with me if he has questions in the future.
+
+
+
+
+
+Quinton H. Welch, MD
+
+Urology - Laurens Memorial Hospital
+
+Berkley Medical School
+
+782-010-9623
+
+
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2076-01-26" TYPE="DATE" comment="" />
+<AGE id="P1" start="119" end="121" text="74" TYPE="AGE" comment="" />
+<LOCATION id="P2" start="203" end="220" text="Boaz Nursing Home" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P3" start="224" end="230" text="Lynden" TYPE="CITY" comment="" />
+<DATE id="P4" start="272" end="276" text="2059" TYPE="DATE" comment="" />
+<LOCATION id="P5" start="284" end="287" text="BNH" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P6" start="329" end="332" text="BNH" TYPE="HOSPITAL" comment="" />
+<DATE id="P7" start="510" end="517" text="October" TYPE="DATE" comment="" />
+<LOCATION id="P8" start="686" end="689" text="BNH" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P9" start="1157" end="1160" text="BNH" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P10" start="1375" end="1378" text="BNH" TYPE="HOSPITAL" comment="" />
+<NAME id="P11" start="1740" end="1756" text="Quinton H. Welch" TYPE="DOCTOR" comment="" />
+<LOCATION id="P12" start="1772" end="1797" text="Laurens Memorial Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P13" start="1799" end="1821" text="Berkley Medical School" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P14" start="1823" end="1835" text="782-010-9623" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

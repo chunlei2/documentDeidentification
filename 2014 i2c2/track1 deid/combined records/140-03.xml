@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2082-07-15
+
+
+Internal Medicine
+Room 4B
+39 Mosele Court                                        Xanders, Ruth
+Changchun, LA 14176                                      56419927
+(109) 932-5237                                          
+07/15/82
+
+
+DIAGNOSIS:
+1. Hypertension.
+2. Pedal edema.
+3. Diabetes.
+
+HPI: Ruth is a 42 year old woman who presents for follow
+up of medical issues as well as for new pedal edema over the
+past 2 weeks.  When I saw her a few weeks ago, she was very
+dehydrated and required a decrease in dose of her Lasix due
+to symptoms of dehydration as well as a rise in her
+creatinine and BUN.  She responded well to this and then did
+well for a week or so.  Then she saw Dr. Vuong who
+increased her dose of Lasix back to 20 mg in the evening. 
+Subsequently, she developed pedal edema which, at times, is
+up to her knees and has been very bothersome for her.  Of
+note, she started Norvasc within the past few months and it
+was gradually increased to 10 mg a day.  She reports her
+blood sugars have been under excellent control, ranging from
+90-120s-140s especially over the past couple of weeks.  She
+has had a couple of lows in the 40s over the past couple of
+months.  She again has not yet followed up with Dr. Vicki
+Klein as I had recommended for help with her diabetes.  She
+reports her blood pressure in Dr. Vuong's office was
+normal as well.  She denies any orthopnea, PND, increased
+shortness of breath or dyspnea on exertion.  No fever or
+chills.  Remainder review of systems negative.  She does
+report sweating with meals that she is unsure how long she
+has had but has noted it over the past few months. 
+
+MEDICATIONS: As noted in the record and confirmed.
+
+ALLERGIES: Lisinopril causes cough.
+
+PHYSICAL EXAMINATION: She is a pleasant woman in no acute
+distress.  Her skin is very tanned.  Blood pressure 148/62,
+on repeat it is 160/70, pulse of 88, weight of 150, weight
+is up about 6 pounds for her.  HEENT within normal limits. 
+Neck: no JVD.  Lungs clear to auscultation bilaterally, no
+crackles or rhonchi.  Cardiovascular exam: normal S1, S2,
+II/VI systolic murmur at right sternal border.  Abdomen is
+benign.  Extremities: she has 1-2+ pitting pedal edema to
+mid shin.  
+
+IMPRESSION AND PLAN: 42 year old woman with:
+1. New pedal edema.  Reviewing patient's recent lab results,
+she does have proteinuria but it is actually improved since
+the last time it was checked and also her creatinine has
+improved.  I believe the pedal edema may be related to the
+Norvasc.  Therefore, I advised her to stop the Norvasc and
+she will call me tomorrow to let me know how she is doing as
+it may take a few days to resolve.  Will consider increasing
+her Lasix based on how she responds to discontinuing the
+Norvasc and her labs.  Will check basic metabolic panel and
+urinalysis as well.
+2. Hypertension since discontinuing Norvasc.  Will start
+atenolol in a low dose but advised her not to start this for
+the next few days.  Will start at 12.5 mg a day and increase
+to 25 mg a day and she will follow up in the next few weeks
+for a repeat blood pressure check.
+3. Diabetes.  The patient is strongly encouraged to make an
+appointment with Dr. Vicki Klein regarding the diabetes to
+see if there is anything more we can do to change her
+insulin regimen.  
+
+The patient to follow up with me by phone tomorrow and
+otherwise in the next 3 weeks for a blood pressure check and
+sooner if no resolution of her pedal edema.
+
+
+______________________________
+Susan A. Donaldson, M.D.
+
+
+CC:
+
+eScription document:7-376932
+
+DD: 07/15/82
+DT: 07/17/82
+DV: 07/15/82
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2082-07-15" TYPE="DATE" comment="" />
+<LOCATION id="P3" start="55" end="70" text="39 Mosele Court" TYPE="STREET" comment="" />
+<NAME id="P4" start="110" end="123" text="Xanders, Ruth" TYPE="PATIENT" comment="" />
+<LOCATION id="P5" start="124" end="133" text="Changchun" TYPE="CITY" comment="" />
+<LOCATION id="P6" start="135" end="137" text="LA" TYPE="STATE" comment="" />
+<LOCATION id="P7" start="138" end="143" text="14176" TYPE="ZIP" comment="" />
+<ID id="P8" start="181" end="189" text="56419927" TYPE="MEDICALRECORD" comment="" />
+<CONTACT id="P9" start="190" end="204" text="(109) 932-5237" TYPE="PHONE" comment="" />
+<DATE id="P10" start="247" end="255" text="07/15/82" TYPE="DATE" comment="" />
+<NAME id="P11" start="321" end="325" text="Ruth" TYPE="PATIENT" comment="" />
+<AGE id="P12" start="331" end="333" text="42" TYPE="AGE" comment="" />
+<NAME id="P13" start="708" end="713" text="Vuong" TYPE="DOCTOR" comment="" />
+<PHI id="P14" start="1245" end="1256" text="Vicki
+Klein" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="1345" end="1350" text="Vuong" TYPE="DOCTOR" comment="" />
+<AGE id="P16" start="2242" end="2244" text="42" TYPE="AGE" comment="" />
+<NAME id="P17" start="3176" end="3187" text="Vicki Klein" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="3481" end="3499" text="Susan A. Donaldson" TYPE="DOCTOR" comment="" />
+<ID id="P19" start="3533" end="3541" text="7-376932" TYPE="IDNUM" comment="" />
+<DATE id="P20" start="3547" end="3555" text="07/15/82" TYPE="DATE" comment="" />
+<DATE id="P21" start="3560" end="3568" text="07/17/82" TYPE="DATE" comment="" />
+<DATE id="P22" start="3573" end="3581" text="07/15/82" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2075-02-25
+
+CC: presents to urgent care for return to work letter
+ 
+HPI:  Pt is a 55 yo g1p0 who previously worked as an investment consultant who has
+not worked recently secondary to caring for her ill mother who has recently
+passed away.  Ms. Hardy was last seen for an annual exam in 10/73 after which
+she has neglected her f/u appts.  Of note, pt was recently seen in ED for c/o
+"it felt like my BP was high".  Pt had sl HA, but o/w denies confusion,
+lethargy, CP, SOB, visual changes, or generalized edema.
+ 
+PMHx: h/o transfusion prior to 2064 (adm for UTI)
+      h/o UTI
+      h/o abnl mammo
+SocHx:  divorced
+        h/o DV during marriage
+        now sexually active, condoms, no DV
+        no tob/etoh/ivda
+        works as invest cons. 
+FamHx:  mother died esoph CA at 90yo
+        2 bros, 1 sister with HTN 
+        1 sister DM 
+Meds:  MVI, Ca++  
+All:  NKDA
+ 
+PE:  BP 160/100 x2 (sitting)
+NAD, optic discs crisp, RRR no m/g/r, no carotid bruits, lungs CTA B, abd
+benign, breasts WNL, pelvic without lesions/masses/tend, ext WNL, neg guiaic.
+ 
+A/P:
+ 
+Breasts:  1.5 cm cluster of mildly susp calcifications in upper outer
+left breast on 2064 mammogram.  Pt failed f/u mammo despite repeated
+attempts to contact pt by PCP.  Breast exam nl today.  Pt rescheduled
+for mammo on 3/3/75.  Pt understands importance for compliance of this
+appt.
+ 
+Cardiac: Pt with likely primary HTN.  BP's 160/100 in 2073 and as well as
+today.  Pt refused meds at prev visit.  Counseled pt extensively regarding
+appropriate f/u with PCP.  No evidence end organ damage.  Will have pt f/u with
+PCP on 3/27 to initiate first line anti-HTN. 
+ 
+Gyn:  Pt still with regular menses.  No evidence of perimenopause on ROS.
+ 
+Endocrine:  Chol 279, HDL 60, TG 128, VLDL 26, CLDL 193.  Will f/u with PCP to
+address initiation of lipid lowering agent.  Recently dc'd Atkins diet.
+ 
+HCM:  Last pap WNL.  Pap performed today.  Needs to be scheduled for flex sig.
+ 
+Nelson Sims
+ ******** Approved but not reviewed by Provider ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2075-02-25" TYPE="DATE" comment="" />
+<AGE id="P1" start="98" end="100" text="55" TYPE="AGE" comment="" />
+<PROFESSION id="P2" start="137" end="158" text="investment consultant" TYPE="PROFESSION" comment="" />
+<NAME id="P3" start="261" end="266" text="Hardy" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="303" end="308" text="10/73" TYPE="DATE" comment="" />
+<DATE id="P5" start="561" end="565" text="2064" TYPE="DATE" comment="" />
+<PROFESSION id="P6" start="749" end="761" text="invest cons." TYPE="PROFESSION" comment="" />
+<AGE id="P7" start="795" end="797" text="90" TYPE="AGE" comment="" />
+<DATE id="P8" start="1163" end="1167" text="2064" TYPE="DATE" comment="" />
+<DATE id="P9" start="1300" end="1306" text="3/3/75" TYPE="DATE" comment="" />
+<DATE id="P10" start="1420" end="1424" text="2073" TYPE="DATE" comment="" />
+<DATE id="P11" start="1602" end="1606" text="3/27" TYPE="DATE" comment="" />
+<NAME id="P12" start="1953" end="1964" text="Nelson Sims" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

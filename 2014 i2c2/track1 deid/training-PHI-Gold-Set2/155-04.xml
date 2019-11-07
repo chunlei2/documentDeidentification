@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2086-11-18
+
+ACUTE STROKE CONSULTATION
+
+
+
+Called urgently to N-23 for further evaluation of sudden speech difficulty in this 83 yo RH woman who had undergone cardiac cath three and a half hours earlier.  She has remained alert, without somatic motor or sensory complaints, no visual or aural complaints, but some word retrieval difficulty and perhaps slurring of speech.  When first evaluated, she remained alert, oriented to situation, moving all four extremities with fair strength; normal LT. NO dysmetria or ataxia. VF full; {PERRLA; EOMs full s ptosis or nystagmus; no obvious facial or lingual weakness; modulates voice well.  Names; repeats simple test  words, but errs  on 33rd artillery battallion ("33 battallion"); repeats, but elides single words. No R-L confusion, no finger agnosia; no achromatopsia.
+
+
+
+NIHSS: 0000000000110= 2 (language/dysarthria)
+
+
+
+Taken urgently to CT: no ICH, CTA witrhout obvuious cutoff; taken to MRI
+
+
+
+PMH:
+
+She is hospitalized currrently b/o dyspnea, nonSTEMIA, flash pulmonary edema, s/p cath, awaiting CABG b/o triple vessel disease.
+
+Depression          
+
+Hyperlipidemia          
+
+Hypertension          
+
+glucose intolerance          
+
+Gastroesophageal reflux disease     ; EGD shows improvement in her ulcer.     
+
+H/O humerus fracture          left humeral head; comminuted; spring, 2081
+
+g5p5          
+
+h/o transient global amnesia          3/'76; carotid dopplers with rt. 15% ICA stenosis
+
+benign breast calcifications          9/'80 bx
+
+Basal cell carcinoma          of nose; 7/2084
+
+Osteoporosis          She declines Rx other than Ca/vit. D
+
+Lower GI bleeding          
+
+Colonic polyps    
+
+Osteoarthritis
+
+Never smoked.
+
+
+
+ON ASA 81, on iv heparin until cath; iv nitroglycerin currently, metoprolol, captopril, nexium, atorvastatin, MVI and calcium supplements.  NKDA.  
+
+
+
+IMPRESSION is of L opercular syndrome- embolic postprocedure.
+
+However, MR-DWI suggests shower of several tiny foci, ditally in cortex anteriorly both on R and L, and old R talamocapsular lacune (possibly related to her 2076 event).
+
+
+
+No a lysis candidate. Could resume heparin for her CAD, if indicated.
+
+
+
+
+
+K. Guzman, M.D.
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2086-11-18" TYPE="DATE" comment="" />
+<AGE id="P2" start="140" end="142" text="83" TYPE="AGE" comment="" />
+<DATE id="P3" start="1338" end="1350" text="spring, 2081" TYPE="DATE" comment="" />
+<DATE id="P4" start="1406" end="1411" text="3/'76" TYPE="DATE" comment="" />
+<DATE id="P5" start="1495" end="1500" text="9/'80" TYPE="DATE" comment="" />
+<DATE id="P6" start="1544" end="1550" text="7/2084" TYPE="DATE" comment="" />
+<DATE id="P7" start="2065" end="2069" text="2076" TYPE="DATE" comment="" />
+<NAME id="P8" start="2156" end="2165" text="K. Guzman" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

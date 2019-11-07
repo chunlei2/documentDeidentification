@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2078-11-16
+
+DEER LODGE CLINIC
+DLC Internal Medicine Associates
+13 Willow St                             Stephenson, Brenda
+Frackville, MD  73116                             92819461
+899-2991                                      11-16-78 
+ 
+ 
+ 
+Ms. Stephenson comes in for discussion of her stress test last week, which 
+was positive.  She went 9 minutes and 11 seconds on a modified Bruce to 
+a maximum heart rate of 131, which was 81% of predicted.  She had 1mm 
+and 2mm ST depressions, which was predictive of significant coronary 
+disease.  She continues to have chest pain only when she is exercising 
+vigorously, which is rapidly walking.  She vehemently denies that she 
+has any chest pain at rest or with less exertion.
+ 
+We began a discussion of what kind of intervention she might like to 
+have, and we will continue this over time, but currently she is not 
+interested in intervention if we can manage her medically.
+ 
+PLAN:  I will start her today on atenolol 25mg and on an aspirin.  She 
+refused nitroglycerine because she did not feel that she had any need 
+for taking it.  She will come back in one week to see how her pulse is 
+on atenolol.  
+ 
+Today blood pressure was 164/82 and her pulse was 80.  
+ 
+We will increase the atenolol as tolerated.  I will continue to work 
+with her strenuously on risk factor modification.  Her other risk 
+factors include diabetes, hypertension, and hypercholesterolemia, though 
+her cholesterol is current well controlled with an LDL of 95.  Her 
+diabetes is not as well controlled, and I think I will consider sending 
+her to Olivia Orosco for further management of this.
+ 
+She will return to see me in a week's time, and she understands that hip 
+if she has increasing chest pain that she should call me or come to the 
+hospital.
+ 
+ 
+ 
+_________________________
+Peggy Chaya Quebedeaux, M.D. 
+ 
+CT:QG:8455
+DD:11-16-78 
+DT:11-18-78 
+DV:11-16-78 
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2078-11-16" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="28" end="45" text="DEER LODGE CLINIC" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P2" start="46" end="49" text="DLC" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P3" start="79" end="91" text="13 Willow St" TYPE="STREET" comment="" />
+<NAME id="P4" start="120" end="138" text="Stephenson, Brenda" TYPE="PATIENT" comment="" />
+<LOCATION id="P5" start="139" end="149" text="Frackville" TYPE="CITY" comment="" />
+<LOCATION id="P6" start="151" end="153" text="MD" TYPE="STATE" comment="" />
+<LOCATION id="P7" start="155" end="160" text="73116" TYPE="ZIP" comment="" />
+<ID id="P8" start="189" end="197" text="92819461" TYPE="MEDICALRECORD" comment="" />
+<CONTACT id="P9" start="198" end="206" text="899-2991" TYPE="PHONE" comment="" />
+<DATE id="P10" start="244" end="252" text="11-16-78" TYPE="DATE" comment="" />
+<NAME id="P11" start="264" end="274" text="Stephenson" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="1594" end="1607" text="Olivia Orosco" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="1831" end="1853" text="Peggy Chaya Quebedeaux" TYPE="DOCTOR" comment="" />
+<ID id="P14" start="1863" end="1873" text="CT:QG:8455" TYPE="IDNUM" comment="" />
+<DATE id="P15" start="1877" end="1885" text="11-16-78" TYPE="DATE" comment="" />
+<DATE id="P16" start="1890" end="1898" text="11-18-78" TYPE="DATE" comment="" />
+<DATE id="P17" start="1903" end="1911" text="11-16-78" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

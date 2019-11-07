@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2076-03-20
+
+                          OFFICE NOTE
+                                
+Lydia Levine
+MR #813-25-60-5
+March 20, 2076
+ 
+Ms. Levine is a 50-year-old, perimenopausal woman with non-
+insulin dependent diabetes, hypercholesterolemia, and a history
+of tobacco use, who underwent a recent cardiac catheterization
+for a positive stress test.  At catheterization she had a
+proximal 60% lesion in her RCA as well as a mid 60-70% RCA
+lesion, obtuse marginal lesion of 60%, and an LAD mid lesion of
+60%.  At the time it was decided to continue medical therapy on
+Ms. Levine.  Since her cardiac catheterization approximately two
+weeks ago, she has had no recurrent symptoms of chest pain.  She
+continues on her medicines including Lopid 500 mg b.i.d.,
+atenolol, aspirin, and sublingual nitroglycerin as needed, as
+well as her oral hypoglycemic medicines.
+ 
+Physical Examination:  She is an obese, white female in no acute
+distress.  Her vital signs are stable.  Lungs are clear to
+auscultation.  Cardiac exam reveals regular rate and rhythm,
+normal S1 and S2; no murmurs, rubs or gallops.  She has no
+peripheral edema.
+ 
+Electrocardiogram shows a normal sinus rhythm at a rate of 70,
+axis of about 46, and there are no acute ST-T changes noted.
+ 
+Impression/Plan:  We will continue Ms. Levine on her current
+cardiac regimen.  She has three-vessel coronary artery disease,
+non-obstructive in nature.  As long as she remains asymptomatic
+on her current medical regimen, we will continue to follow her. 
+She will return for a follow-up visit in approximately three
+months.
+ 
+ 
+ 
+Quinn Ivey, M.D.
+ 
+DD: 03/20/76
+DT: 03/22/76
+DV: 03/20/76
+ 
+/aponte
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2076-03-20" TYPE="DATE" comment="" />
+<NAME id="P1" start="99" end="111" text="Lydia Levine" TYPE="PATIENT" comment="" />
+<ID id="P2" start="116" end="127" text="813-25-60-5" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="128" end="142" text="March 20, 2076" TYPE="DATE" comment="" />
+<NAME id="P4" start="149" end="155" text="Levine" TYPE="PATIENT" comment="" />
+<AGE id="P5" start="161" end="163" text="50" TYPE="AGE" comment="" />
+<NAME id="P6" start="581" end="587" text="Levine" TYPE="PATIENT" comment="" />
+<NAME id="P7" start="1299" end="1305" text="Levine" TYPE="PATIENT" comment="" />
+<NAME id="P8" start="1589" end="1599" text="Quinn Ivey" TYPE="DOCTOR" comment="" />
+<DATE id="P9" start="1612" end="1620" text="03/20/76" TYPE="DATE" comment="" />
+<DATE id="P10" start="1625" end="1633" text="03/22/76" TYPE="DATE" comment="" />
+<DATE id="P11" start="1638" end="1646" text="03/20/76" TYPE="DATE" comment="" />
+<NAME id="P12" start="1650" end="1656" text="aponte" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

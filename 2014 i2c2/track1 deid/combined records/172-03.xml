@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2066-05-20
+
+
+
+
+
+RANKIN GENERAL HOSPITAL
+Arthritis Center
+49 Autumn Glen Circle 					Rivers, Ida
+Brazzaville, UT  33953 					71701456
+(963) 403-5583						05/20/66
+
+
+1.	Sjogren's.
+2.	Diabetes.
+
+HPI:  Is now getting her diabetes care through the HMC.  Very impressed by 
+their detail.  Is getting better control for blood sugar.
+
+Is getting physical therapy for her knee where she has internal derangement.  
+Is wearing a brace which appears to help her instability.
+
+Noting some discomfort involving her feet.  Has a history of arterial 
+insufficiency.
+
+Remains on colchicine 0.6 per day for pseudogout and has had no recurrent 
+episodes.
+
+Sjogren's the same, no change in symptoms.
+
+PHYSICAL EXAMINATION:  OA of DIP and PIP joints and thumbs.  No active 
+synovitis of MCP joints, wrists, elbows, shoulders, or hips.  Right knee: 
+small cool effusion, instability noted, quadriceps laxity noted.  Left knee: 
+full motion.  Ankles and feet nontender.  Proximal muscle strength normal.  
+Peripheral pulses diminished, particularly left foot, intact right.
+
+ASSESSMENT:  
+1.	Sjogren's.
+2.	Chondrocalcinosis with probable pseudogout.
+3.	Diabetes.
+4.	Internal derangement.
+5.	Vascular insufficiency.
+
+PLAN:  
+1.	Baby aspirin.
+2.	Needs Primary Care Doctor.
+3.	Quadriceps-strengthening exercises.
+4.	Colchicine to block further episodes of pseudogout.
+5.	Follow-up six months.
+
+
+
+_______________________________
+Richard F. Vidal, M.D.
+
+DD: 05/20/66
+DT: 05/21/66
+DV: 05/20/66
+/turpin
+
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2066-05-20" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="32" end="55" text="RANKIN GENERAL HOSPITAL" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P3" start="73" end="94" text="49 Autumn Glen Circle" TYPE="STREET" comment="" />
+<NAME id="P4" start="100" end="111" text="Rivers, Ida" TYPE="PATIENT" comment="" />
+<LOCATION id="P5" start="112" end="123" text="Brazzaville" TYPE="CITY" comment="" />
+<LOCATION id="P6" start="125" end="127" text="UT" TYPE="STATE" comment="" />
+<LOCATION id="P7" start="129" end="134" text="33953" TYPE="ZIP" comment="" />
+<ID id="P8" start="140" end="148" text="71701456" TYPE="MEDICALRECORD" comment="" />
+<CONTACT id="P9" start="149" end="163" text="(963) 403-5583" TYPE="PHONE" comment="" />
+<DATE id="P10" start="169" end="177" text="05/20/66" TYPE="DATE" comment="" />
+<LOCATION id="P11" start="259" end="262" text="HMC" TYPE="HOSPITAL" comment="" />
+<NAME id="P12" start="1419" end="1435" text="Richard F. Vidal" TYPE="DOCTOR" comment="" />
+<DATE id="P13" start="1447" end="1455" text="05/20/66" TYPE="DATE" comment="" />
+<DATE id="P14" start="1460" end="1468" text="05/21/66" TYPE="DATE" comment="" />
+<DATE id="P15" start="1473" end="1481" text="05/20/66" TYPE="DATE" comment="" />
+<NAME id="P16" start="1483" end="1489" text="turpin" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2151-04-11
+
+ 
+                                              
+                                                     FHC CANCER CENTER
+                                         Oncology
+
+cc: locally advanced pancreatic cancer 
+
+INTERVAL HISTORY Black bowel movement x 2 this morning, ?tarry, feels lousy, + indigestion. 
+
+ONCOLOGIC HISTORY:  
+- Mr. Caldwell reports "zingers" beginning a couple of months ago, describing RUQ intermittent, fleeting boughts of pain. - -Mr. Caldwell was referred for CT scan and subsequently EUS/bx on 1/13/51, pathology of  pancreatic head mass is consistent with adenocarcinoma. 
+-Mr. Caldwell was referred to Dr. Macias and found to have unfortunately tumor abutting/invading portal vein and thus unresectable disease, and was referred for chemoradiation and potential IORT candidacy. 
+ - chemoradiation CIV 5FU/XRT 3/20/51 - current
+
+PMHx:
+CAD, s/p CATH, circumflex stent 3/151
+AAA repair 2131, endovascular repair 2/2151
+HTN
+NIDDM 6 years ago
+colonoscopy January 2151 - "nrml"
+spinal stenosis
+kidney stonesCholecystectomy 2131
+prostate cancer 2142, prostatectomy
+lung cancer (RLL) 2143, surgically resected...5 years for f/up no recurrence
+
+ALLERGY: IV contrast, parotid swelling , sudaphed - insomnia
+
+MEDICATIONS:
+Clopidogrel 75 MG (75MG TABLET take 1) PO QD 
+Compazine (PROCHLORPERAZINE MALEATE) 10 MG (10MG TABLET take 1) PO Q6H PRN 
+Ecasa 325 MG PO QD 
+Glyburide 10 MG (5MG TABLET ) PO BID 
+Lisinopril 5 MG (5MG TABLET take 1) PO QD 
+Metoprolol TARTRATE 25 MG (25MG TABLET take 1) PO BID 
+Simvastatin 80 MG (80MG TABLET take 1) PO QHS 
+
+PE:
+
+Vital Signs
+HT. 67.75 in
+WEIGHT 148 lb
+TEMPERATURE 96.7 F
+PULSE SITTING 76 
+RESPIRATORY RATE 16 
+BLOOD PRESSURE 80/54 
+PAIN LEVEL (0-10) 0 
+FATIGUE (0-10) 5 
+
+GENERAL:  ashen, arrives in wheelchair, fatigued
+HEENT: - oral/ph
+LUNG: CTA b 
+CARD: nrml S1S2, port site unremarkable
+ABD: +BS soft NTND 
+EXT: -e
+NEURO: AAO x 3
+
+
+Results
+04/11/2151 NA PEND,  K PEND,  CL PEND,  CO2 PEND,  BUN PEND,  CRE PEND,  GLU PEND
+
+04/11/2151 CA PEND,  TBILI PEND,  DBILI PEND,  TP PEND,  ALB PEND,  GLOB PEND
+
+04/11/2151 ALT/SGPT PEND,  AST/SGOT PEND,  ALKP PEND,  TBILI PEND,  DBILI PEND
+
+04/11/2151 WBC 7.4,  RBC 2.86 (L),  HGB 8.7 (L),  HCT 24.7 (L),  MCV 86,  MCH 30.5,  MCHC 35.4,  PLT 228
+     
+IMPRESSION: Mr. Caldwell is a 75 yo male with h/o CAD, AAA, NIDDM and locally advanced pancreatic adenocarcinoma receiving chemoradiation (CIV 5FU), with potential IORT (intraoperative radiation therapy) post treatment.  Black BM x 2 this AM, arrives in clinic ashen, hypotensive with decrease in HCT, likely GI bleeding. ?Source erosion of pancreatic cancer into duodenum, stomach; bleed from aneurysm, vs other.  Per ER systolics in 90s, to get IVF and anticipate stable for floor. Discussed GI consult and notify vascualr (Dr. Quan's team) of admission/GI bleeding.  Chemotherapy pump discontinued.  Transfusion/resuscitation as needed. 
+
+Angeline Barajas, MD
+Oncology
+
+cc:
+Vera, A. MD
+Quan, J. MD
+Macias, B. MD
+Erickson, F. MD
+Hendrickson, D. MD
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2151-04-11" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="130" end="133" text="FHC" TYPE="HOSPITAL" comment="" />
+<NAME id="P3" start="361" end="369" text="Caldwell" TYPE="PATIENT" comment="" />
+<NAME id="P4" start="484" end="492" text="Caldwell" TYPE="PATIENT" comment="" />
+<DATE id="P5" start="545" end="552" text="1/13/51" TYPE="DATE" comment="" />
+<NAME id="P6" start="630" end="638" text="Caldwell" TYPE="PATIENT" comment="" />
+<NAME id="P7" start="659" end="665" text="Macias" TYPE="DOCTOR" comment="" />
+<DATE id="P8" start="862" end="869" text="3/20/51" TYPE="DATE" comment="" />
+<DATE id="P9" start="919" end="924" text="3/151" TYPE="DATE" comment="" />
+<DATE id="P10" start="936" end="940" text="2131" TYPE="DATE" comment="" />
+<DATE id="P11" start="962" end="968" text="2/2151" TYPE="DATE" comment="" />
+<DATE id="P12" start="1003" end="1015" text="January 2151" TYPE="DATE" comment="" />
+<DATE id="P13" start="1070" end="1074" text="2131" TYPE="DATE" comment="" />
+<DATE id="P14" start="1091" end="1095" text="2142" TYPE="DATE" comment="" />
+<DATE id="P15" start="1129" end="1133" text="2143" TYPE="DATE" comment="" />
+<DATE id="P16" start="1926" end="1936" text="04/11/2151" TYPE="DATE" comment="" />
+<DATE id="P17" start="2009" end="2019" text="04/11/2151" TYPE="DATE" comment="" />
+<DATE id="P18" start="2088" end="2098" text="04/11/2151" TYPE="DATE" comment="" />
+<DATE id="P19" start="2168" end="2178" text="04/11/2151" TYPE="DATE" comment="" />
+<NAME id="P20" start="2295" end="2303" text="Caldwell" TYPE="PATIENT" comment="" />
+<AGE id="P21" start="2309" end="2311" text="75" TYPE="AGE" comment="" />
+<NAME id="P22" start="2809" end="2813" text="Quan" TYPE="DOCTOR" comment="" />
+<NAME id="P23" start="2921" end="2937" text="Angeline Barajas" TYPE="DOCTOR" comment="" />
+<NAME id="P25" start="2956" end="2964" text="Vera, A." TYPE="DOCTOR" comment="" />
+<NAME id="P26" start="2968" end="2976" text="Quan, J." TYPE="DOCTOR" comment="" />
+<NAME id="P27" start="2980" end="2990" text="Macias, B." TYPE="DOCTOR" comment="" />
+<NAME id="P28" start="2994" end="3006" text="Erickson, F." TYPE="DOCTOR" comment="" />
+<NAME id="P29" start="3010" end="3025" text="Hendrickson, D." TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

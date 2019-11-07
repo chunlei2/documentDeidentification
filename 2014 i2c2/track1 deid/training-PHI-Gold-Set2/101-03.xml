@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2079-08-11
+
+
+
+
+MERCY CARE CENTER
+MERCY Internal Medicine Associates
+07 Newburgh Street
+Terrell, AR  72985
+
+Russell, Donna
+10418061
+08/11/79
+
+
+HISTORY OF PRESENT ILLNESS:  Ms. Russell returns for further evaluation.  
+She has been doing very well.  She has been exercising and has lost from 
+200 to 170 pounds.  She is feeling very well.
+
+Notably, Dr. Lu sent her for a follow-up ETT.  He did not find the 
+first ETT acceptable.  The second ETT was grossly positive.  As a result 
+of this, I think it is reasonable for us in addition to having her on 
+atenolol to stop the hydrochlorothiazide, put her on ramipril and a 
+nitrate.  She is having once every two weeks feeling a slight twinge of 
+pain that she was having before when she went up steps.
+
+She did have hyperlipidemia.  We have put her on Lipitor, which has 
+provided some control.  However, her HCL is still 36 and LDL 118, which 
+is not an excellent ratio.  Nonetheless, her CK has been within normal 
+limits.
+
+She also has right shoulder lipoma.  This has become apparent since she 
+lost so much weight.  She wanted to see someone in follow up and I have 
+recommended Dr. Dawson.
+
+PHYSICAL EXAMINATION:  Her weight is 170 pounds, blood pressure is 
+120/64, respiratory rate is 20, and pulse is 64.  Neck is supple.  There 
+is no lymphadenopathy.  Chest is clear to percussion and auscultation.  
+Cardiac exam is regularly regular with no murmurs, gallops, or rubs.  
+Abdomen is soft and nontender.  There is no hepatosplenomegaly.  
+Extremities are clear of cyanosis, clubbing, and edema.
+
+LABORATORY DATA:  None today.
+
+
+Russell, Donna
+10418061
+08/11/79
+Page 2
+
+
+ASSESSMENT AND PLAN:
+1.	CAD.  We will start her on ramipril and long acting nitrate.  I also 
+gave her nitroglycerine.  We will stop her hydrochlorothiazide but 
+continue her atenolol.  She is also on one aspirin a day along with 
+Premarin and Synthroid.
+2.	Weight loss.  She will continue to exercise.  I suspect she is going 
+to lose more weight.  This is excellent.
+3.	Coronary artery disease.  Dr. Lu will be deciding when to do a 
+cardiac catheterization.  It is his opinion, and I must concur that 
+this is an appropriate next step with Ms. Russell.  She is going to 
+delay her usual trip to Rhode Island until we can get final assessment 
+done on this variety of medical issues.
+
+
+
+_______________________________
+Quinn Rutledge, M.D.
+
+QR/RM5
+055626.doc
+DD:  
+08/16/2079
+DT:  08/18/2079
+DV:  08/11/2079
+
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2079-08-11" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="31" end="48" text="MERCY CARE CENTER" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P2" start="49" end="54" text="MERCY" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P3" start="84" end="102" text="07 Newburgh Street" TYPE="STREET" comment="" />
+<LOCATION id="P4" start="103" end="110" text="Terrell" TYPE="CITY" comment="" />
+<LOCATION id="P5" start="112" end="114" text="AR" TYPE="STATE" comment="" />
+<LOCATION id="P6" start="116" end="121" text="72985" TYPE="ZIP" comment="" />
+<NAME id="P7" start="123" end="137" text="Russell, Donna" TYPE="PATIENT" comment="" />
+<ID id="P8" start="138" end="146" text="10418061" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P9" start="147" end="155" text="08/11/79" TYPE="DATE" comment="" />
+<NAME id="P10" start="191" end="198" text="Russell" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="367" end="369" text="Lu" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="1151" end="1157" text="Dawson" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="1601" end="1615" text="Russell, Donna" TYPE="PATIENT" comment="" />
+<ID id="P14" start="1616" end="1624" text="10418061" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P15" start="1625" end="1633" text="08/11/79" TYPE="DATE" comment="" />
+<NAME id="P16" start="2045" end="2047" text="Lu" TYPE="DOCTOR" comment="" />
+<NAME id="P17" start="2190" end="2197" text="Russell" TYPE="PATIENT" comment="" />
+<LOCATION id="P18" start="2241" end="2253" text="Rhode Island" TYPE="STATE" comment="" />
+<NAME id="P19" start="2364" end="2378" text="Quinn Rutledge" TYPE="DOCTOR" comment="" />
+<NAME id="P20" start="2386" end="2388" text="QR" TYPE="DOCTOR" comment="" />
+<NAME id="P21" start="2389" end="2392" text="RM5" TYPE="USERNAME" comment="" />
+<ID id="P22" start="2393" end="2399" text="055626" TYPE="IDNUM" comment="" />
+<DATE id="P23" start="2410" end="2420" text="08/16/2079" TYPE="DATE" comment="" />
+<DATE id="P24" start="2426" end="2436" text="08/18/2079" TYPE="DATE" comment="" />
+<DATE id="P25" start="2442" end="2452" text="08/11/2079" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

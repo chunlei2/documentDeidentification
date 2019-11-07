@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2067-03-09
+
+TRIBAL HEALTH DEPARTMENT
+Tribal Internal Medicine Associates
+32 Cambridge St                             Hart, Matthew
+Lonaconing, CT  91197                             46103196
+829-1293                                      3-09-67
+ 
+ 
+ 
+HPI:  The patient is a 43 year old man with multiple medical problems 
+who presents for routine follow up.
+ 
+CURRENT ISSUES:
+1.   Adult onset diabetes mellitus.  The patient had a hemoglobin A1C 
+     approximately a month and a half ago, which was 9.5.  We discussed 
+     this in the office today, with the general concept that someone who 
+     is taking three injections of insulin a day should have much 
+     tighter control.  He states he has been following his finger 
+     sticks, though admits that occasionally forgets to do this. His 
+     current regimen is 35 units of NPH in the morning with 20 units of 
+     regular.  At bedtime, he is taking 35 units of NPH and 6 units of 
+     regular at dinnertime.  He denies any symptoms of hypoglycemia.
+2.   Hypercholesterolemia.  Of note, the patient recently experienced a 
+     rash to his simvastatin.  This resolved on the discontinuation of 
+     the simvastatin.  Of note, his most recent cholesterol was 314 in 
+     January, 2067.  He has met with the dietician to discuss the 
+     institution of a low-fat diet, and states that he tries to avoid 
+     fats.
+3.   Venous insufficiency secondary to deep venous thrombosis.  The 
+     patient states he is doing better since the institution of a 
+     Jobst stocking.  He still notes significant edema when he doesn't 
+     wear this, but notes an improvement in ambulation when he is 
+     compliant with the stocking.
+ 
+PHYSICAL EXAMINATION:  Blood pressure:  130/90.  Heart rate:  76.  
+Respiratory rate:  12 and unlabored.  Cardiac exam:  Regular rate and 
+rhythm, normal S1 and S2, no murmurs.  Lungs are clear to auscultation.  
+Abdomen:  Soft, non-tender, obese, with active bowel sounds.  
+Extremities show no clubbing or cyanosis.  There is 1+ pedal edema of 
+the right lower extremity, which is covered with a Jobst stocking.  Foot 
+care remains excellent.
+ 
+IMPRESSION:                         
+1.   Adult onset diabetes mellitus.  We will increase the patient's 
+     morning NPH dose to 40 units.  He will once again try to become 
+     more compliant with his diet.  He will be scheduled for a follow up 
+     ophthalmologic examination.
+2.   Hypercholesterolemia.  We will hold off re-starting therapy given 
+     his recent rash to simvastin.  We will re-check a fasting lipid 
+     profile as well as a set of LFT's.
+TRIBAL HEALTH DEPARTMENT
+Tribal Internal Medicine Associates
+01 Cambridge St                             Hart, Matthew
+Lonaconing, CT  91197                             46103196
+829-1293                                      3-09-67
+ 
+ 
+ 
+PAGE 2
+ 
+3.   General health maintenance.  We will once again schedule a follow 
+     up examination with the dietician as well as the ophthalmologist.  
+     He will keep a log of his sugars and follow up with me in the 
+     clinic in approximately one to two months.
+ 
+ 
+ 
+_________________________
+Michael Uecker, M.D.
+ 
+GG:XO:4403
+DD:3-27-67
+DT:3-27-67
+DV:3-09-67
+----------------------------------------------------------------------------
+Preceptor HINES,ALEXANDER SAMMY,M.D. Note:
+Pt seen with Dr. Uecker.  Rash resolved off simvastatin.  Blood sugar and BP
+sub-optimally controlled.  Agree with plan to increase BP meds and moniotr
+FSGs more closely.  Fasting lipid profile prior to restarting statin.
+Alexander Hines, MD
+ ******** Approved by Attending HINES,ALEXANDER SAMMY,M.D. ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2067-03-09" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="28" end="52" text="TRIBAL HEALTH DEPARTMENT" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P2" start="53" end="59" text="Tribal" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P3" start="89" end="104" text="32 Cambridge St" TYPE="STREET" comment="" />
+<NAME id="P4" start="133" end="146" text="Hart, Matthew" TYPE="PATIENT" comment="" />
+<LOCATION id="P5" start="147" end="157" text="Lonaconing" TYPE="CITY" comment="" />
+<LOCATION id="P6" start="159" end="161" text="CT" TYPE="STATE" comment="" />
+<LOCATION id="P7" start="163" end="168" text="91197" TYPE="ZIP" comment="" />
+<ID id="P8" start="197" end="205" text="46103196" TYPE="MEDICALRECORD" comment="" />
+<CONTACT id="P9" start="206" end="214" text="829-1293" TYPE="PHONE" comment="" />
+<DATE id="P10" start="252" end="259" text="3-09-67" TYPE="DATE" comment="" />
+<AGE id="P11" start="289" end="291" text="43" TYPE="AGE" comment="" />
+<DATE id="P12" start="1249" end="1262" text="January, 2067" TYPE="DATE" comment="" />
+<LOCATION id="P13" start="2616" end="2640" text="TRIBAL HEALTH DEPARTMENT" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P14" start="2641" end="2647" text="Tribal" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P15" start="2677" end="2692" text="01 Cambridge St" TYPE="STREET" comment="" />
+<NAME id="P16" start="2721" end="2734" text="Hart, Matthew" TYPE="PATIENT" comment="" />
+<LOCATION id="P17" start="2735" end="2745" text="Lonaconing" TYPE="CITY" comment="" />
+<LOCATION id="P18" start="2747" end="2749" text="CT" TYPE="STATE" comment="" />
+<LOCATION id="P19" start="2751" end="2756" text="91197" TYPE="ZIP" comment="" />
+<ID id="P20" start="2785" end="2793" text="46103196" TYPE="MEDICALRECORD" comment="" />
+<CONTACT id="P21" start="2794" end="2802" text="829-1293" TYPE="PHONE" comment="" />
+<DATE id="P22" start="2840" end="2847" text="3-09-67" TYPE="DATE" comment="" />
+<NAME id="P23" start="3156" end="3170" text="Michael Uecker" TYPE="DOCTOR" comment="" />
+<ID id="P24" start="3179" end="3189" text="GG:XO:4403" TYPE="IDNUM" comment="" />
+<DATE id="P25" start="3193" end="3200" text="3-27-67" TYPE="DATE" comment="" />
+<DATE id="P26" start="3204" end="3211" text="3-27-67" TYPE="DATE" comment="" />
+<DATE id="P27" start="3215" end="3222" text="3-09-67" TYPE="DATE" comment="" />
+<NAME id="P28" start="3310" end="3331" text="HINES,ALEXANDER SAMMY" TYPE="DOCTOR" comment="" />
+<NAME id="P29" start="3360" end="3366" text="Uecker" TYPE="DOCTOR" comment="" />
+<NAME id="P30" start="3565" end="3580" text="Alexander Hines" TYPE="DOCTOR" comment="" />
+<NAME id="P31" start="3617" end="3638" text="HINES,ALEXANDER SAMMY" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

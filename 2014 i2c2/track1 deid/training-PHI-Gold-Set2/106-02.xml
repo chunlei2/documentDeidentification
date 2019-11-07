@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2085-05-11
+
+
+
+
+NAME:    Justus, Quiana
+MRN:       9814048
+
+Quiana is a 73-year-old woman with hypertension, diabetes and spinal stenosis who
+comes in for a physical.  She has spinal stenosis as documented by her prior MRI's. 
+She can usually walk about 5 minutes and then develops pain in her thighs and
+calves.  She has some knee pain with walking, but it is not consistent and does not
+occur after short 5-minute distances.  The thigh and calf pain resolve with rest.  She
+does not always have back pain with the thigh and calf pain.  She also has occasional
+right lateral foot pain that feels like an achy arthritic pain in her foot.  She takes
+Vioxx occasionally for that foot pain.  She does not have any dysesthesias or
+numbness in her feet or hands.  She has no recent trauma, fevers or chills.  She has
+no change in her bowel or bladder.
+
+She has type 2 diabetes.  She has been taking Glyburide 5 mg p.o. q.d.  Her weight is
+stable.  She does get annual ophthalmology evaluations.  
+
+She has a history of hypertension. She has not had any chest pain, PND, orthopnea,
+dyspnea on exertion or edema.  Her blood pressure is never well controlled when she
+comes for her visits here, but her daughter, Iyanna Field, a nurse takes her
+blood pressure at home and she reports that it is typically 120/70.  She is currently on
+Propranolol LA 160 2 tabs p.o. q.d., Dyazide 1 tab p.o. q.d., Captopril 50 mg t.i.d.
+
+She has a history of hyperlipidemia.  She was intolerant of Lipitor in the past.  She
+has been taking the Lopid 600 mg p.o. b.i.d. without complications.  She does not do
+regular breast self-exams but has not noted any masses.  She is status-post
+menopause.  We discussed DEXA bone density scanning, but she did not want to do
+it at this time.
+
+We also discussed colon cancer screening.  For now she elects to do stool guaiacs x 3. 
+She has not had any nausea, vomiting, diarrhea, melena or hematochezia, abdominal
+pain or weight loss.    
+
+Please see her complete medication update in the LMR. 
+
+SOCIAL HISTORY: She is married.  She drinks occasional but not excessive alcohol. 
+She does not smoke.  There is no history of domestic abuse.
+
+FAMILY HISTORY: Please see family history update in the LMR.
+
+REVIEW OF SYSTEMS: Negative.
+
+She has not had a recent tetanus shot.
+
+PHYSICAL EXAM: She is a very pleasant woman in no acute distress. Her blood
+pressure here is 150/90.  Her neck is supple without JVD or bruits.  Lungs are clear
+without wheezes, rales or rhonchi.  Her breasts are without masses or adenopathy. 
+Her cardiac exam shows a regular rate and rhythm, normal S1, S2 without S3, S4 or
+murmur.  Abdomen is soft, nontender without hepatosplenomegaly.  She is
+moderately obese.  Her rectal exam is without masses.  She has no spinal tenderness
+on palpation.  Her lower extremity strength is 5/5.  She does not have any peripheral
+edema.  Her distal pulses are 2+.  Her sensation is intact to light touch in her feet.  
+
+ASSESSMENT AND PLAN:  
+
+(1)  Back pain with calf and thigh pain with walking.  This is probably due to her
+     spinal stenosis.  However, she is at risk for claudication given her diabetes,
+     hypertension and hyperlipidemia.  We will check lower extremity noninvasive
+     arterial studies to rule out claudication.  She can take the Vioxx p.r.n. for her
+     foot pain which I do not think is related.
+
+(2)  Type 2 diabetes.  She needs a hemoglobin A1c.  Her blood pressure ideally
+     should be under 130/85.  She reports that it is consistently below that level
+     when her daughter checks it.  She needs as chem-7.  She has no evidence for
+     neuropathy at this time.
+
+(3)  Health maintenance.  She needs a tetanus shot which she was given today. 
+     Will check stool guaiacs x 3.  
+
+We discussed calcium supplementation for osteoporosis prevention.  She will follow
+up in six months and p.r.n.  She has not had a recent tetanus shot. She was given a
+tetanus shot in the left deltoid without complications.
+
+
+Ida Xayachack, M.D.
+
+IX/delarosa/bishop
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2085-05-11" TYPE="DATE" comment="" />
+<NAME id="P1" start="40" end="54" text="Justus, Quiana" TYPE="PATIENT" comment="" />
+<ID id="P2" start="66" end="73" text="9814048" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P3" start="75" end="81" text="Quiana" TYPE="PATIENT" comment="" />
+<AGE id="P4" start="87" end="89" text="73" TYPE="AGE" comment="" />
+<NAME id="P5" start="1220" end="1232" text="Iyanna Field" TYPE="PATIENT" comment="" />
+<PROFESSION id="P6" start="1236" end="1241" text="nurse" TYPE="PROFESSION" comment="" />
+<NAME id="P7" start="3982" end="3995" text="Ida Xayachack" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="4003" end="4005" text="IX" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="4006" end="4014" text="delarosa" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="4015" end="4021" text="bishop" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

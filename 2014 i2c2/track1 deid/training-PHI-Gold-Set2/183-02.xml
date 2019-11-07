@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2093-01-18
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+January 18, 2093
+ 
+ 
+ 
+Edward Xanthos, M.D.
+Saint Francis Outpatient Center
+744 Greatstone Drive
+Boulder, CO 72529
+ 
+RE:  Roberta Vincent
+     MR #380-18-32-2
+ 
+Dear Dr. Xanthos,
+ 
+We had the privilege of seeing your patient, Mrs. Roberta Vincent, in
+the Renal Services Clinic on January 18, 2093.  We will
+not repeat her history as you know it well. Over the past three
+months Mrs. Vincent has complained of increasing fatigue,
+occasionally sleeping more than 12 hours per night, forgetfulness
+and tingling of the fingers and toes. She has maintained a
+relatively good appetite and denies nausea, vomiting or shortness
+of breath.  An Iothalamate GFR test obtained on December 14, 2092
+revealed a glomerular infiltration rate of approximately 10 ml per
+minute, suggesting profound loss of renal function.
+ 
+On physical examination today her weight is 99.5 kilograms or 219
+pounds.  Blood pressure is 150/90, pulse is 80 and regular.  The
+lungs are clear. There is no peripheral edema. Again, there marked
+cushingoid features. Despite overall weight loss, Mrs. Vincent
+comments that she has gained facial and abdominal fat as well as
+facial hair over the past several months.
+ 
+In summary, Mrs. Vincent appears to be developing early symptoms of
+uremia.  Given her advanced azotemia we believe that she should
+undergo creation of an arteriovenous fistula so that she may start
+dialysis within the next several months. We have arranged to
+recheck her chemistries today.  We would also recommend that she
+undergo repeat work up for her cushingoid features.  Although renal
+failure may alter hormonal balance and may promote occasional
+androgenic features in woman, this is beyond ordinary.
+ 
+Thank you once again for allowing us to participate in her care.  
+ 
+Edward Xanthos, M.D.
+RE:  Roberta Vincent
+MR #380-18-32-2
+January 18, 2093
+Page #2
+ 
+ 
+Please do not hesitate to contact us if we can be of any further
+assistance.
+ 
+Sincerely,
+ 
+ 
+ 
+ 
+Elias Q. Mercado, M.D.
+ 
+ 
+ 
+S. Quenton Jolley, M.D.
+ 
+DD: 01/18/93
+DT: 01/24/93
+DV: 01/18/93
+/knox
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2093-01-18" TYPE="DATE" comment="" />
+<DATE id="P1" start="48" end="64" text="January 18, 2093" TYPE="DATE" comment="" />
+<NAME id="P2" start="71" end="85" text="Edward Xanthos" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="92" end="123" text="Saint Francis Outpatient Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P4" start="124" end="144" text="744 Greatstone Drive" TYPE="STREET" comment="" />
+<LOCATION id="P5" start="145" end="152" text="Boulder" TYPE="CITY" comment="" />
+<LOCATION id="P6" start="154" end="156" text="CO" TYPE="STATE" comment="" />
+<LOCATION id="P7" start="157" end="162" text="72529" TYPE="ZIP" comment="" />
+<NAME id="P8" start="170" end="185" text="Roberta Vincent" TYPE="PATIENT" comment="" />
+<ID id="P9" start="195" end="206" text="380-18-32-2" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P10" start="218" end="225" text="Xanthos" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="279" end="294" text="Roberta Vincent" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="328" end="344" text="January 18, 2093" TYPE="DATE" comment="" />
+<NAME id="P14" start="431" end="438" text="Vincent" TYPE="PATIENT" comment="" />
+<DATE id="P15" start="716" end="733" text="December 14, 2092" TYPE="DATE" comment="" />
+<NAME id="P16" start="1108" end="1115" text="Vincent" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="1242" end="1249" text="Vincent" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="1806" end="1820" text="Edward Xanthos" TYPE="DOCTOR" comment="" />
+<NAME id="P19" start="1832" end="1847" text="Roberta Vincent" TYPE="PATIENT" comment="" />
+<ID id="P20" start="1852" end="1863" text="380-18-32-2" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P21" start="1864" end="1880" text="January 18, 2093" TYPE="DATE" comment="" />
+<NAME id="P22" start="1991" end="2007" text="Elias Q. Mercado" TYPE="DOCTOR" comment="" />
+<NAME id="P23" start="2020" end="2037" text="S. Quenton Jolley" TYPE="DOCTOR" comment="" />
+<DATE id="P24" start="2050" end="2058" text="01/18/93" TYPE="DATE" comment="" />
+<DATE id="P25" start="2063" end="2071" text="01/24/93" TYPE="DATE" comment="" />
+<DATE id="P26" start="2076" end="2084" text="01/18/93" TYPE="DATE" comment="" />
+<NAME id="P27" start="2086" end="2090" text="knox" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

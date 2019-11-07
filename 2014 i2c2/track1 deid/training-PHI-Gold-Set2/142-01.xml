@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2078-10-28
+
+
+	CARDIOLOGY
+	
+
+	PREAKNESS HEALTHCARE CENTER
+	
+
+
+	Interval History:
+   Roger Easterling, M.D. 
+27 Caroll St, #734 
+Bluefield, ME 12111 
+
+Dear Dr. Easterling: 
+
+I had the pleasure of seeing Mr. Brian Martin in the Cardiology Service on 10/28/2078. He has a history of chest pain and was evaluated at Klickitat Valley Hospital for the same by you and, I believe, Dr. Inglis. He reportedly had an echo and a treadmill test that were unconcerning. 
+
+His episodes of chest pain are interesting. He feels a sharp pain for maybe a second or two in his chest followed by rapid palpitations associated with some jaw aching. The palpitations are of sudden onset as well as sudden offset. They were occurring up to one time per day through his hospitalization at Klickitat Valley a couple of weeks ago and now have occurred on two occasions since discharge. He is otherwise in fairly good health.
+
+
+	Past medical history:
+   1) Nonalcoholic steatotic hepatosis 
+2) Palpitations 
+3) Rotator cuff surgery in 2071
+
+	
+
+	Allergies:
+	
+No known drug allergy
+
+
+	Medications (Confirmed):
+
+	
+aspirin  81 mg po daily
+penicillin VK  500 mg po 4 x day
+
+
+	Family history:
+   Mother died at age 62 of a heart attack. He has four siblings, all in good health. 
+
+
+	Social history:
+   He is married with two sons, age 21 and 18, both of whom are in good health. He works as an Revenue Officer for Springfield Armory Inc in Picture Rocks, Maine.
+
+Habits: He has never used street drugs. He does not smoke tobacco. He drinks 6 beers/alcohol per week and 2 cups of coffee per day.
+
+
+	Review of systems:
+   Negative in detail as detailed on his questionnaire and confirmed during the office visit.
+
+Physical examination:
+	
+-BP: 110/70  
+-Pulse: 59  BPM regular
+-resp. rate: 16  unlabored
+-Skin:   without lesions or nodules.
+-HEENT:   EOMI.  PERRLA.  Sclerae are anicteric.  Conjunctivae noninjected.  Mucous membranes moist.  No oropharyngeal lesions.
+-Neck:   carotids 2+ without bruits; jugular venous pressure &lt;5 cm of water; thyroid without nodules; trachea midline.
+-Chest:   lungs clear to auscultation, resonant to percussion, and symmetric in expansion.
+-Cardiac:   regular with a normal S1/S2; no murmurs, rubs, or gallops.
+-Abdomen:   soft, nontender, without organomegaly or other masses.
+-Extremities:   no clubbing, cyanosis, or edema.
+-Neuro:   reflexes were 1+; cranial nerves 2-12 were intact; motor and sensory modalities were intact in all four extremities.
+
+
+	EKG:
+   10/28/2078: Sinus bradycardia. Otherwise the tracing is within normal limits.
+
+
+	Assessment and plan:
+   Mr. Martin has episodic palpitations associated with some chest discomfort. Sometimes it is difficult for patients to distinguish between palpitations and chest pain per se. It may also be that his palpitations raise his heart rate to the point where he becomes ischemic, notwithstanding the negative stress test that he had in the past. 
+
+We will request the records of the echo and the stress test so we can have them for our files here and I have asked him to complete a 30-day event recording and follow up with me after that has been completed. 
+
+I will certainly keep you informed about how things progress. 
+
+Yours truly, 
+
+Norman C. Ivers, M.D.
+
+	
+Norman C. Ivers, MD
+
+	
+Transcribed by: Nina Uresti
+
+	
+Signed electronically by  Norman C. Ivers, MD
+Document Status: Final
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2078-10-28" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="45" end="72" text="PREAKNESS HEALTHCARE CENTER" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="99" end="115" text="Roger Easterling" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="123" end="135" text="27 Caroll St" TYPE="STREET" comment="" />
+<LOCATION id="P5" start="143" end="152" text="Bluefield" TYPE="CITY" comment="" />
+<LOCATION id="P6" start="154" end="156" text="ME" TYPE="STATE" comment="" />
+<LOCATION id="P7" start="157" end="162" text="12111" TYPE="ZIP" comment="" />
+<NAME id="P8" start="174" end="184" text="Easterling" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="221" end="233" text="Brian Martin" TYPE="PATIENT" comment="" />
+<DATE id="P11" start="263" end="273" text="10/28/2078" TYPE="DATE" comment="" />
+<LOCATION id="P12" start="327" end="352" text="Klickitat Valley Hospital" TYPE="HOSPITAL" comment="" />
+<NAME id="P13" start="393" end="399" text="Inglis" TYPE="DOCTOR" comment="" />
+<LOCATION id="P14" start="780" end="796" text="Klickitat Valley" TYPE="HOSPITAL" comment="" />
+<DATE id="P15" start="1023" end="1027" text="2071" TYPE="DATE" comment="" />
+<AGE id="P16" start="1197" end="1199" text="62" TYPE="AGE" comment="" />
+<AGE id="P17" start="1317" end="1319" text="21" TYPE="AGE" comment="" />
+<AGE id="P18" start="1324" end="1326" text="18" TYPE="AGE" comment="" />
+<PROFESSION id="P19" start="1376" end="1391" text="Revenue Officer" TYPE="PROFESSION" comment="" />
+<LOCATION id="P20" start="1396" end="1418" text="Springfield Armory Inc" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P21" start="1422" end="1435" text="Picture Rocks" TYPE="CITY" comment="" />
+<LOCATION id="P22" start="1437" end="1442" text="Maine" TYPE="STATE" comment="" />
+<DATE id="P23" start="2486" end="2496" text="10/28/2078" TYPE="DATE" comment="" />
+<NAME id="P24" start="2595" end="2601" text="Martin" TYPE="PATIENT" comment="" />
+<NAME id="P25" start="3222" end="3237" text="Norman C. Ivers" TYPE="DOCTOR" comment="" />
+<NAME id="P26" start="3247" end="3262" text="Norman C. Ivers" TYPE="DOCTOR" comment="" />
+<NAME id="P27" start="3286" end="3297" text="Nina Uresti" TYPE="DOCTOR" comment="" />
+<NAME id="P28" start="3327" end="3342" text="Norman C. Ivers" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

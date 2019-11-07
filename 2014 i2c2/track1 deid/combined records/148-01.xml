@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2087-03-19
+
+
+
+
+
+
+
+March 19, 2087
+
+
+
+
+
+Dear Dr. Quentin Carlson
+
+
+
+
+
+Ms. Shari Etheridge was admitted to Parkview Memorial Hospital.  I have included a brief hospital summary below.  A full discharge summary should be sent to you shortly.  
+
+
+
+Parkview Memorial Hospital
+
+Admission Date:March 16, 2087
+
+Discharge Date: March 19, 2087
+
+General Medicine Service 
+
+Etheridge, Shari (94482315)
+
+
+
+83 year old woman with history of COPD, HTN, NIDDM who presented with shortness of breath and bilateral pedal edema.  Ms. Etheridge was given lasix with a good response.  Her shortness of breath resolved.  Her EKG was normal and her cardiac enzymes were flat.  It was felt that she had tracheobronchitis with sputum production and consequently treated with azithromycin.  She will continue on her nebulization and steroid taper for her underlying COPD.  Mr. Etheridge was discharged on March 19, 2087
+
+
+
+Follow Up
+
+[] Outpatient ECHO
+
+
+
+
+
+Thank you for allowing us to take care of your patient.
+
+
+
+Sincerely Yours,
+
+
+
+
+
+Frankie Echols, MD
+
+PMH-Promptcare Hospitalist Attending
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2087-03-19" TYPE="DATE" comment="" />
+<DATE id="P1" start="34" end="48" text="March 19, 2087" TYPE="DATE" comment="" />
+<NAME id="P2" start="63" end="78" text="Quentin Carlson" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="88" end="103" text="Shari Etheridge" TYPE="PATIENT" comment="" />
+<LOCATION id="P4" start="120" end="146" text="Parkview Memorial Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P5" start="259" end="285" text="Parkview Memorial Hospital" TYPE="HOSPITAL" comment="" />
+<DATE id="P6" start="302" end="316" text="March 16, 2087" TYPE="DATE" comment="" />
+<DATE id="P7" start="334" end="348" text="March 19, 2087" TYPE="DATE" comment="" />
+<NAME id="P8" start="377" end="393" text="Etheridge, Shari" TYPE="PATIENT" comment="" />
+<ID id="P9" start="395" end="403" text="94482315" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P10" start="408" end="410" text="83" TYPE="AGE" comment="" />
+<NAME id="P11" start="530" end="539" text="Etheridge" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="866" end="875" text="Etheridge" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="894" end="908" text="March 19, 2087" TYPE="DATE" comment="" />
+<NAME id="P14" start="1028" end="1042" text="Frankie Echols" TYPE="DOCTOR" comment="" />
+<LOCATION id="P15" start="1048" end="1051" text="PMH" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P16" start="1052" end="1062" text="Promptcare" TYPE="HOSPITAL" comment="" />
+</TAGS>
+</deIdi2b2>

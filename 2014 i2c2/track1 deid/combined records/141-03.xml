@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2077-07-28
+
+
+
+Patient: HORNE,MILTON M  [ 2177024(GMH) ]  MDate of Visit: 07/28/2077
+
+
+
+
+
+
+
+
+Returns for routine follow-up.  Hospitalized 6/77 with NSTEMI and he's s/p bare metal stent to the LAD.  Denies chest pain currently and he has an initial appointment with Dr. Issa later this week.  He hopes to start cardiac rehab after that visit.  Stable otherwise, GERD is controlled with Nexiuim.  Still has nocturia x 3-5 from BPH and he's being followed by Dr. Law.  PSA has been elevated in the past and he's s/p prostate biopsy.  Using CPAP for OSA, wants to change to nasal prongs from the mask.  S/P release of 5th trigger finger and the finger works fine now.  He wants to get the shingles vaccine, his remembers his mother's shingles and he doesn't want to get shingles.  Doesn't know whether he's had chickenpox.  Medication reconciliation done.
+
+
+Problems
+Umbilical hernia 
+Gastroesophageal reflux disease 
+Benign prostatic hypertrophy 
+Trigger finger : 5th finger
+Basal cell carcinoma 
+
+
+Medications
+Aspirin (ACETYLSALICYLIC ACID) 81 MG (81MG TABLET take 1) PO QD 
+Atorvastatin 80 MG (80MG TABLET take 1) PO QHS 
+Beconase AQ (BECLOMETHASONE DIPROPIONATE NASAL) 1-2 SPRAY NAS BID , Spray into each nostril. #3 Month(s) Supply
+Nexium (ESOMEPRAZOLE) 40 MG (40MG CAPSULE DR take 1) PO QD #90 Capsule(s)
+Oxycodone 5 MG (5MG TABLET take 1) PO Q4H #40 Tablet(s)
+Proscar (FINASTERIDE (BPH)) 5 MG (5MG TABLET take 1) PO QD #90 Tablet(s)
+Uroxatral (ALFUZOSIN) 10 MG (10MG TAB.SR 24H take 1) PO QD #90 TAB.SR 
+
+
+Allergies
+NKA 
+
+
+Vital Signs  BP 110/60  P 60  Wt. 216
+
+
+EXAM
+Chest: lungs clear
+Cor: RR&amp;R, no murmurs or gallops
+Abdomen: soft without organomegaly or masses.  Unbilical hernia present
+Skin:  bruise on right leg largely resolved.
+
+
+A/P
+1.  NSTEMI, s/p stent to LAD.  Has cardiology appointment.
+2.  Hyperlipidemia.  controlled on statin.
+3.  OSA, on CPAP
+4.  GERD, controlled with Nexium
+5.  BPH, stable.
+6.  Varicella antibody today; Zostavax if positive.  PSA, free PSA today along with fasting glucose.
+7.  CPE 1/78.
+
+
+
+
+
+
+
+
+____________________________________
+Xiomara Barbara Xanthos, M.D.
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2077-07-28" TYPE="DATE" comment="" />
+<NAME id="P1" start="39" end="53" text="HORNE,MILTON M" TYPE="PATIENT" comment="" />
+<ID id="P2" start="57" end="64" text="2177024" TYPE="MEDICALRECORD" comment="" />
+<LOCATION id="P3" start="65" end="68" text="GMH" TYPE="HOSPITAL" comment="" />
+<DATE id="P4" start="89" end="99" text="07/28/2077" TYPE="DATE" comment="" />
+<DATE id="P5" start="153" end="157" text="6/77" TYPE="DATE" comment="" />
+<NAME id="P6" start="284" end="288" text="Issa" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="475" end="478" text="Law" TYPE="DOCTOR" comment="" />
+<DATE id="P8" start="2043" end="2047" text="1/78" TYPE="DATE" comment="" />
+<NAME id="P9" start="2094" end="2117" text="Xiomara Barbara Xanthos" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

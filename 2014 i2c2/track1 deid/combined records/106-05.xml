@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2091-07-24
+
+
+
+Visit Note
+
+
+Patient Name: JUSTUS, QUIANA                       MRN: 9814048
+Dictated Date: 07/27/2091                      Dictated By: Ida Xayachack, M.D.
+
+
+Date of Visit: 07/24/2091
+
+
+
+
+The patient is a 79-year-old woman with a history of diabetes, hypertension, coronary artery disease who comes in today for followup. Please see the recent note from cardiology from 06/27/2091. She is status post stenting in 03/2091 and 06/2091. Post her second procedure she also had a large hematoma which has been gradually resolving. 
+
+
+She has type 2 diabetes and her fasting sugars have been very well controlled. She is currently on metformin 1000 mg b.i.d. and glyburide 5 mg b.i.d. She is trying to watch her diet and salt intake. She has not had any symptoms of hypoglycemia. She had lost some weight after her first heart attack but her weight has been stable. 
+
+
+Her lisinopril was recently increased by cardiology. She has no exertional chest pain, PND, orthopnea, edema, or claudication. 
+
+
+She has a history of iron deficiency anemia and had refused colonoscopies in the past. At the time of her heart attack she had been intubated and had some coffee grounds noted and also required a blood transfusion. She has not noted any epigastric pain, abdominal pain, melena, or hematochezia. She does take her iron supplements and her stools are dark on the iron supplements. I had discussed with patient and daughter several times that she should get a colonoscopy to evaluate her guaiac iron deficiency anemia but she continues to refuse one. 
+
+
+Also noted on her admissions was that she had a lung nodule and possible pancreatic mass on CT from 03/2091 and 06/2091. She should get a repeat CT in 12/2091. 
+
+
+She is not having any abdominal pain. 
+
+
+She has chronic back pain and osteoarthritis pain. Of note she also had elevated parathyroid levels in the past but refuses to see Endocrinology either in Fayetteville or at United Methodist Behavioral Hospital. 
+
+
+Please see her medication list which was reviewed with the patient and her daughter. 
+
+
+PHYSICAL EXAMINATION: She is in no acute distress. Blood pressure 132/70. Neck: Supple without JVD or bruits. Lungs: Clear without wheezes, rales, or rhonchi. Cardiac: Rate regularly regular, normal S1 and S2. No S3, S4 or bruits. Abdomen: Mildly obese, soft, nontender. She still has some residual hematoma near her right groin. She has a left femoral artery bruit. The hematoma has significantly decreased in size compared to prior visit. No CCE. Distal pulses intact. 
+
+
+1. Coronary artery disease. She has no symptoms of decompensated heart failure on her current regimen. Her blood pressure is well controlled with the recent increase in the lisinopril from 20 to 40 mg daily. Check Chem-7. 
+
+
+Hypomagnesemia. Check followup magnesium level. 
+
+
+Type 2 diabetes. Her last hemoglobin A1c was 6.1 which is excellent. Continue current medications. 
+Iron deficiency anemia. She should have a colonoscopy +/- an upper endoscopy but she declines these procedures. She is aware that we have not ruled out colon cancer or adenomatous colonic polyps or other cause for her iron deficiency anemia. Check CBC. 
+
+
+History of lung nodule and possible pancreatic mass versus IPMN. These were both stable on imaging from 03/2091 and 06/2091. She needs repeat imaging in 6 months. She will follow up with me in 10/2091 so we can get a flu shot and schedule these procedures. 
+
+
+
+
+___________________________
+Ida Xayachack, M.D.
+
+
+
+
+
+
+cc:
+
+
+
+
+
+
+TD: 07/28/2091 04:38:30
+TR: 7999590
+BackJob ID:  411287
+VoiceJob ID:  17480048
+
+
+
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2091-07-24" TYPE="DATE" comment="" />
+<NAME id="P1" start="57" end="71" text="JUSTUS, QUIANA" TYPE="PATIENT" comment="" />
+<ID id="P2" start="99" end="106" text="9814048" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="122" end="132" text="07/27/2091" TYPE="DATE" comment="" />
+<NAME id="P4" start="167" end="180" text="Ida Xayachack" TYPE="DOCTOR" comment="" />
+<DATE id="P5" start="204" end="214" text="07/24/2091" TYPE="DATE" comment="" />
+<AGE id="P6" start="236" end="238" text="79" TYPE="AGE" comment="" />
+<DATE id="P7" start="401" end="411" text="06/27/2091" TYPE="DATE" comment="" />
+<DATE id="P8" start="444" end="451" text="03/2091" TYPE="DATE" comment="" />
+<DATE id="P9" start="456" end="463" text="06/2091" TYPE="DATE" comment="" />
+<DATE id="P10" start="1675" end="1682" text="03/2091" TYPE="DATE" comment="" />
+<DATE id="P11" start="1687" end="1694" text="06/2091" TYPE="DATE" comment="" />
+<DATE id="P12" start="1726" end="1733" text="12/2091" TYPE="DATE" comment="" />
+<LOCATION id="P13" start="1934" end="1946" text="Fayetteville" TYPE="CITY" comment="" />
+<LOCATION id="P14" start="1953" end="1989" text="United Methodist Behavioral Hospital" TYPE="HOSPITAL" comment="" />
+<DATE id="P15" start="3292" end="3299" text="03/2091" TYPE="DATE" comment="" />
+<DATE id="P16" start="3304" end="3311" text="06/2091" TYPE="DATE" comment="" />
+<DATE id="P17" start="3381" end="3388" text="10/2091" TYPE="DATE" comment="" />
+<NAME id="P18" start="3478" end="3491" text="Ida Xayachack" TYPE="DOCTOR" comment="" />
+<DATE id="P19" start="3518" end="3528" text="07/28/2091" TYPE="DATE" comment="" />
+<ID id="P20" start="3542" end="3549" text="7999590" TYPE="IDNUM" comment="" />
+<ID id="P21" start="3563" end="3569" text="411287" TYPE="IDNUM" comment="" />
+<ID id="P22" start="3584" end="3592" text="17480048" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

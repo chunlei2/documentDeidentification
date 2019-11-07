@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2094-02-16
+
+JENNIFER BOOKER
+
+LC Unit No:  727-57-14
+
+
+
+NASHUA MEMORIAL HOSPITAL
+
+
+
+ADULT MEDICINE
+
+
+
+
+
+Date:  February 16, 2094
+
+
+
+Add-in visit for this 42-year-old patient of Dr. Tapia complaining of one day of urinary urgency, frequency and suprapubic discomfort and chills.  States was hospitalized last year for pyelonephritis. 
+
+
+
+MEDICATIONS:    Cozaar, Synthroid, Wellbutrin, Tegretol, Humulin 70/30 20 units q.a.m., 18 units q. p.m.  Allergies to Sulfur and Codeine.  
+
+
+
+The patient states has low hip discomfort.  This is not the back pain that she had last year with pilo.  Urine 50-100 WBC, 3-5 RBCs.  Moderate bacteria.  Many squamous cells.  T. 98.2  .  Back with no vertebral tenderness.  No flank tenderness.  Tender over right SI joint. 
+
+
+
+A/P:	(1)	Probable UTI in diabetic with history of pilo and cirrhosis.  Consult with Dr. Mcfarland.  Will treat with Cipro 250 mg b.i.d. X 7 days.  The patient encouraged to increase fluids.  Return for fever, chills or back pain.
+
+
+
+(2)	Right hip pain.  Does not seem related to UTI.  Naprosyn 375 mg b.i.d. #10 with no refill.  Return to clinic as scheduled 2/22/94.
+
+
+
+Diane Ullah, RNC, ANP
+
+
+
+DU/tyree/ludwig
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2094-02-16" TYPE="DATE" comment="" />
+<NAME id="P1" start="28" end="43" text="JENNIFER BOOKER" TYPE="PATIENT" comment="" />
+<LOCATION id="P2" start="45" end="47" text="LC" TYPE="HOSPITAL" comment="" />
+<ID id="P3" start="58" end="67" text="727-57-14" TYPE="MEDICALRECORD" comment="" />
+<LOCATION id="P4" start="71" end="95" text="NASHUA MEMORIAL HOSPITAL" TYPE="HOSPITAL" comment="" />
+<DATE id="P5" start="126" end="143" text="February 16, 2094" TYPE="DATE" comment="" />
+<AGE id="P6" start="169" end="171" text="42" TYPE="AGE" comment="" />
+<NAME id="P7" start="196" end="201" text="Tapia" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="862" end="871" text="Mcfarland" TYPE="DOCTOR" comment="" />
+<DATE id="P9" start="1133" end="1140" text="2/22/94" TYPE="DATE" comment="" />
+<NAME id="P10" start="1145" end="1156" text="Diane Ullah" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="1170" end="1172" text="DU" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="1173" end="1178" text="tyree" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="1179" end="1185" text="ludwig" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

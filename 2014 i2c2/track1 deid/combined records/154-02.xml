@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2081-02-17
+
+                     WMH EMERGENCY DEPT VISIT
+ 
+JOHNSON,PEPPER E.   537-18-74-8                   VISIT DATE: 02/17/81
+Patient seen and evaluated with Dr. Collins.  I agree with Dr. Collins's 
+note. 
+HISTORY OF PRESENTING COMPLAINT:  The patient is a 51 year old male 
+with a history of a fever over the last two days.  He has had some 
+URI symptoms and increasing glucose requiring increased insulin. 
+Fever of 102 today.  He has had a cough productive of some 
+yellowish sputum but no real shortness of breath, no dysuria, no 
+urgency, no frequency, no diarrhea, no melena, no bright red blood 
+per rectum, no nausea or vomiting. 
+PAST MEDICAL HISTORY:  Diabetes. 
+MEDICATIONS:  Per the resident's note. 
+ALLERGIES:  Per the resident's note. 
+SOCIAL HISTORY AND FAMILY HISTORY:  Per the resident's note. 
+PHYSICAL EXAMINATION:  Well nourished, well developed male, 
+slightly tachycardic initially, in no acute distress.  Skin:  Warm 
+and dry without rash.  HEENT:  Normocephalic, atraumatic, 
+oropharynx clear.  Neck:  Supple, full range of motion.  Lungs: 
+Clear.  Heart:  Regular rate and rhythm.  Abdomen:  Soft. 
+LABORATORY EVALUATION:  Chest x-ray clear. 
+FINAL DIAGNOSIS:  Bronchitis, viral syndrome. 
+DISPOSITION (including condition upon discharge):  Plan is 
+Albuterol and Erythromycin, followup with PMD.  Condition on 
+discharge is stable. 
+___________________________________                    TP009/2221 
+OWEN URE, M.D.  OU98                       D:02/17/81 
+                                                       T:02/18/81 
+Dictated by:  OWEN URE, M.D.  OU98 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2081-02-17" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="49" end="52" text="WMH" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="76" end="93" text="JOHNSON,PEPPER E." TYPE="PATIENT" comment="" />
+<ID id="P3" start="96" end="107" text="537-18-74-8" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="138" end="146" text="02/17/81" TYPE="DATE" comment="" />
+<NAME id="P5" start="183" end="190" text="Collins" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="210" end="217" text="Collins" TYPE="DOCTOR" comment="" />
+<AGE id="P7" start="279" end="281" text="51" TYPE="AGE" comment="" />
+<ID id="P8" start="1437" end="1447" text="TP009/2221" TYPE="IDNUM" comment="" />
+<NAME id="P9" start="1449" end="1457" text="OWEN URE" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="1465" end="1469" text="OU98" TYPE="USERNAME" comment="" />
+<DATE id="P11" start="1494" end="1502" text="02/17/81" TYPE="DATE" comment="" />
+<DATE id="P12" start="1561" end="1569" text="02/18/81" TYPE="DATE" comment="" />
+<NAME id="P13" start="1585" end="1593" text="OWEN URE" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="1601" end="1605" text="OU98" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

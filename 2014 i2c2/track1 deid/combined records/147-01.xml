@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2091-08-09
+
+
+
+August 9, 2091
+
+
+
+
+
+Billie Givens, M.D.
+
+138 Cross Street
+
+Juana Diaz, CT 89568 
+
+
+
+Re:	Horn, Gregory
+
+	BCC Unit #: 977-82-23
+
+
+
+Dear Dr. Givens:
+
+
+
+I had the pleasure of seeing your patient, Mr. Horn, in follow-up regarding possible interstitial lung disease. 
+
+
+
+He has managed to lose 3 lbs. on his own personal diet plan, and feels his diabetes is coming under slightly better control.
+
+
+
+His cough is virtually gone and now has only rare cough with a little bit of phlegm, grading it as 2 out of 10 vs. 8-9 out of 10, to which his wife agrees.  They both attribute it to the Prilosec.
+
+
+
+He now sleeps well and does not use his wedge.  He has no snoring, daytime hypersomnolence, or morning headaches - no longer falls asleep at work.
+
+
+
+Allergies and nasal congestion are not evident.
+
+
+
+No lower extremity edema, swollen glands, or fevers.
+
+
+
+Mildly less prominent exertional breathlessness - He now occasionally has to go up one flight of stairs without stopping.
+
+
+
+On examination, he is well appearing.  Respiratory rate 22 and unlabored. Blood pressure 90/50 with a small cuff. Conjunctivae are clear.  Oropharynx is clear. Trachea is midline, no goiter or adenopathy. Back:  Normal configuration.  Chest:  Normal percussion note, good air movement bilaterally; fine expiratory crackles at the lateral bases.  Cardiac:  Faint left parasternal impulse, mildly prominent P2, normal S1, S2, without murmur, rub, or gallop.  JVP is 7 cm with borderline HJR.  Abdomen: Soft, nontender, no hepatosplenomegaly or mass. Extremities:  No cyanosis or edema, borderline clubbing.
+
+
+
+Pulmonary function tests today show very stable values per spirometry, a slight down-   ..  in total lung capacity, but still approximately 70% predicted, and DLCO stable in the 60% predicted range.
+
+
+
+My review of CT scan of the chest shows faint peripheral subpleural reticular pattern with cyst formation and no significant nodules.  
+
+
+
+Impression:
+
+
+
+1.	Interstitial lung disease - Mild objective impairment by functional status.  Pulmonary function tests - Overall, these were stable, and the CT scan is quite suggestive of pulmonary fibrosis.  However, as I reviewed with the patient and his wife, it is well established that 10% of the time, another disorder, such as occult hypersensitivity pneumonitis or nonspecific interstitial pneumonitis can be found on lung biopsy.  There is no evidence of a rheumatologic disorder nor any evidence of chronic aspiration, other than that associated with GE reflux, to explain his lung disease.  He would be a very reasonable candidate for gamma interferon, although this likely would necessitate low-dose steroids - the latter treatment would certainly have an impact on his diabetes.
+
+
+
+2.	GE reflux - This is the main source of his cough and is well established to be associated with pulmonary fibrosis.  If he is able to lose weight and change his lifestyle, he can have very good control of this.
+
+
+
+3.	Possible mild pulmonary hypertension related to the pulmonary fibrosis.
+
+
+
+4.	Possible sleep disorder - Currently is entirely without symptoms, now that his reflux is well controlled.
+
+
+
+5.	Chronic cough.
+
+
+
+6.	Diabetes - Better controlled.
+
+
+
+7.	Obesity - He continues to need aggressive weight loss program.  As I mentioned to him, he would not be a candidate for lung transplantation evaluation while he is at such as weight, but he is starting to make some progress.
+
+
+
+Recommendations:
+
+
+
+1.	Continue proton pump inhibitor at b.i.d. dosing, as well as lifestyle modifications, including marked decrease in caffeine intake.
+
+
+
+2.	Referral to Dr. Harry Yerger for VATS lung biopsy.
+
+
+
+3.	Cardiovascular evaluation by you, prior to his surgery, would be appreciated.
+
+
+
+It has been a pleasure to participate in his care.  Please feel free to call with any questions or comments.
+
+
+
+Sincerely, 
+
+
+
+
+
+Paul N. Tam, M.D.
+
+
+
+PNT/ivester/yanez
+
+      
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2091-08-09" TYPE="DATE" comment="" />
+<DATE id="P1" start="30" end="44" text="August 9, 2091" TYPE="DATE" comment="" />
+<NAME id="P2" start="50" end="63" text="Billie Givens" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="71" end="87" text="138 Cross Street" TYPE="STREET" comment="" />
+<LOCATION id="P4" start="89" end="99" text="Juana Diaz" TYPE="CITY" comment="" />
+<LOCATION id="P5" start="101" end="103" text="CT" TYPE="STATE" comment="" />
+<LOCATION id="P6" start="104" end="109" text="89568" TYPE="ZIP" comment="" />
+<NAME id="P7" start="118" end="131" text="Horn, Gregory" TYPE="PATIENT" comment="" />
+<LOCATION id="P8" start="134" end="137" text="BCC" TYPE="HOSPITAL" comment="" />
+<ID id="P9" start="146" end="155" text="977-82-23" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P10" start="168" end="174" text="Givens" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="226" end="230" text="Horn" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="3619" end="3631" text="Harry Yerger" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="3870" end="3881" text="Paul N. Tam" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="3891" end="3894" text="PNT" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="3895" end="3902" text="ivester" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="3903" end="3908" text="yanez" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

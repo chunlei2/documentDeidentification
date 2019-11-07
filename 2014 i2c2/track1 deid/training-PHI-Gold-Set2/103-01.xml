@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2067-11-24
+
+                     HUNTINGTON EMERGENCY DEPT VISIT
+
+ 
+
+THOMAS-YOSEF,JULIA   840-91-51-9            VISIT DATE: 11/24/67
+
+This patient was seen with Dr. Earley.  The patient was interviewed 
+
+and examined by me.  Resident's note reviewed and confirmed.  The 
+
+plan of care was discussed with the patient.   Please see chart for 
+
+details. 
+
+HISTORY OF PRESENTING COMPLAINT:  Briefly, this is a 47-year-old 
+
+woman with a history of asthma and non-insulin-dependent diabetes 
+
+mellitus who has had three weeks of progressive substernal chest 
+
+pain radiating to the back with associated nausea, vomiting, 
+
+shortness of breath, and diaphoresis.  The episodes of pain last 
+
+10-15 minutes with exertion and at rest.  
+
+PAST MEDICAL HISTORY:  Asthma, hypothyroidism, and recently 
+
+diagnosed diabetes mellitus.
+
+MEDICATIONS:  Levoxyl, Albuterol, Protonix, Tums, Flovent.
+
+SOCIAL HISTORY AND FAMILY HISTORY:  Remote history of smoking.  
+
+Family history:  Coronary artery disease in father.
+
+PHYSICAL EXAMINATION:  GENERAL APPEARANCE:  No acute distress, 
+
+pain-free.  VITAL SIGNS:  Afebrile.  Pulse 105.  Respirations 15. 
+
+Blood pressure 143/96.  Pulse oximetry is 95% on room air.  
+
+CARDIAC:  Regular rate and rhythm.  Normal S1 and S2.  No murmurs, 
+
+gallops, or rubs.  NECK:  JVP 5 cm.  LUNGS:  Clear.  Breathing is 
+
+unlabored.  ABDOMEN:  Soft, nontender, and nondistended with active 
+
+bowel sounds.  EXTREMITIES:  No clubbing, cyanosis, or edema.  
+
+LABORATORY EVALUATION:  The EKG shows a normal sinus rhythm with 
+
+lateral T-wave inversions and question of old septal myocardial 
+
+infarction.  Chest x-ray shows no acute cardiopulmonary disease.
+
+FINAL DIAGNOSIS:  Chest pain, multiple cardiac risk factors, 
+
+abnormal electrocardiogram, currently pain-free without evidence of 
+
+congestive heart failure.
+
+DISPOSITION (including condition upon discharge):  The plan is 
+
+aspirin, Lopressor, and admission to telemetry.  The patient was 
+
+admitted to the hospital in stable condition.
+
+___________________________________                    VA271/37942 
+
+MARVIN UTECHT, M.D.   MU830                          D:11/24/67 
+
+                                                       T:11/24/67 
+
+Dictated by:  MARVIN UTECHT, M.D.   MU830 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2067-11-24" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="49" end="59" text="HUNTINGTON" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="85" end="103" text="THOMAS-YOSEF,JULIA" TYPE="PATIENT" comment="" />
+<ID id="P3" start="106" end="117" text="840-91-51-9" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="141" end="149" text="11/24/67" TYPE="DATE" comment="" />
+<NAME id="P5" start="182" end="188" text="Earley" TYPE="DOCTOR" comment="" />
+<AGE id="P6" start="423" end="425" text="47" TYPE="AGE" comment="" />
+<ID id="P7" start="2077" end="2088" text="VA271/37942" TYPE="IDNUM" comment="" />
+<NAME id="P8" start="2091" end="2104" text="MARVIN UTECHT" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="2113" end="2118" text="MU830" TYPE="USERNAME" comment="" />
+<DATE id="P10" start="2146" end="2154" text="11/24/67" TYPE="DATE" comment="" />
+<DATE id="P11" start="2214" end="2222" text="11/24/67" TYPE="DATE" comment="" />
+<NAME id="P12" start="2239" end="2252" text="MARVIN UTECHT" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="2261" end="2266" text="MU830" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

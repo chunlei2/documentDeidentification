@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2093-08-15
+
+      CARDIOLOGY ADMISSION NOTE
+
+
+
+Nathan-Oliver OCAMPO
+
+HSC 805-31-35-9
+
+Date of admission 08/16/93, 
+
+Date of dictation/seen in clinic 08/15/93
+
+Ref:  Ken Sylvester, MD
+
+
+
+This 76-yr-old man is admitted for eval of progressive angina.  Longstanding intermittent claudication, control of hypertension and dyslipidemia.  Recently had episodes of intrascapular pain brought on by exertion, relieved immediately w/rest.  2 days ago had episode of intrascapular pain w/radiation to arms at rest.  He discussed his case w/Dr. Ken Sylvester who recommended early eval.
+
+
+
+PMH:  Claudication, HTN, dyslipidemia, BPH.
+
+
+
+Meds:  Hytrin 5mg qd, Proscar 1 tab qd, lisinopril 40mg qd, HCTZ 12.5mg qd, Mevacor 20mg qd, Pletal 100mg bid.
+
+
+
+PE:   NAD.  BP R arm sitting 152/63, P 85 reg, R 14 unlabored, W 201 lbs.  Neck supple, JVP flat, carotids w/o bruits, trace R basalar rhonchi, chest otherwise clear.  Cardiac normal S1, phys split S2, I-II/VI SEM from apex to base, no DM or rub.  Abdomen benign, BS well heard, no aneurysm or bruit.  Markedly diminished peripheral pulses in both legs.  
+
+
+
+ECG:  SR, occasional APBs at 80, 0.16/0.14/0.38, -40o.  LBBB, secondary ST T-wave changes.  
+
+
+
+I&P:  76-yr-old man had recent exertional back discomfort that may be ischemic in origin.   Have discussed various diagnostic and therapeutic options w/pt and wife, including potential stress testing vs coronary angiography.  As he reports steady increase in frequency in exertional back pain, now w/at least 1 episode occurring at rest (in setting of multiple CRFs of HTN, dyslipidemia, significant PVD) he has agreed to undergo coronary angiography which will be arranged for tomorrow.  He will have routine blood studies and CXR today.  Results of cath will determine recommendations.
+
+
+
+
+
+______________________
+
+Nicholas A. Gomes, MD
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2093-08-15" TYPE="DATE" comment="" />
+<NAME id="P1" start="63" end="83" text="Nathan-Oliver OCAMPO" TYPE="PATIENT" comment="" />
+<LOCATION id="P2" start="85" end="88" text="HSC" TYPE="HOSPITAL" comment="" />
+<ID id="P3" start="89" end="100" text="805-31-35-9" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="120" end="128" text="08/16/93" TYPE="DATE" comment="" />
+<DATE id="P5" start="165" end="173" text="08/15/93" TYPE="DATE" comment="" />
+<NAME id="P6" start="181" end="194" text="Ken Sylvester" TYPE="DOCTOR" comment="" />
+<AGE id="P7" start="207" end="209" text="76" TYPE="AGE" comment="" />
+<NAME id="P8" start="550" end="563" text="Ken Sylvester" TYPE="DOCTOR" comment="" />
+<AGE id="P9" start="1217" end="1219" text="76" TYPE="AGE" comment="" />
+<NAME id="P10" start="1828" end="1845" text="Nicholas A. Gomes" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

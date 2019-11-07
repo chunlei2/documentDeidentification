@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2087-08-12
+
+
+
+
+XANDERS, RUTH
+56419927
+08/12/2087
+
+
+Quinton Sparks, M.D.
+Cardiovascular Division
+Louisville Care Center
+08 Mosele Court
+Changchun, LA  14176
+
+Dear Quin,
+
+Just a note for the records regarding Ms. Xanders's recent admission to our Cardiology Service between 08/09/2087 and 08/12/2087.  As you know, she is a lovely 47-year-old woman with type 1 diabetes, hypertension, cigarette smoking and end-stage renal disease for which she underwent transplantation in 2083. She is now under evaluation for pancreatic transplantation.  She has not had symptoms of angina or left ventricular dysfunction and LVEF has been normal.  An exercise test in July 2087 achieved 79% of the maximal predicted heart rate, no chest discomfort, but 1-mm of ST depression in the lateral leads.  Her other recent issues have included marked anemia, possibly related to her immunosuppressive drugs (negative upper and lower endoscopy) and transient hyperglycemia following a glucocorticoid bolus.
+
+At the time of admission, the hematocrit remained in the low 20s and she was transfused in preparation for cardiac catheterization.  Appropriate bicarbonate and Mucomyst therapies were administered, and we also took advantage of the precatheterization time to reinforce the importance of smoking cessation.
+
+Coronary angiography on 08/11/2087 demonstrated a co-dominant system with chronic occlusion of the right coronary artery with left to right collaterals perfusing that territory.  There was also a 95% stenosis of the proximal LAD.  After careful consideration of the options, Dr. Valdez placed a Cypher stent at that location successfully.  She tolerated the procedure well,  was ambulatory the following morning and the creatinine had actually improved to 2.0; the hematocrit remained "stable" in the mid 20s.  She will likely be discharged later today, following a discussion with the renal transplant service regarding augmenting her antihypertensive regime.
+
+She understands the importance of uninterrupted clopidogrel therapy,  preferably for more than one year.
+
+It was a pleasure to participate in Ms. Xanders's care.  A copy of the discharge abstract as list of discharge medications will be forwarded to you separately.
+
+With best regards.
+
+Sincerely yours,
+
+
+______________________________
+Stanley V Stanley, MD
+
+
+
+
+
+eScription document:3-2627386 KFFocus
+
+
+
+DD: 08/12/87
+DT: 08/12/87
+DV: 08/12/87
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2087-08-12" TYPE="DATE" comment="" />
+<NAME id="P1" start="31" end="44" text="XANDERS, RUTH" TYPE="PATIENT" comment="" />
+<ID id="P2" start="45" end="53" text="56419927" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="54" end="64" text="08/12/2087" TYPE="DATE" comment="" />
+<NAME id="P4" start="67" end="81" text="Quinton Sparks" TYPE="DOCTOR" comment="" />
+<LOCATION id="P5" start="112" end="134" text="Louisville Care Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P6" start="135" end="150" text="08 Mosele Court" TYPE="STREET" comment="" />
+<LOCATION id="P7" start="151" end="160" text="Changchun" TYPE="CITY" comment="" />
+<LOCATION id="P8" start="162" end="164" text="LA" TYPE="STATE" comment="" />
+<LOCATION id="P9" start="166" end="171" text="14176" TYPE="ZIP" comment="" />
+<NAME id="P10" start="178" end="182" text="Quin" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="227" end="234" text="Xanders" TYPE="PATIENT" comment="" />
+<DATE id="P12" start="288" end="298" text="08/09/2087" TYPE="DATE" comment="" />
+<DATE id="P13" start="303" end="313" text="08/12/2087" TYPE="DATE" comment="" />
+<AGE id="P14" start="345" end="347" text="47" TYPE="AGE" comment="" />
+<DATE id="P15" start="488" end="492" text="2083" TYPE="DATE" comment="" />
+<DATE id="P16" start="669" end="678" text="July 2087" TYPE="DATE" comment="" />
+<DATE id="P17" start="1332" end="1342" text="08/11/2087" TYPE="DATE" comment="" />
+<NAME id="P18" start="1587" end="1593" text="Valdez" TYPE="DOCTOR" comment="" />
+<NAME id="P19" start="2116" end="2123" text="Xanders" TYPE="PATIENT" comment="" />
+<NAME id="P20" start="2307" end="2324" text="Stanley V Stanley" TYPE="DOCTOR" comment="" />
+<ID id="P21" start="2354" end="2363" text="3-2627386" TYPE="IDNUM" comment="" />
+<DATE id="P22" start="2379" end="2387" text="08/12/87" TYPE="DATE" comment="" />
+<DATE id="P23" start="2392" end="2400" text="08/12/87" TYPE="DATE" comment="" />
+<DATE id="P24" start="2405" end="2413" text="08/12/87" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

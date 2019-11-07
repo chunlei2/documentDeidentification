@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2125-07-18
+
+                     SRH EMERGENCY DEPT VISIT
+
+ 
+
+JONES,URIEL   222-67-70-8                    VISIT DATE: 07/19/25
+
+Seen with Dr. Person.  
+
+PAST MEDICAL HISTORY, SOCIAL HISTORY, FAMILY HISTORY, REVIEW OF 
+
+SYSTEMS, MEDICATIONS, ALLERGIES:  Were reviewed and confirmed.  
+
+Please see Resident note for further details.  
+
+HISTORY:  I interviewed and examined the patient myself.  The 
+
+history briefly is as follows.  This is a 51 year-old male who was 
+
+recently discharged from the hospital here after a successful 
+
+percutaneous lithotripsy and nephrostomy placement.  He presented 
+
+this evening for a leakage from his nephrostomy tube which he 
+
+believes may have become dislodged or had its cap removed when he 
+
+was sitting on the sofa and got up.  He has been leaking 
+
+serosanguineous fluid since earlier today.  He has no fever, 
+
+chills.  No other complaints.  
+
+PAST MEDICAL HISTORY:  Includes diabetes, hypertension, CAD, high 
+
+cholesterol.  
+
+MEDICATIONS:  He takes hydrochlorothiazide, Zestril, Calan, Zocor 
+
+and Levaquin.   
+
+ALLERGIES:  He has no allergies to medications.  
+
+REVIEW OF SYSTEMS:  Otherwise negative.  
+
+SOCIAL HISTORY:  He lives with his family.  
+
+FAMILY HISTORY:  He has no significant family history.  
+
+PHYSICAL EXAMINATION:  His temperature is 99.2, heart rate 93, 
+
+blood pressure 136/81.  He is an awake and alert male in no acute 
+
+distress.  HEENT - Normocephalic, atraumatic.  Oropharynx clear.  
+
+Neck is supple.  Chest clear to auscultation bilaterally.  
+
+Cardiovascular exam is regular rate and rhythm without murmur, rub 
+
+or gallop.  Abdomen is soft, nontender.  Mildly obese.  Skin is 
+
+warm and dry.  Left flank is with some resolving ecchymosis.  No 
+
+obvious subcutaneous fluid, and the area around the nephrostomy 
+
+drain is intact.  His gurney linens are soaked with serosanguineous 
+
+fluid.  Extremities without clubbing, cyanosis or edema.  
+
+Neurologically alert and oriented.  Cranial nerves II-XII are 
+
+intact.  No motor or sensory deficits.   
+
+CONSULTATIONS:  He is seen in consultation by the Urology Service 
+
+and his tubing was cut back and cap replaced.  It is unclear as 
+
+this was placed by Radiology exactly the exact 
+
+configuration of the tubing.  However, it appears to have ceased 
+
+leak at this time.  
+
+DISPOSITION:  He is discharged in satisfactory condition with 
+
+instructions to return for return of symptoms or for any other 
+
+concerns, and to call to have follow up arranged for early next 
+
+week. 
+
+___________________________________                    VJ645/69473 
+
+ULICES ELLIOT, M.D.  UE57                            D:07/19/25 
+
+                                                       T:07/19/25 
+
+Dictated by:  ULICES ELLIOT, M.D.  UE57 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2125-07-18" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="49" end="52" text="SRH" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="78" end="89" text="JONES,URIEL" TYPE="PATIENT" comment="" />
+<ID id="P3" start="92" end="103" text="222-67-70-8" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="135" end="143" text="07/19/25" TYPE="DATE" comment="" />
+<NAME id="P5" start="159" end="165" text="Person" TYPE="DOCTOR" comment="" />
+<AGE id="P6" start="457" end="459" text="51" TYPE="AGE" comment="" />
+<ID id="P8" start="2568" end="2579" text="VJ645/69473" TYPE="IDNUM" comment="" />
+<NAME id="P9" start="2582" end="2595" text="ULICES ELLIOT" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="2603" end="2607" text="UE57" TYPE="USERNAME" comment="" />
+<DATE id="P11" start="2637" end="2645" text="07/19/25" TYPE="DATE" comment="" />
+<DATE id="P12" start="2705" end="2713" text="07/19/25" TYPE="DATE" comment="" />
+<NAME id="P13" start="2730" end="2743" text="ULICES ELLIOT" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="2751" end="2755" text="UE57" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2087-09-11
+
+
+
+
+
+
+
+NAME:    Justus, Quiana
+
+MRN:     9814048
+
+
+
+The patient comes in today for follow up of several medical problems. She has a
+
+history of type 2 diabetes. Her sugars have not been optimally controlled. They are
+
+usually in the 190-200 range in the morning. Her weight is stable. She has no lower
+
+extremity numbness or weakness.  
+
+
+
+She has a history of hyperlipidemia. She stopped her Lescol 2 weeks ago because it
+
+was expensive. She also never increased the dose above 20 mg. She has had side
+
+effects with atorvastatin and pravastatin in the past. Please see her allergy list in
+
+LMR.
+
+
+
+She has a half sister who had colon cancer at age 88. Quiana has had rare
+
+occasional blood streaking when she wipes herself after being constipated. She is
+
+aware of what a colonoscopy is but absolutely refuses a colonoscopy. She is aware
+
+that she is at increased risk for colon cancer given her family history. She has no
+
+nausea, vomiting, diarrhea, melena or weight loss.
+
+
+
+She has chronic lower back pain and bilateral leg pain that is probably due to spinal
+
+stenosis. She has lower back pain and pain in her legs that is worse with walking. It
+
+helps when she uses a carriage to walk around in the store. She denies lower
+
+extremity numbness, change in her bowel or bladder, fevers or chills. Her last MRI
+
+was done in Walsenburg in a wide body machine and was consistent with spinal stenosis. 
+
+She has taken Ultram. She is aware that Vioxx may increase people's risk for cardiac
+
+disease and has stopped taking it. Dr. Yeager, her rheumatologist, referred her to Dr.
+
+North in Internal Medicine for possible injections. 
+
+
+
+PHYSICAL EXAM: No acute distress. Her blood pressure is 180/90. However, her
+
+daughter,Iyanna Field, checks her blood pressure at home and it is very well controlled. 
+
+The patient gets very anxious here in the clinic. Neck supple without JVD or bruits.
+
+Lungs clear without wheezes, rales or rhonchi. Cardiac: Rate regularly regular,
+
+normal S1, S2 without S3, S4 or murmurs. No C/C/E. Distal pulses intact.
+
+
+
+ASSESSMENT AND PLAN:  
+
+
+
+(1)  Type 2 diabetes. Check hemoglobin A1c. Continue current medications.
+
+
+
+(2)  Hyperlipidemia. She should be on medication to keep her LDL below 100. She
+
+     said that she would resume the medication.
+
+
+
+(3)  Hypertension which is never well controlled on her visits here. Her daughter is
+
+     a nursing professional and does report that her blood pressure is very well controlled
+
+     in the 120/80 range when she checks at home. We will continue her current
+
+     regimen.
+
+
+
+(4)  Lower back pain. Probably secondary to spinal stenosis. She has an
+
+     appointment with Dr. North.
+
+
+
+
+
+    
+
+ 
+
+
+
+
+
+Ida Xayachack, M.D.
+
+
+
+IX/delarosa/bishop
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2087-09-11" TYPE="DATE" comment="" />
+<NAME id="P1" start="43" end="57" text="Justus, Quiana" TYPE="PATIENT" comment="" />
+<ID id="P2" start="68" end="75" text="9814048" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P3" start="676" end="678" text="88" TYPE="AGE" comment="" />
+<NAME id="P4" start="680" end="686" text="Quiana" TYPE="PATIENT" comment="" />
+<LOCATION id="P5" start="1354" end="1364" text="Walsenburg" TYPE="CITY" comment="" />
+<NAME id="P6" start="1556" end="1562" text="Yeager" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="1605" end="1610" text="North" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="1748" end="1760" text="Iyanna Field" TYPE="PATIENT" comment="" />
+<PROFESSION id="P10" start="2401" end="2421" text="nursing professional" TYPE="PROFESSION" comment="" />
+<NAME id="P11" start="2683" end="2688" text="North" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="2708" end="2721" text="Ida Xayachack" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="2731" end="2733" text="IX" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="2734" end="2742" text="delarosa" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="2743" end="2749" text="bishop" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

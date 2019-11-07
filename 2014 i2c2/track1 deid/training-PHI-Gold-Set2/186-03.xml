@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2133-06-25
+
+
+Visit Note
+
+
+
+
+Patient Name: URQUHART, WENDELL Y                                          MRN: 5747359
+
+
+
+Dictated Date: 06/25/2133                                        Dictated By: Ubaldo Daugherty, MD
+.
+
+
+
+Date of Visit: 06/25/2133
+
+
+
+
+
+
+
+
+CHIEF COMPLAINT: Right buttock pain with right lower extremity radiation. 
+
+
+
+
+HISTORY OF PRESENT ILLNESS:  I had the pleasure of seeing Wendell Urquhart in follow-up today. He underwent right piriformis injection under fluoroscopic guidance on 06/10/2133. The patient reports greater than 50% improvement in his symptoms after the procedure. Currently the pain is intermittent. He describes it as sore sensation in the right buttock. He grades intensity of pain as 2/10 on the numerical pain scale. The symptoms are worse with prolonged walking for more than 2 miles a day and completely alleviated with rest. There is no change in the intensity of symptoms with Valsalva maneuver. The patient denies any recent fever or chills, no loss of bowel or bladder control, no numbness, no weakness, no unexplained weight loss. 
+
+
+
+
+
+REVIEW OF MEDICAL HISTORY: During today's visit, I have reviewed past medical, social and family history, medication list and allergies. There has been no interval change as compared to the previous visit. REVIEW OF SYSTEMS: Positive for musculoskeletal complains as described above. No recent fever, no chills, no chest pain, no shortness of breath, no abdominal pain, no loss of bowel or bladder control, no unexplained weight loss. The rest of the systems were reviewed and are negative.
+
+
+
+PHYSICAL EXAM: The patient is alert and oriented to time, person and place. His mood and affect are stable. He demonstrates good attention and concentration. He ambulates without an assistive device with normal heel strike and toe-off. He is able to stand on heels and toes. He is able to walk heel-to-toe in a straight line with intact balance. There is limited range of motion in the lumbar spine with flexion limited to 80 degrees, extension limited to 20 degrees. There is no tenderness to palpation over piriformis muscles, paraspinal muscles, spinous processes, SI joints, or greater trochanteric bursa bilaterally. There is full 5/5 strength in the lower extremities with intact sensation bilaterally. 1+ reflexes in the knees, absent reflexes in the ankles bilaterally. There is downgoing Babinski, no clonus, normal tone in the lower extremities. Straight leg raise and femoral stretch test are negative bilaterally. There is pain with right hip internal rotation. 
+
+
+
+
+IMPRESSION:
+
+1.  Piriformis syndrome.
+
+2.  Lumbar spondylosis with degenerative disk disease.
+
+3.  Right hip arthropathy.
+
+
+
+
+RECOMMENDATIONS:
+
+1.  I had lengthy discussion with the patient about his condition and further treatment options. The patient will continue with home exercise program that he learned in physical therapy.
+
+2.  The patient was encouraged to remain active and to participate in low-impact aerobic exercises as along as it does not exacerbate his symptoms.
+
+3.  The patient was counseled on the benefits of weight reduction. He was informed about Weight Center here at Brooksville Regional Hospital. He is trying to control his weight through a balanced diet and aerobic exercises. He will consider an evaluation at the Weight Center if those approaches are not successful.
+
+4.  The therapeutic plan was discussed with the patient. All of his questions were answered. In fact greater than 50% of today&#8217;s 25 minute visit was spent on counseling and coordination of care. I asked the patient to follow-up with me as needed if his symptoms return. 
+
+
+
+
+It was my pleasure to follow-up with him.
+
+
+
+
+
+
+
+___________________________
+
+Ubaldo Daugherty, MD
+.
+
+
+
+
+cc:
+
+
+
+
+
+
+TD: 06/25/2133 09:13:37
+
+TR: 7765393
+
+BackJob ID:  780753
+
+VoiceJob ID:  06100547
+
+
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2133-06-25" TYPE="DATE" comment="" />
+<NAME id="P1" start="58" end="77" text="URQUHART, WENDELL Y" TYPE="PATIENT" comment="" />
+<ID id="P2" start="124" end="131" text="5747359" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="150" end="160" text="06/25/2133" TYPE="DATE" comment="" />
+<NAME id="P4" start="213" end="229" text="Ubaldo Daugherty" TYPE="DOCTOR" comment="" />
+<DATE id="P5" start="254" end="264" text="06/25/2133" TYPE="DATE" comment="" />
+<NAME id="P6" start="410" end="426" text="Wendell Urquhart" TYPE="PATIENT" comment="" />
+<DATE id="P7" start="518" end="528" text="06/10/2133" TYPE="DATE" comment="" />
+<LOCATION id="P8" start="3165" end="3194" text="Brooksville Regional Hospital" TYPE="HOSPITAL" comment="" />
+<NAME id="P9" start="3730" end="3746" text="Ubaldo Daugherty" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="3771" end="3781" text="06/25/2133" TYPE="DATE" comment="" />
+<ID id="P11" start="3796" end="3803" text="7765393" TYPE="IDNUM" comment="" />
+<ID id="P12" start="3818" end="3824" text="780753" TYPE="IDNUM" comment="" />
+<ID id="P13" start="3840" end="3848" text="06100547" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

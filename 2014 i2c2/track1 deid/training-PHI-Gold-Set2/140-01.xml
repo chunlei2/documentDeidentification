@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2081-02-05
+
+                     LCC EMERGENCY DEPT VISIT
+ 
+XANDERS,RUTH A   564-19-92-7                   VISIT DATE: 02/05/81
+PRESENTING COMPLAINT:  Leg fracture. 
+HISTORY OF PRESENTING COMPLAINT:  This is a 41 year-old woman, 
+transferred from Otis Hospital where she presented today 
+after falling in her kitchen.  She states she lost her footing 
+while wearing some high heel shoes and fell in a twisting motion, 
+sustaining an injury to her foot and ankle.  She was seen at 
+Otis Hospital where an open tib-fib fracture was identified. 
+She denied any other injury.  She denied head injury, neck pain, 
+back pain, or chest pain. 
+PAST MEDICAL HISTORY:  Notable for insulin requiring diabetes and 
+hypertension, as well as renal insufficiency. 
+MEDICATIONS:  Insulin, Cozaar, Lipitor, Lasix, and Procan. 
+ALLERGIES:  No known drug allergies. 
+SOCIAL HISTORY AND FAMILY HISTORY:  She does admit to drinking 
+tonight and on a fairly regular basis. 
+PHYSICAL EXAMINATION:  GENERAL:  Alert and oriented.  She did have 
+the odor of alcohol on her breath.  HEAD:  Atraumatic.  NECK:  Full 
+range of motion, non-tender.  CHEST:  Clavicles and chest were 
+non-tender.  LUNGS:  Clear to auscultation.  HEART:  Normal S1 and 
+S2.  ABDOMEN:  Soft and non-tender.  PELVIS & EXTREMITIES: 
+Unremarkable with the exception of the right ankle, which is in a 
+plaster splint.  When removed laceration was seen just proximal to 
+the medial malleolus.  There was a normal pulse and capillary 
+refill in the extremity. 
+LABORATORY EVALUATION:  X-rays revealed a fracture underlying the 
+laceration of the tibia.  There was also a distal fibular fracture 
+as well.  The mortise appeared intact.  Chest x-ray was clear. 
+Electrocardiogram is pending.  Laboratory studies showed a normal 
+CBC, glucose of 291, and creatinine of 1.9 from the other facility. 
+THERAPY RENDERED/COURSE IN ED:  The patient will be taken to the 
+operating room for wash-out and open reduction and internal 
+fixation procedure. 
+FINAL DIAGNOSIS:  Open tib-fib fracture. 
+DISPOSITION (including condition upon discharge):  The patient is 
+presently in stable condition. 
+___________________________________                    SS758/93822 
+QUINTON COLON, M.D.   QC22                             D:02/05/81 
+                                                       T:02/05/81 
+Dictated by:  QUINTON COLON, M.D.   QC22 
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2081-02-05" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="49" end="52" text="LCC" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="76" end="90" text="XANDERS,RUTH A" TYPE="PATIENT" comment="" />
+<ID id="P3" start="93" end="104" text="564-19-92-7" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="135" end="143" text="02/05/81" TYPE="DATE" comment="" />
+<AGE id="P5" start="226" end="228" text="41" TYPE="AGE" comment="" />
+<LOCATION id="P6" start="263" end="276" text="Otis Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P7" start="497" end="510" text="Otis Hospital" TYPE="HOSPITAL" comment="" />
+<ID id="P8" start="2200" end="2211" text="SS758/93822" TYPE="IDNUM" comment="" />
+<NAME id="P9" start="2213" end="2226" text="QUINTON COLON" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="2235" end="2239" text="QC22" TYPE="USERNAME" comment="" />
+<DATE id="P11" start="2270" end="2278" text="02/05/81" TYPE="DATE" comment="" />
+<DATE id="P12" start="2337" end="2345" text="02/05/81" TYPE="DATE" comment="" />
+<NAME id="P13" start="2361" end="2374" text="QUINTON COLON" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="2383" end="2387" text="QC22" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2073-08-26
+
+Renal Associates
+
+
+
+8/26/3
+
+
+
+She has been discharged from SCH to home. Having difficulty with low BP on dialysis.
+
+Her BP was 80/40 at completion of HD yesterday by her report.
+
+Her BP is 150/80 today. She has not taken am meds.
+
+
+
+- decrease Procardia to 60mg non dialysis days
+
+- decrease ISDN to 10mg tid, hold pre dialysis.
+
+
+
+Follow up prn. HD on Mon at Souther Millway Hospital.
+
+
+
+
+
+Eddie Love MD.
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2073-08-26" TYPE="DATE" comment="" />
+<DATE id="P1" start="48" end="54" text="8/26/3" TYPE="DATE" comment="" />
+<LOCATION id="P2" start="87" end="90" text="SCH" TYPE="HOSPITAL" comment="" />
+<DATE id="P3" start="381" end="384" text="Mon" TYPE="DATE" comment="" />
+<LOCATION id="P4" start="388" end="412" text="Souther Millway Hospital" TYPE="HOSPITAL" comment="" />
+<NAME id="P5" start="419" end="429" text="Eddie Love" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

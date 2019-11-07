@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2121-06-06
+
+
+Problems
+Diabetes mellitus type 2 : 10/20
+Hyperlipidemia : 10/20
+Smoking 
+FH Uncoded Information:
+	 Comments: Father: age + 80 prostate cancer; diabetesMother: age 40 + uterine cancerSiblings:1bMarital status:mChildren:1F - 16FH is notable for the presence (+) or absence(-) of CAD ;Cancer ++ ;diabetes + ;HTN ; genetic disorder
+Medications
+Lipitor (ATORVASTATIN) 10MG TABLET take 1 Tablet(s) QD 
+Aspirin (ACETYLSALICYLIC ACID) 81MG TABLET EC take 1 Tablet(s) PO QD 
+Allergies
+Tetracycline Hcl - headache,
+Health Maintenance
+Influenza Vaccine 02/20/2121 given 
+Cholesterol 03/14/2121 137 
+M-alb/creat ratio 10/17/2120 9.4 
+Mammogram 07/31/2120 see report in Results 
+Pap Smear 09/13/2120 see report in Results 
+Pneumovax 02/20/2121 11/20 
+UA-Protein 07/25/12 NEG 
+Ophthal Exam 02/20/2121 set up 
+Triglycerides 03/14/2121 85 
+Cholesterol-LDL 03/14/2121 76 
+Microalbumin 10/17/2120 1.0 
+Bone Density 02/20/2121 set up 
+Hct (Hematocrit) 08/28/2120 40.8 
+Cholesterol-HDL 03/14/2121 44 
+Hgb (Hemoglobin) 08/28/2120 14.0 
+HbA1c 01/13/2121 7.50
+COLONOSCOPY 
+Vital Signs
+BP 120/88
+AGE 57y8.4m
+Comes in today because she was diagnosed yesterday with an oral mucosal cancer
+Feels well otherwise
+no chest pain or dyspnoea
+lesion on floor of mouth
+no nodes
+carotid bruits
+chest clear
+hs 1,2
+refer to oral surgeon
+set up carotid us again
+reminded about colonoscopy 
+
+ 
+
+
+ 
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2121-06-06" TYPE="DATE" comment="" />
+<DATE id="P1" start="65" end="70" text="10/20" TYPE="DATE" comment="" />
+<DATE id="P2" start="88" end="93" text="10/20" TYPE="DATE" comment="" />
+<AGE id="P3" start="153" end="155" text="80" TYPE="AGE" comment="" />
+<AGE id="P4" start="193" end="195" text="40" TYPE="AGE" comment="" />
+<AGE id="P5" start="253" end="255" text="16" TYPE="AGE" comment="" />
+<DATE id="P6" start="572" end="582" text="02/20/2121" TYPE="DATE" comment="" />
+<DATE id="P7" start="602" end="612" text="03/14/2121" TYPE="DATE" comment="" />
+<DATE id="P8" start="636" end="646" text="10/17/2120" TYPE="DATE" comment="" />
+<DATE id="P9" start="662" end="672" text="07/31/2120" TYPE="DATE" comment="" />
+<DATE id="P10" start="706" end="716" text="09/13/2120" TYPE="DATE" comment="" />
+<DATE id="P11" start="750" end="760" text="02/20/2121" TYPE="DATE" comment="" />
+<DATE id="P12" start="761" end="766" text="11/20" TYPE="DATE" comment="" />
+<DATE id="P13" start="779" end="787" text="07/25/12" TYPE="DATE" comment="" />
+<DATE id="P14" start="806" end="816" text="02/20/2121" TYPE="DATE" comment="" />
+<DATE id="P15" start="839" end="849" text="03/14/2121" TYPE="DATE" comment="" />
+<DATE id="P16" start="870" end="880" text="03/14/2121" TYPE="DATE" comment="" />
+<DATE id="P17" start="898" end="908" text="10/17/2120" TYPE="DATE" comment="" />
+<DATE id="P18" start="927" end="937" text="02/20/2121" TYPE="DATE" comment="" />
+<DATE id="P19" start="963" end="973" text="08/28/2120" TYPE="DATE" comment="" />
+<DATE id="P20" start="996" end="1006" text="03/14/2121" TYPE="DATE" comment="" />
+<DATE id="P21" start="1028" end="1038" text="08/28/2120" TYPE="DATE" comment="" />
+<DATE id="P22" start="1051" end="1061" text="01/13/2121" TYPE="DATE" comment="" />
+<AGE id="P23" start="1106" end="1113" text="57y8.4m" TYPE="AGE" comment="" />
+</TAGS>
+</deIdi2b2>

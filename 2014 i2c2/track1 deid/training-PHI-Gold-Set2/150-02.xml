@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2076-08-23
+
+PMH INTERNAL MEDICINE ASSOCIATES          William-Nuel, Kelli
+                                              89897856
+                                              8-23-76
+ 
+ 
+ 
+HPI: Mrs. William-Nuel is a 61-year old patient of mine who carries a 
+diagnosis of essential hypertension and comes in today for a routine 
+checkup. Patient appears to be doing fine. She has been compliant with her 
+antihypertensive regimen, which consists of nifedipine and also 
+hydrochlorothiazide. Since our last meeting, the patient has lost 
+approximately 15 to 20 pounds. She has been exercising on a daily basis 
+and eating very well, both of which have had very, very significant and 
+beneficial results on her blood pressure and pressure today on examination 
+was 120/80 in both arms. The patient was complaining of some ankle 
+swelling, and in looking through her medicines I noted that she had been 
+on furosemide, which was a holdover from the time of her most recent 
+admission. I quickly switched to furosemide to hydrochlorothiazide, which 
+I feel would give her much better diuretic response and relief of her 
+symptoms over the next few days. 
+ 
+The final issue with the patient today is low back pain, which she has had 
+chronically for the last several years after suffering a fall in 2065. We 
+have tried a whole host of conservative measures, which have included bed 
+rest, nonsteroidal anti-inflammatory agents, and back exercises. The 
+patient is referred now to the Paoli Memorial Hospital Spinal Clinic for 
+services to obtain further help, and hopefully treatment, of her pain. 
+Treatment recommendations from the Spinal Clinic will be forthcoming. 
+Patient is scheduled to follow up with me again in two to three months.
+ 
+ADDENDUM: The issue of her annual screening was addressed also and patient 
+agreed to have her cholesterol checked today, but does not want to have 
+either a mammogram or a Pap smear. She complains that she does not have 
+faith in these procedures and that this is something that she is not used 
+to and does not want to have done. I attempted to discuss the need and why 
+it is necessary to undergo continued screening and will continue to do 
+this with the patient in the future, but for now, the patient adamantly 
+refuses either of the two examinations. 
+ 
+ 
+ 
+_________________________
+Quinton Lovett, M.D. 
+ 
+pu:ZT:1220/0612
+DD:8-23-76
+DT:8-24-76
+DV:8-23-76
+ ******** Approved but not reviewed by Provider ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2076-08-23" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="28" end="31" text="PMH" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="70" end="89" text="William-Nuel, Kelli" TYPE="PATIENT" comment="" />
+<ID id="P3" start="136" end="144" text="89897856" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="191" end="198" text="8-23-76" TYPE="DATE" comment="" />
+<NAME id="P5" start="215" end="227" text="William-Nuel" TYPE="PATIENT" comment="" />
+<AGE id="P6" start="233" end="235" text="61" TYPE="AGE" comment="" />
+<DATE id="P7" start="1311" end="1315" text="2065" TYPE="DATE" comment="" />
+<LOCATION id="P8" start="1497" end="1520" text="Paoli Memorial Hospital" TYPE="HOSPITAL" comment="" />
+<NAME id="P11" start="2348" end="2362" text="Quinton Lovett" TYPE="DOCTOR" comment="" />
+<ID id="P12" start="2372" end="2387" text="pu:ZT:1220/0612" TYPE="IDNUM" comment="" />
+<DATE id="P13" start="2391" end="2398" text="8-23-76" TYPE="DATE" comment="" />
+<DATE id="P14" start="2402" end="2409" text="8-24-76" TYPE="DATE" comment="" />
+<DATE id="P15" start="2413" end="2420" text="8-23-76" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

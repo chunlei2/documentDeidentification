@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2087-10-19
+
+LOVELAND INTERNAL MEDICINE ASSOCIATES          Youngman, Cody
+                                              06386371
+                                              10-19-87
+ 
+ 
+ 
+HPI:  Ms. Youngman is a 30-year-old woman with diabetes who comes in for a 
+regular follow-up.
+ 
+Assessment and Plan:
+1.   Diabetes.  She said she has been doing well, sticking to her diet, 
+     has had no hypoglycemic episodes, and that her fingersticks have been 
+     ranging between 120 and 160, never above and never below.  This is 
+     borne out by her last hemoglobin A1C on 6-04-87 which was 4.9.  She 
+     definitely does have good control, and she is working hard as her weight 
+     is down to 236 lb from 238.75 on 6-29-87.  She had a recent hemoglobin A1C 
+     and urine dip.  She, however, is due for an eye exam as she has no had one 
+     for over a year and is willing to go, so I referred her.  She also needs 
+     to see a Podiatrist as she has not seen one; she will go.
+ 
+2.   Health maintenance.  Patient does not want a flu shot.  Otherwise, 
+     she is up to date except for a Pap smear, but she had her daughter 
+     with her so asked if she could have her Pap smear on her next visit.  
+     We will do so.
+ 
+3.   Migraine headaches.  She said she has had one every day recently.  
+     This is worse than her usual.  The Motrin was not helping.  I 
+     therefore prescribed Midrin and explained to her expressly how to 
+     use.  Should this not help, she will page me as she knows how to do.  
+     I will see her back soon to make sure this is getting better.
+ 
+4.   Ankle pain.  Patient has chronic ankle pain.  She went to an 
+     Orthopedist who told her a while back to lose weight and see if it 
+     got better.  She has been slowly losing weight with no improvement 
+     and would like to go back to the Orthopedist.  I therefore referred 
+     her at her request.
+ 
+ 
+ 
+_________________________
+Xitlali Crane, M.D. 
+ 
+FS:XI:4842
+DD:10-19-87
+DT:10-20-87
+DV:10-19-87
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2087-10-19" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="28" end="36" text="LOVELAND" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="75" end="89" text="Youngman, Cody" TYPE="PATIENT" comment="" />
+<ID id="P3" start="136" end="144" text="06386371" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="191" end="199" text="10-19-87" TYPE="DATE" comment="" />
+<NAME id="P5" start="216" end="224" text="Youngman" TYPE="PATIENT" comment="" />
+<AGE id="P6" start="230" end="232" text="30" TYPE="AGE" comment="" />
+<DATE id="P7" start="591" end="598" text="6-04-87" TYPE="DATE" comment="" />
+<DATE id="P8" start="737" end="744" text="6-29-87" TYPE="DATE" comment="" />
+<NAME id="P9" start="1951" end="1964" text="Xitlali Crane" TYPE="DOCTOR" comment="" />
+<ID id="P10" start="1974" end="1984" text="FS:XI:4842" TYPE="IDNUM" comment="" />
+<DATE id="P11" start="1988" end="1996" text="10-19-87" TYPE="DATE" comment="" />
+<DATE id="P12" start="2000" end="2008" text="10-20-87" TYPE="DATE" comment="" />
+<DATE id="P13" start="2012" end="2020" text="10-19-87" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2126-11-07
+
+
+
+	CARDIOLOGY
+
+	
+
+	FAMILY HEALTH CLINIC
+
+	
+
+
+
+	Interval History:
+
+   Dr. Devan Chandler
+
+100 CRP
+
+
+
+RE:  Bruce Corona
+
+FHC Unit #:  795-76-17
+
+
+
+Dear Dunham:
+
+
+
+I had the pleasure of seeing  Bruce Corona in the Cardiology Department office for a f/u visit.  Since I last saw him, he continues to complain of dyspnea.  An ETT was negative for ischemia.  PFTs were not really useful.  CT of the chest showed scarring/fibrosis.  His NT-proBNP has been on the marginal side, though he is without evidence for overt CHF.
+
+
+
+Medications:  Aspirin 325 mg qd, Flomax 0.4 mg qd, Lopressor 25 mg bid, Lipitor 10 mg qd, Lisinopril 20 mg qd, Colace 100 mg tid.
+
+
+
+Physical examination:  Reveals him to be well appearing. His BP is 120/70 and his heart rate is 60 and regular. He is 170 pounds.  There is no jugular venous distention and carotid pulses are 2+ bilaterally without bruits.  His lungs are clear throughout, and notably demonstrate only very slight dullness at the left base.  His sternotomy is healing well and is stable.  His apical impulse is non-displaced with a slightly irregular rate and rhythm, a normal S1 and S2.  He has an S3 gallop.  No murmur.  His abdomen is benign without hepatosplenomegaly, bruits, or a dilated aorta.  There is no pedal edema and posterior tibial pulses are 2+ bilaterally.
+
+
+
+EKG:  NSR with a 1st degree AV block.  He has a LBBB, which is chronic.
+
+
+
+Impression:
+
+
+
+1.CAD, s/p MI: currently stable.
+
+
+
+2. Hypertension: under good control.
+
+
+
+3.Hypercholesterolemia: controlled
+
+
+
+4. Dyspnea: I suspect he has an element of diastolic dysfunction.  I will restart low-dose lasix.
+
+
+
+Thank you very much for the opportunity to participate in his care.
+
+
+
+With best regards,
+
+
+
+Bruce D. Brian, Jr., M.D.
+
+
+
+	Signed electronically by   Bruce D Brian MD  on  Nov 7, 2126     
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2126-11-07" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="47" end="67" text="FAMILY HEALTH CLINIC" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="101" end="115" text="Devan Chandler" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="133" end="145" text="Bruce Corona" TYPE="PATIENT" comment="" />
+<LOCATION id="P4" start="147" end="150" text="FHC" TYPE="HOSPITAL" comment="" />
+<ID id="P5" start="160" end="169" text="795-76-17" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P6" start="178" end="184" text="Dunham" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="219" end="231" text="Bruce Corona" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="1738" end="1757" text="Bruce D. Brian, Jr." TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="1795" end="1808" text="Bruce D Brian" TYPE="DOCTOR" comment="" />
+<DATE id="P11" start="1817" end="1828" text="Nov 7, 2126" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

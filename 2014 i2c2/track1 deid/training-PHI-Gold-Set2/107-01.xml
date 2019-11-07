@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2095-02-16
+
+EDVISIT^75659490^ROOT, PERCY^02/16/95^CARR, RACHEL
+
+The patient was seen in conjunction with resident, Dr. Anderson.
+
+ PA's note was reviewed.  The patient was seen and examined by
+
+me.  Please see the PA's note for details of the patient's past
+
+medical, social, family history, review of systems, and physical
+
+exam.
+
+CHIEF COMPLAINT:  Rash on legs.
+
+HISTORY OF PRESENT ILLNESS:  A 79-year-old man brought in by his
+
+family complaining of a pruritic rash on his bilateral ankles and
+
+today, both ankles are slightly more swollen than usual.  He has
+
+no difficulty breathing, no chest pain.  The patient used to live
+
+in England 4 days ago, arrived in Frankenmuth to live now
+
+permanently with his family here.  He has a history of "heart
+
+problems for which he is taking Lasix, enalapril, and amlodipine
+
+and is compliant with these medications.  He says initially his
+
+legs were not swollen.  It was only today that the family
+
+happened to notice as he was complaining of a rash that he had
+
+slightly increased swelling of these ankles bilaterally.  The
+
+patient's daughter reports that she bought him new long underwear
+
+and noticed that the rash began where the underwear elastic band
+
+hit his ankles in that similar distribution, there is pruritus
+
+with evidence of excoriation.  He also does have evidence of
+
+chronic venous stasis changes in his legs.  The leg swelling is
+
+equal bilaterally does not extend to the calf and is minimal. 
+
+The patient reports that he coughs when he is out in the cold
+
+Frankenmuth air, but does not produce any sputum.  Has baseline
+
+orthopnea and PND of 3 pillows which has not changed.  He has had
+
+no worsening shortness of breath and no chest pain.
+
+PAST MEDICAL HISTORY:  Significant for hypertension, TIA.  He has
+
+no history of DVT.
+
+PAST SURGICAL HISTORY:  No significant surgical procedures.
+
+SOCIAL HISTORY:  He is a past smoker, does not drink or use
+
+drugs.  Lives with his family.
+
+FAMILY HISTORY:  Noncontributory.
+
+REVIEW OF SYSTEMS:  Otherwise, negative.
+
+ALLERGIES:  Has no allergies.
+
+PHYSICAL EXAMINATION:  He is awake, alert, in no distress,
+
+afebrile.  Normal and stable vital signs, saturating 96-97% on
+
+room air.  His exam is unremarkable except for excoriation to the
+
+bilateral ankles with chronic venous stasis changes bilaterally
+
+and trace 1-2+ edema bilaterally equal and the ankles only down
+
+to the mid foot.  He has strong and equal, 2+ dorsalis pedis
+
+pulses in the feet.  The rest of his examination is unremarkable
+
+with clear lungs and breath sounds.
+
+EMERGENCY DEPARTMENT COURSE:  The patient said has no plans to
+
+get a doctor in America.  He filled out an application
+
+for Frankenmuth Care on arrival to the Emergency Department.  I spoke
+
+with him and his family at length about the need to immediately
+
+get a primary care doctor.  He was given the numbers for the
+
+Tobey Hospital and Heritage Residence.  He has about 3 weeks of his
+
+medications left and he is told that he will need to see ____. 
+
+The family understands the urgency of this situation.
+
+PRIMARY DIAGNOSIS:  Today is dermatitis.  He is told to continue
+
+his medications as prescribed to elevate the feet to decrease the
+
+swelling.
+
+DISPOSITION:  Discharged in satisfactory condition to follow up
+
+with the primary care physician.
+
+______________________________
+
+CARR, RACHEL M.D.
+
+D: 02/17/95
+
+T: 02/17/95
+
+Dictated By: CARR, RACHEL
+
+eScription document:2-8880418 IFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2095-02-16" TYPE="DATE" comment="" />
+<ID id="P1" start="36" end="44" text="75659490" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="45" end="56" text="ROOT, PERCY" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="57" end="65" text="02/16/95" TYPE="DATE" comment="" />
+<NAME id="P4" start="66" end="78" text="CARR, RACHEL" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="135" end="143" text="Anderson" TYPE="DOCTOR" comment="" />
+<AGE id="P6" start="412" end="414" text="79" TYPE="AGE" comment="" />
+<LOCATION id="P7" start="650" end="657" text="England" TYPE="COUNTRY" comment="" />
+<LOCATION id="P8" start="681" end="692" text="Frankenmuth" TYPE="CITY" comment="" />
+<LOCATION id="P9" start="1537" end="1548" text="Frankenmuth" TYPE="CITY" comment="" />
+<LOCATION id="P10" start="2637" end="2644" text="America" TYPE="COUNTRY" comment="" />
+<LOCATION id="P11" start="2681" end="2697" text="Frankenmuth Care" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P12" start="2875" end="2889" text="Tobey Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P13" start="2894" end="2912" text="Heritage Residence" TYPE="HOSPITAL" comment="" />
+<NAME id="P14" start="3339" end="3351" text="CARR, RACHEL" TYPE="DOCTOR" comment="" />
+<DATE id="P15" start="3361" end="3369" text="02/17/95" TYPE="DATE" comment="" />
+<DATE id="P16" start="3374" end="3382" text="02/17/95" TYPE="DATE" comment="" />
+<NAME id="P17" start="3397" end="3409" text="CARR, RACHEL" TYPE="DOCTOR" comment="" />
+<ID id="P18" start="3431" end="3440" text="2-8880418" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

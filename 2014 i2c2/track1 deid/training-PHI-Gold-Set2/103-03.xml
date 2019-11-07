@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2068-09-21
+
+EDVISIT^84091519^Thomas-yosef, Julia^09/21/68^KEMPER, SYLVAN
+
+The patient seen on 09/21/2068 with Dr. Jewell-Wilson. 
+
+Resident's history was reviewed.  Patient was interviewed and
+
+examined by me.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 40-year-old woman
+
+with history of coronary disease and has had intermittent chest
+
+pain over the past 4 days, unrelieved by 2 sublingual
+
+nitroglycerin yesterday, today relieved after 20 minutes with 1
+
+sublingual.  See resident's note for further details.  The
+
+patient is pain free now.
+
+PAST MEDICAL HISTORY:  Coronary disease, cardiac stent,
+
+hypercholesterolemia, and diabetes.
+
+CURRENT MEDICATIONS:  Atenolol, Zocor, Plavix, aspirin, and
+
+metformin.  See resident's note for further details.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  Past cigarette smoker.
+
+REVIEW OF SYSTEMS:  No shortness of breath, no nausea or
+
+vomiting, no headache.
+
+PHYSICAL EXAMINATION:  Temperature 97.5, blood pressure 124/55,
+
+pulse 79, respirations 18, O2 saturation 99% on room air.  HEENT:
+
+ Normocephalic, atraumatic.  Pupils are equal, round, and
+
+reactive to light.  Extraocular muscles intact.  Neck:  Supple,
+
+no meningeal sign.  CV:  Regular rate and rhythm.  Lungs:  Clear.
+
+ Abdomen:  Positive bowel sounds, soft, nontender.  Extremities: 
+
+No cyanosis, clubbing, or edema.  Neurologic:  Alert and oriented
+
+x3.  Cranial nerves are intact.  Motor and sensory are intact.
+
+LABORATORY DATA:  EKG was normal sinus rhythm, with no ST
+
+changes.
+
+The patient was seen by Dr. Donnelly in the Emergency
+
+Department.  The patient will be admitted to the Cardiology
+
+Service for further evaluation for unstable angina.  Started on
+
+heparin in the Emergency Department and likely cardiac
+
+catheterization tomorrow.
+
+See resident's note for details.
+
+______________________________
+
+KEMPER, SYLVAN M.D.
+
+D: 09/21/68
+
+T: 09/21/68
+
+Dictated By: KEMPER, SYLVAN
+
+eScription document:6-7180439 BFFocus
+
+******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2068-09-21" TYPE="DATE" comment="" />
+<ID id="P1" start="36" end="44" text="84091519" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="45" end="64" text="Thomas-yosef, Julia" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="65" end="73" text="09/21/68" TYPE="DATE" comment="" />
+<NAME id="P4" start="74" end="88" text="KEMPER, SYLVAN" TYPE="DOCTOR" comment="" />
+<DATE id="P5" start="110" end="120" text="09/21/2068" TYPE="DATE" comment="" />
+<NAME id="P6" start="130" end="143" text="Jewell-Wilson" TYPE="DOCTOR" comment="" />
+<AGE id="P7" start="273" end="275" text="40" TYPE="AGE" comment="" />
+<NAME id="P8" start="1552" end="1560" text="Donnelly" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="1854" end="1868" text="KEMPER, SYLVAN" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="1878" end="1886" text="09/21/68" TYPE="DATE" comment="" />
+<DATE id="P11" start="1891" end="1899" text="09/21/68" TYPE="DATE" comment="" />
+<NAME id="P12" start="1914" end="1928" text="KEMPER, SYLVAN" TYPE="DOCTOR" comment="" />
+<ID id="P13" start="1950" end="1959" text="6-7180439" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

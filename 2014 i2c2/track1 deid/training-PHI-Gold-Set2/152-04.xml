@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2096-08-14
+
+	CARDIOLOGY
+	
+
+	GRIFFIN NURSING CENTER
+	
+
+
+	Reason for visit:
+   Asked by Medicine team to see this 88 yo woman who presents with UGIB 9 d after inferior STEMI/BMS PCI to PLV/RCA
+
+
+	Interval History:
+   Ms. Ulrich is a 88 yo w/ h/o CAD, DM2, and dyslipidemia, who was admitted 10 d ago with an inferior STEMI in the setting of nauseau and CP, who subsequently received BMS stents to the RPLV and mid RCA.  Plavix was reloaded for 1 week in this setting.  She was discharged to a rehab facility in pauls valley 8/10/96 for PT/OT.  At the rehab facility she developed hematemesis and was admitted to the medicine service last night for UGIB.  She denies CP/SOB/N at present.  She does not have memory of the hematemesis episodes overnight.  She required some reorientation to the situation leading to her readmission.
+
+
+	Past medical history:
+   1. CAD:
+-s/p PCI of PDA 2089 for 99% lesion in setting of ACS, s/p PCI of 99% LAD lesion in 2090 also in setting of ACS, residual LV function normal w/o focal WMA in 2091.  Inferior STEMI 7/96 due to near occlusion of PLV resulting in BMS to PLV and mid RCA.
+2. HTN/Hypertensive heart disease: rather difficult to control HTN, needing multiple agents to achieve near normal to high normal pressures.  Had a good bp response to thiazides but caused unacceptable degree of hyponatremia.  BP also related to the degree of chronic low back pain, and was substantially better for 6 months after localized treatment.  Hypertensive HD manifest primarily as peripheral edema, worsened by norvasc, improved on diuretic.
+3. Dyslipidemia
+4. DMII
+5. Postherpetic neuralgia  
+6. Depression  
+7. Hemorrhoids  
+8. Osteoarthritis  
+9. h/o DVT /PE
+10. Breast CA  96 T2N1MO ER/PR+ Her2 neg breast CA s/p L radical mastectomy, XRT, and tamoxifen x 10 years  
+11. Recurrent UTI  
+12. Urinary incontinence 
+13. History of HIT AB Positive 2090
+
+
+	Family history:
+   There is a history of non-premature cardiovascular and cerebrovascular disease:  Her father died of a stroke in his 80s, her mother had congestive heart failure, and a brother had an MI.  Her other siblings have lived into their 80s.
+
+
+	Social history:
+   She has not smoked, and uses alcohol only rarely.  She lives at home with her youngest daughter, Vaccaro.  Another daughter, Tiffany, has been also very involved in her mother's care.
+
+
+	Review of systems:
+   As above, otherwise negative in detail. 
+
+Physical examination:
+	
+-Pulse: 58  
+-resp. rate:  16  
+-Abdomen:   soft NT and ND, no hepatosplenomegaly, no pulsatile masses.
+-Neuro:   a + oriented to self, needs orientation to location and context
+-Extremities:   trace lower extremity edema, 1+ bilat PT pulses, 2+ radial pulses
+-Chest:   cleart to auscultation anteriorly without crackles or wheezes
+-Neck:   JVP not elevated, no HJR, no carotid bruits
+-HEENT:   NC/AT, with mild ptosis of left eyelid from post herpetic changes
+-General appearance:   A WD, WN elderly woman in no acute distress. Answering questions propriately, but requiring reorientation.
+-BP: 155/60  
+
+
+	EKG:
+   NSR, CRO old IMI, NSSTTWAs, no significant change
+
+
+	Impression:
+   88 yo woman with extensive CAD history, HTN and DM2 recently started on oral agents, now presents with UGIB in setting of plavix extended reload of 150 QD x 1 week.
+
+Agree with reducing plavix to 75 QD for now in combination with low dose ASA.  Despite low level cardiac marker elevation there is little suggest an intercurrent coronary syndrome currently complicating the UGIB.  Would try to continue antiplatelet therapy for a minimum of 30 days, and preferably for 90 days in the setting of recently placed bare metal stents, if tolerable from a hemodynamic and hemostatic perspective.  Agree with switching to short term beta blocker, and holding lasix for now given apparent volume depletion.  Continue high dose statin, ARB, and low dose CCB for BP control.
+
+If UGIB continues to stabilize would prefer to maintain on H2 blocker rather than PPI to limit interference with antiplatelet therapy with plavix.  
+
+Will follow with you.
+
+	
+Geary A. Camacho, MD
+Document Status: Preliminary
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2096-08-14" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="44" end="66" text="GRIFFIN NURSING CENTER" TYPE="HOSPITAL" comment="" />
+<AGE id="P2" start="128" end="130" text="88" TYPE="AGE" comment="" />
+<NAME id="P3" start="235" end="241" text="Ulrich" TYPE="PATIENT" comment="" />
+<AGE id="P4" start="247" end="249" text="88" TYPE="AGE" comment="" />
+<LOCATION id="P5" start="525" end="537" text="pauls valley" TYPE="CITY" comment="" />
+<DATE id="P6" start="538" end="545" text="8/10/96" TYPE="DATE" comment="" />
+<DATE id="P7" start="896" end="900" text="2089" TYPE="DATE" comment="" />
+<DATE id="P8" start="964" end="968" text="2090" TYPE="DATE" comment="" />
+<DATE id="P9" start="1038" end="1042" text="2091" TYPE="DATE" comment="" />
+<DATE id="P10" start="1060" end="1064" text="7/96" TYPE="DATE" comment="" />
+<DATE id="P11" start="1889" end="1893" text="2090" TYPE="DATE" comment="" />
+<AGE id="P12" start="2032" end="2035" text="80s" TYPE="AGE" comment="" />
+<AGE id="P13" start="2145" end="2148" text="80s" TYPE="AGE" comment="" />
+<NAME id="P14" start="2269" end="2276" text="Vaccaro" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="2297" end="2304" text="Tiffany" TYPE="PATIENT" comment="" />
+<AGE id="P16" start="3131" end="3133" text="88" TYPE="AGE" comment="" />
+<NAME id="P17" start="4071" end="4087" text="Geary A. Camacho" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

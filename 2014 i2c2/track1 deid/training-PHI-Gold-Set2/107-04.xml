@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2095-12-21
+
+
+
+
+
+
+December 21, 2095
+
+
+
+ Attending Note
+
+
+I performed a history and neurological examination of the patient and discussed his management with the resident.  I reviewed the resident's note and agree with his documented findings and plan of care.
+
+
+The patient is a 71 year old man with HTN, DM and high cholesterol, PPM on coumadin for AF, glaucoma, who presented 4 w/a with R facial droop and dysarthria lasting &lt; 1 minute.  Was admitted for TIA w/u and CT scan was negative.  CTA was also normal.  He had had a similar episode in the UK in the past. Was started on a statin and ASA and discharged.  His wife feels he may not be that compliant but his INR was 2.3 today.  It had been 2 when he came in with the TIA&gt;
+
+
+The exam today showed:
+Acuity was 20/70 OD and Hand motions OS.
+Left APD
+Fundi with large C/D OD and diffuse pallor OS with an opticociliary shunt vessel along the nasal disc.
+Right facial weakness in the sense of eyebrow drop and less wrinkles in the forehead but smile equal.  Was not in UMN fashion.
+Motor, sensory, gait otherwise normal.
+
+
+Assessment:  
+Status post TIA possibly related to AF
+
+Left optic neuropathy with signs of chronic compression or ischemia.  The latter is more likely cause (especially since I did not see any mass lesion compressing the L optic nerve on the CT) and is proably secondary to glaucoma.
+
+
+Plan:
+Reviewed coumadin food rules with him.
+Continue 
+ASA and coumadin and statin
+Continued HTN and DM control
+Will touch base with ophthalmology regarding the left optic neuropathy
+
+Return in 6 months.
+
+
+
+
+Sincerely,
+
+
+
+
+Victor Meadows, M.D.
+Shady Brook Hospital
+Neurology
+
+745-456-4769
+vmeadows@sbhnc.org
+  
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2095-12-21" TYPE="DATE" comment="" />
+<DATE id="P1" start="33" end="50" text="December 21, 2095" TYPE="DATE" comment="" />
+<AGE id="P2" start="294" end="296" text="71" TYPE="AGE" comment="" />
+<LOCATION id="P3" start="564" end="570" text="the UK" TYPE="COUNTRY" comment="" />
+<NAME id="P4" start="1606" end="1620" text="Victor Meadows" TYPE="DOCTOR" comment="" />
+<LOCATION id="P5" start="1627" end="1647" text="Shady Brook Hospital" TYPE="HOSPITAL" comment="" />
+<CONTACT id="P7" start="1659" end="1671" text="745-456-4769" TYPE="PHONE" comment="" />
+<CONTACT id="P8" start="1672" end="1690" text="vmeadows@sbhnc.org" TYPE="EMAIL" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2076-09-08
+
+
+
+			CARDIOLOGY
+
+			
+
+			LAURENS MEMORIAL HOSPITAL
+
+			
+
+
+
+			Reason for visit:
+
+   Positive stress test.
+
+
+
+			Interval History:
+
+   The patient is a seventy-four year old man with multiple coronary risk factors.  As part of a work-up for his prostate cancer, stress test was performed on 6/30/76.  Myocardial scans showed old inferolateral MI with mild ischemia.  EF was 50%.  The patient denies any cardiac symptoms such as chest discomfort, SOB, palpitations, or dizziness.
+
+
+
+			Past medical history:
+
+   Prostate CA - RXT
+
+DVT
+
+Hypertension
+
+PVD
+
+DM x 2-3 yrs.
+
+COPD
+
+h/o vocal cord polyp resection - 2064
+
+
+
+			Medications (Confirmed):
+
+			
+
+ASA 81 mg po qd
+
+docusate sodium 100 mg po tid
+
+free text medications
+
+gabapentin 100mg po tid
+
+glyburide 10mgqam, 5 mg. qpm po qd
+
+HCTZ
+
+Lipitor 20mg po qd
+
+lisinopril 10 mg po qd
+
+metformin hydrochloride 500 mg po bid
+
+Prilosec 40mg po qd
+
+Toprol XL
+
+
+
+			Family history:
+
+   Negative for CAD.
+
+
+
+			Social history:
+
+   The patient was a CPA and is now retired.  He lives with his wife.  
+
+
+
+			Review of systems:
+
+   Due to back pain, his physical activity is pretty much limited.  He quit smoking in 1/76.
+
+
+
+Physical examination:
+
+			
+
+-BMI: 34.6  Obese, high risk
+
+-Pulse: 72  
+
+-height: 66  in.
+
+-weight: 214  lbs.
+
+-Neck:   JVP was not distended. Carotid upstroke was normal.  
+
+-Chest:   Breath sounds were coarse. 
+
+-Cardiac:   There was an S1 and S2.
+
+-Abdomen:   Obese
+
+-Extremities:   FA 2+/1+ with bilateral bruit. DP not palpable. Distal capillary filling - good.
+
+-Neuro:   
+
+-BP: 125/60  
+
+
+
+			EKG:
+
+   NSR @ 73 bpm. Mild non-specific STT wave changes.
+
+
+
+Selected recent labs:
+
+			 Liver and Pancreatic Enzymes
+
+Date     ALT/SGPT AST/SGOT 
+
+09/06/76 28       25       
+
+
+
+Lipid/Thyroid
+
+Date     LDL      
+
+09/06/76 145      
+
+
+
+Immunology
+
+Date     HGBA1C   
+
+09/06/76 6.80     
+
+
+
+
+
+			
+
+
+
+			Assessment and plan:
+
+   It looks like Mr. Quin has had an MI sometime in the past. Myocardial scans showed only mild ischemia in the territory of the prior MI.  Since he is asymptomatic, I would continue medical therapy.  For some reason, he has not started Lipitor.  His LDL is markedly elevated.  My target LDL would be below 70.  For his myocardial protection, I have suggested that he increase the dose of Toprol from 25 mg. qd to 50 mg. qd.
+
+
+
+Changes to Medications this visit
+
+			
+
+glyburide 10mgqam, 5 mg. qpm  po qd Start: 09/08/2076
+
+metformin hydrochloride 500 mg  po bid Start: 09/08/2076
+
+lisinopril 10 mg  po qd Start: 09/08/2076
+
+Toprol XL 25 mg  po qd Start: 09/08/2076
+
+Lipitor 20mg  po qd Start: 09/08/2076
+
+Prilosec 40mg  po qd Start: 09/08/2076
+
+docusate sodium 100 mg  po tid Start: 09/08/2076
+
+HCTZ 12.5 mg  po qd Start: 09/08/2076
+
+ASA 81 mg  po qd Start: 09/08/2076
+
+free text medications     morphine Start: 09/08/2076
+
+gabapentin 100mg  po tid Start: 09/08/2076
+
+
+
+Disposition:
+
+Follow-up in one year.
+
+
+
+			CC:   Eddie Zajac, M.D.
+
+
+
+			Signed electronically by   Freddie-Verne  Urie MD  on  Sep 13, 2076     
+
+		
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2076-09-08" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="53" end="78" text="LAURENS MEMORIAL HOSPITAL" TYPE="HOSPITAL" comment="" />
+<AGE id="P2" start="179" end="191" text="seventy-four" TYPE="AGE" comment="" />
+<DATE id="P3" start="318" end="325" text="6/30/76" TYPE="DATE" comment="" />
+<DATE id="P4" start="635" end="639" text="2064" TYPE="DATE" comment="" />
+<PROFESSION id="P5" start="1017" end="1020" text="CPA" TYPE="PROFESSION" comment="" />
+<DATE id="P6" start="1181" end="1185" text="1/76" TYPE="DATE" comment="" />
+<DATE id="P7" start="1737" end="1745" text="09/06/76" TYPE="DATE" comment="" />
+<DATE id="P8" start="1803" end="1811" text="09/06/76" TYPE="DATE" comment="" />
+<DATE id="P9" start="1857" end="1865" text="09/06/76" TYPE="DATE" comment="" />
+<NAME id="P10" start="1934" end="1938" text="Quin" TYPE="PATIENT" comment="" />
+<DATE id="P11" start="2424" end="2434" text="09/08/2076" TYPE="DATE" comment="" />
+<DATE id="P12" start="2482" end="2492" text="09/08/2076" TYPE="DATE" comment="" />
+<DATE id="P13" start="2525" end="2535" text="09/08/2076" TYPE="DATE" comment="" />
+<DATE id="P14" start="2567" end="2577" text="09/08/2076" TYPE="DATE" comment="" />
+<DATE id="P15" start="2606" end="2616" text="09/08/2076" TYPE="DATE" comment="" />
+<DATE id="P16" start="2646" end="2656" text="09/08/2076" TYPE="DATE" comment="" />
+<DATE id="P17" start="2696" end="2706" text="09/08/2076" TYPE="DATE" comment="" />
+<DATE id="P18" start="2735" end="2745" text="09/08/2076" TYPE="DATE" comment="" />
+<DATE id="P19" start="2771" end="2781" text="09/08/2076" TYPE="DATE" comment="" />
+<DATE id="P20" start="2825" end="2835" text="09/08/2076" TYPE="DATE" comment="" />
+<DATE id="P21" start="2869" end="2879" text="09/08/2076" TYPE="DATE" comment="" />
+<NAME id="P22" start="2932" end="2943" text="Eddie Zajac" TYPE="DOCTOR" comment="" />
+<NAME id="P23" start="2983" end="3002" text="Freddie-Verne  Urie" TYPE="DOCTOR" comment="" />
+<DATE id="P24" start="3011" end="3023" text="Sep 13, 2076" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2095-03-19
+
+Admit Note
+
+Dr. Vernell Fournier
+
+
+
+Ms. Francis is a Spanish speaking 80 yr old broadcast manager transferred from LRC to PAH for evaluation.  Hx obtaiend from prior LMR notes and conversation with ED physicians.
+
+
+
+Her PMH is notable for HTN, GERD, possible CAD, PVD, possible fibromyalgia with known perforated diverticulitis with abscess, s/p drain in 1/95.  She has been on broad spectrum antibiotics for many weeks. Given her refusal for transfusions and her comorbidities and personal refusal for surgery, she has been treated medically and conservatively.  She was at LRC and was on cefipime, linezolid and oral flagyl for her diverticulitis and was transfererd to PAH ED for ?slurred speech, change in MS, nausea and abdominal pain.  In ED, an abd CT done showed new moderate wall thickening in transverse adn descending colon with diverticular disease. A head CT was unremarkable and according to prior notes in chart, family membes felt her speech is baseline.  
+
+
+
+Meds: nexium 40 mg bid, neurontin 400 mg bid, isordil 20 mg tid, zocor 20 mg qd, methadone 2.5 mg qd, asa 325 mg qd, amantadine 5 mg qd, linezolid 600 mg bid, cefepime 1000 mg IV qd, flagyl 500 mg po tid, lisinopril 10 mg qd, metoprolol 75 mg bid, EPO 4000 units sc q month and ferrous sulfate 325 mg tid. 
+
+
+
+NKA
+
+
+
+PSH: right THR in 2088
+
+
+
+FH: unobtainable at this time
+
+SH: no ETOH and o toabcco use
+
+
+
+ROS: otherwise negative.
+
+
+
+On exam 120/70, 98.5, rr 14, pulse 65
+
+
+
+she appears comfortable
+
+abdomen is soft and nontender, no drainages from IR catheter.
+
+clear lungs
+
+s1s2s4 with flow murmur
+
+no edema, diminished peripheral pulses
+
+neuro exam is limited, she can follow instructions (I speak some spanish) and moves all fours.  Speech is a bit slurred.  gait not tested.
+
+right arm: no evidence of cellulitis from IV infiiltration.
+
+
+
+data: ECGL NSR 74, nonspecific T wave anl in V2-V6.
+
+wbc 4,100, hct 28.0, plt 220,000.  diff: 79% PMN, 17% lymph, 3% mon.
+
+Na 127 (hx of chronic hyponatremia), K 3.8,BUN/cr 11/0.7, glucose 158
+
+albumin 2.9, normal LFTs, amylase, lipase.
+
+
+
+imp: 80 year old with HTN, PVD, possible CAD, fibromyalgia with perforated diverticulitis and now worsening colonic thickening on abd CT while on broad spectrum antibiotics.  She has declined surgery in past and again declined surgery yesterday in ED.  Will thus continue current antibiotics, await C diff from stool.  
+
+-check iron levels
+
+-would obtain MRA of mesenteric  vessels to look for mesenteric ischemia (PVD, HTN, CAD, etc).
+
+-hold off on colonoscopy for now given risk for perforation.
+
+-cycle cardiac markers, continue antiHTN and anti-ischemic regimen.
+
+-consult GI and cardiology if clinical conditions worsen.
+
+
+
+
+
+______________________________                              
+
+
+
+Vernell Fournier, M.D. # 59427
+
+
+
+cc: Dr. Turk
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2095-03-19" TYPE="DATE" comment="" />
+<NAME id="P1" start="44" end="60" text="Vernell Fournier" TYPE="DOCTOR" comment="" />
+<NAME id="P2" start="68" end="75" text="Francis" TYPE="PATIENT" comment="" />
+<AGE id="P3" start="98" end="100" text="80" TYPE="AGE" comment="" />
+<PROFESSION id="P4" start="108" end="125" text="broadcast manager" TYPE="PROFESSION" comment="" />
+<LOCATION id="P5" start="143" end="146" text="LRC" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P6" start="150" end="153" text="PAH" TYPE="HOSPITAL" comment="" />
+<DATE id="P7" start="383" end="387" text="1/95" TYPE="DATE" comment="" />
+<LOCATION id="P8" start="603" end="606" text="LRC" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P9" start="700" end="703" text="PAH" TYPE="HOSPITAL" comment="" />
+<DATE id="P10" start="1339" end="1343" text="2088" TYPE="DATE" comment="" />
+<AGE id="P11" start="2094" end="2096" text="80" TYPE="AGE" comment="" />
+<NAME id="P12" start="2784" end="2800" text="Vernell Fournier" TYPE="DOCTOR" comment="" />
+<CONTACT id="P13" start="2809" end="2814" text="59427" TYPE="PHONE" comment="" />
+<NAME id="P14" start="2826" end="2830" text="Turk" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

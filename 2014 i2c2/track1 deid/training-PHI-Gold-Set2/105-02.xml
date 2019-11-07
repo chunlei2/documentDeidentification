@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2147-03-11
+
+Reason for consult:  65 year old man with progressive LBP, found to have heterogeneous marrow on MRI, we have been consulted to help evaluate, possibly perform a bone marrow biopsy.
+
+
+
+HPI:
+
+65 yo male with PMH significant for DM, autonomic dysfunction, CRI, depression and arthritis who was admitted for progressive lower back pain.  He has had LBP for at least three years which is located in his mid lumbar region, non radiating, worse with standing.  The pain had progressed such that he has a very poor performance status. He cannot stand but for a few minutes at a time.  He denies focal wekness.   He had an MRI of the LS spine 2/02/47 which revealed heterogeneous marrow concernig for an infiltrating process in his marrow.   He has had an SPEP which was normal, he has had a bone scan which was negatvie. He does not have an elevated protein or globulin fraction. His CRI is longstanding  and attributed to his DM.  He was set up for a outpt BM bx to evaluate the marrow process, but the pain has been so severe, he was admitted for an inpatient work up.  Of note he has longstanding anemia related to his CRI, perhaps anemia of chronic disease.  He denies any weight loss, fevers, chills, night sweats, decreased appetite. He does report fatigue which has become progressive.
+
+
+
+PMH:
+
+1. DM
+
+2. autonomic dysfunction with orthostatic hypotension
+
+3. diabetic retinopathy
+
+4. depression
+
+5. CRI
+
+6. OA
+
+7.  H/o TB 2132 
+
+8.  C7 radiculopthy with bil hand weakness and neck pain
+
+9. HL
+
+10 Seborrheic dermatitis
+
+
+
+Meds:
+
+lovastatin, fludrocortisone, celexa, reglan, proamatine, ultram, insulin, colace, ecasa
+
+
+
+All: NKDA
+
+
+
+FH: Father had Diabetes, mother died of breast cancer.
+
+
+
+SH: Worked in Foxworthy Industrials 2100-4 during which time he had multple exposures to chemicals. Retired from working in the city of Victorville 2141. He reports a 30 pyr hx of tobacco, former hx of heavy ETOH use, stopped since 12/46. Denies IV DU.
+
+
+
+PE:
+
+General: thin gentleman, in no actute distress
+
+HEENT: PERRLA< EOMI, Op without thrush, no thyromegaly, No JVD
+
+Chest: CTA bil
+
+CV: RRR nml s1, s2, no m/g/r
+
+Abd: + bs, soft, non-tender, non-distended, no hepatosplenomegaly
+
+Ext: no c/c/e
+
+neuro: strenth 5/5 throughout; absent patellar reflexes, 2+ biceps, triceps, brachioradialis, downgoing toes bilaterally
+
+
+
+Labs:
+
+Cr 1.4  Bun 25  HCT 28.6  WBC 5.5  Plt 201  MCV 87  80seg; 15l
+
+ESR 35
+
+Pt/Ptt nml
+
+SPEP 2/47: nml  T prot 6  Alb 3.4
+
+MRI 1/47: heterogenous bonemarrow uptake in vertebrae and pelvis, concerning for infiltrative process
+
+
+
+Imp/Plan:
+
+Mr. Tuttle is a 65 year old male with a three year hisotry of porgressive lower back pain, non-radicualr in nature. The pain has progressed to a significant level such that he spends most of his day in bed.  He did have an MRI of the L/S spine which was negative except it did reveal heterogeous uptake in the vertebral and pelvic bone marrow. They raised the question of multiple myeloma or another infiltrative process. He does have renal insufficiency, but no other abnormalities to suggest MM. We still need a few key pieces of data to rule this out. Other infiltrative processes such as malignancy from elsewhere should be excluded.  In addition, he has a hx of a positive PPD, unclear if he actually had active TB or was treated prophylactically. Is any of this TB?  Recommend:
+
+-- skeletal survey
+
+-- quantitative urine bence jones proteins as there are  non-secretory myelomas
+
+-- beta-2 microglobulin
+
+-- reticulocyte count
+
+-- consider chest CT to r/o lung cancer given his history of tobacco
+
+-- guaiac all stools
+
+-- Will review the MRI with radiologist to get a better differential
+
+-- Consider BM biopsy next week, unfortunately will not be able to perform today. 
+
+-- Will review smear and staff with Dr. Landry in the afternoon.
+
+Thank you for this consult.
+
+
+
+______________________________________________
+
+
+
+Ivy Whitaker, M.D.
+
+
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2147-03-11" TYPE="DATE" comment="" />
+<AGE id="P1" start="49" end="51" text="65" TYPE="AGE" comment="" />
+<AGE id="P2" start="219" end="221" text="65" TYPE="AGE" comment="" />
+<DATE id="P3" start="663" end="670" text="2/02/47" TYPE="DATE" comment="" />
+<DATE id="P4" start="1451" end="1455" text="2132" TYPE="DATE" comment="" />
+<LOCATION id="P5" start="1734" end="1755" text="Foxworthy Industrials" TYPE="ORGANIZATION" comment="" />
+<DATE id="P6" start="1756" end="1760" text="2100" TYPE="DATE" comment="" />
+<DATE id="P7" start="1761" end="1762" text="4" TYPE="DATE" comment="" />
+<LOCATION id="P8" start="1856" end="1867" text="Victorville" TYPE="CITY" comment="" />
+<DATE id="P9" start="1868" end="1872" text="2141" TYPE="DATE" comment="" />
+<DATE id="P10" start="1952" end="1957" text="12/46" TYPE="DATE" comment="" />
+<DATE id="P11" start="2441" end="2445" text="2/47" TYPE="DATE" comment="" />
+<DATE id="P12" start="2475" end="2479" text="1/47" TYPE="DATE" comment="" />
+<NAME id="P13" start="2591" end="2597" text="Tuttle" TYPE="PATIENT" comment="" />
+<AGE id="P14" start="2603" end="2605" text="65" TYPE="AGE" comment="" />
+<NAME id="P15" start="3807" end="3813" text="Landry" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="3914" end="3926" text="Ivy Whitaker" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

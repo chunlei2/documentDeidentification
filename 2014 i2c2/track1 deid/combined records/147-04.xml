@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2094-04-07
+
+ Surgery Admission Note
+
+
+CC: Presents for lung transplant
+
+HPI: Mr. Horn is a 59-year-old man with end-stage lung disease due to idiopathic pulmonary fibrosis. He was admitted to the BCC from 1/8/94 to 3/15/94 with hypoxic respiratory failure requiring endotracheal intubation and admission to the medical ICU. During that admission he was listed for lung transplantation. He was discharged to a rehab facility and then to home two days ago. He returns now for single lung transplant from a deceased donor.
+
+PMH:
+Idiopathic pulmonary fibrosis
+Obstructive sleep apnea
+CAD (last cardiac cath 1/15/94)
+Paroxysmal atrial fibrillation
+Diabetes
+GERD
+ESBL Klebsiella UTI
+C. Difficile colitis
+Bilateral pneumothoraces requiring chest tube
+Right foot drop due to common peroneal nerve palsy
+
+PSH: 
+2091: Flexible Bronchoscopy, Mediastinoscopy, Right VATS with multiple right sided wedge biopsies (Dr. Yerger)
+2/2093: Left chest tube
+     
+MEDICATIONS (Confirmed 4/7/94 on admission):
+Reglan 10mg PO AC+HS
+Lopressor 50mg PO TID
+Prednisone 10mg PO QD
+Potassium Chloride immed release 40meq PO QD
+Digoxin 0.125mg PO QD
+Omeprazole 40mg PO QD
+Bactrim SS 1 tab PO QD
+Sucralfate 1gram PO QHS
+Mycophenolate Mofetil (Cellcept ) 750 MG PO BID
+Clonazepam 1mg PO QHS PRN insomnia
+Lipitor 20mg PO QD
+Acetylcysteine 20%(200 Mg/ml)  PO 600 MG Q8H
+Colace 100 TID
+Senna PO 2 TAB BID PRN constipation
+Fentanyl (Patch)  TRANSDERMAL 25 MCG/HR Q72H
+Codeine 30mg PO 9am, 3pm, 9pm, 3am
+Codeine 15mg PO 12am, 6pm, 6am, 12pm
+Insulin NPH Human  SC 28 units before breakfast
+Insulin regular SC 4 units before lunch
+Acetylsalicylic Acid (Aspirin )  PO 325 MG QD
+Gamma interferon ?dose SC three times weekly
+Multivitamin 1 tab PO QD
+
+ALLERGIES: NKDA: No Known Drug Allergies
+
+Exam:
+VS: 97.3, 82 regular, 127/63, 20-24, 98% on 8LNC 
+General: Pleasant man in NAD on nasal oxygen. Speaks a few words at a time. Here with his family.
+Neck: Supple, no JVD
+Lungs: Distant, clear, expansion symmetric.
+Heart: RRR without appreciable MRG
+Abd: Soft, nontender, nondistended
+GU: Circumcised; hypospadias with very small urethral orifice
+Sacrum: Area of redness over the sacrum with soft skin but no skin breakdown, drainage, or fluctuance
+Extr: WWP, + trace digital clubbing.  Nail beds pink with brisk capillary refill.
+
+Assessment: 59-year-old man with end-stage pulmonary fibrosis, admitted now for lung transplant
+
+Plan:
+-Pre-op labs and studies including crossmatch for 10 units each PRBC, FFP, platelets
+-OR for lung transplant; surgical consent signed and on chart
+-Antibiotics/inductions meds in OR per Dr. Patterson (ordered; availability confirmed)
+-Urology re hypospadias
+-SICU post-op
+
+
+________________________ 
+Nicholas Lange, MD
+BCC Surgery PGY-1 14338
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2094-04-07" TYPE="DATE" comment="" />
+<NAME id="P2" start="97" end="101" text="Horn" TYPE="PATIENT" comment="" />
+<AGE id="P3" start="107" end="109" text="59" TYPE="AGE" comment="" />
+<LOCATION id="P4" start="212" end="215" text="BCC" TYPE="HOSPITAL" comment="" />
+<DATE id="P5" start="221" end="227" text="1/8/94" TYPE="DATE" comment="" />
+<DATE id="P6" start="231" end="238" text="3/15/94" TYPE="DATE" comment="" />
+<DATE id="P7" start="619" end="626" text="1/15/94" TYPE="DATE" comment="" />
+<DATE id="P8" start="818" end="822" text="2091" TYPE="DATE" comment="" />
+<NAME id="P9" start="921" end="927" text="Yerger" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="929" end="935" text="2/2093" TYPE="DATE" comment="" />
+<DATE id="P11" start="982" end="988" text="4/7/94" TYPE="DATE" comment="" />
+<AGE id="P12" start="2315" end="2317" text="59" TYPE="AGE" comment="" />
+<NAME id="P13" start="2596" end="2605" text="Patterson" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="2706" end="2720" text="Nicholas Lange" TYPE="DOCTOR" comment="" />
+<LOCATION id="P15" start="2725" end="2728" text="BCC" TYPE="HOSPITAL" comment="" />
+<CONTACT id="P16" start="2743" end="2748" text="14338" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

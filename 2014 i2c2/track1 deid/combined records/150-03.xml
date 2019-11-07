@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2079-02-13
+
+                     PMH EMERGENCY DEPT VISIT
+ 
+WESTYN-NUEL,KELLI   898-97-85-6            VISIT DATE: 02/13/79
+This patient was seen with Dr. Quilla Uehara, an Emergency 
+Medicine resident.  The PRESENTING COMPLAINT, HISTORY OF PRESENTING 
+COMPLAINT, PAST MEDICAL HISTORY, MEDICATIONS, ALLERGIES, SOCIAL 
+HISTORY, FAMILY HISTORY, and REVIEW OF SYSTEMS:  As noted on the 
+record by Dr. Uehara, and as reviewed with the patient and with Dr. 
+Uehara.  Briefly, the patient is a pleasant 64-year-old woman, who 
+has had episodes of severe left-sided pressure-like chest pain off 
+and on through the course of this week.  This has occurred with 
+exertion and has always cleared with rest.  She is pain-free at 
+present, but presents to the Emergency Department because she 
+reported to her family that she had ceased taking her high blood 
+pressure medications. 
+PHYSICAL EXAMINATION:  The physical examination is as noted by Dr. 
+Uehara.  Basically, the examination is completely normal with the 
+exception of the blood pressure, which ranges from 220 to 230 over 
+100 to 110.  The patient's electrocardiogram does not show acute 
+changes. 
+LABORATORY EVALUATION:  The cardiac troponin I is 0.53. 
+THERAPY RENDERED/COURSE IN ED:  I concur with Dr. Uehara that the 
+patient has a strong history for unstable angina.  The patient will 
+be admitted to the hospital for further evaluation.  She has 
+remained pain-free while in the Emergency Department and has 
+received nitroglycerin paste.  Her blood pressure will be treated 
+with initiation of an ACE inhibitor. 
+FINAL DIAGNOSIS:  Unstable angina. 
+DISPOSITION (including condition upon discharge):  The patient is 
+admitted to the hospital in satisfactory condition. 
+___________________________________                    IZ329/1982 
+STEPHEN X. PIKE, M.D.  SP59                               D:02/13/79 
+                                                       T:02/13/79 
+Dictated by:  STEPHEN X. PIKE, M.D.  SP59 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2079-02-13" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="49" end="52" text="PMH" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="76" end="93" text="WESTYN-NUEL,KELLI" TYPE="PATIENT" comment="" />
+<ID id="P3" start="96" end="107" text="898-97-85-6" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="131" end="139" text="02/13/79" TYPE="DATE" comment="" />
+<NAME id="P5" start="171" end="184" text="Quilla Uehara" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="414" end="420" text="Uehara" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="469" end="475" text="Uehara" TYPE="DOCTOR" comment="" />
+<AGE id="P8" start="513" end="515" text="64" TYPE="AGE" comment="" />
+<NAME id="P9" start="955" end="961" text="Uehara" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="1273" end="1279" text="Uehara" TYPE="DOCTOR" comment="" />
+<ID id="P11" start="1799" end="1809" text="IZ329/1982" TYPE="IDNUM" comment="" />
+<NAME id="P12" start="1811" end="1826" text="STEPHEN X. PIKE" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="1834" end="1838" text="SP59" TYPE="USERNAME" comment="" />
+<DATE id="P14" start="1871" end="1879" text="02/13/79" TYPE="DATE" comment="" />
+<DATE id="P15" start="1938" end="1946" text="02/13/79" TYPE="DATE" comment="" />
+<NAME id="P16" start="1962" end="1977" text="STEPHEN X. PIKE" TYPE="DOCTOR" comment="" />
+<NAME id="P17" start="1985" end="1989" text="SP59" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

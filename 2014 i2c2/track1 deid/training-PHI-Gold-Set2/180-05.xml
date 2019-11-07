@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2088-03-01
+
+                     FPM EMERGENCY DEPT VISIT
+ 
+TINSLEY,PEGGY R   236-67-03-3                  VISIT DATE: 03/01/88
+The patient was seen in the emergency department with Dr. Singleton, 
+history per Dr. Singleton. 
+PRESENTING COMPLAINT:  Ear pain and rash. 
+HISTORY OF PRESENTING COMPLAINT:  The patient is a 49 year old 
+female with past medical history positive for recent transplant, 
+hypertension, Insulin dependent diabetes mellitus, and coronary 
+artery bypass grafting who presented to the emergency department 
+with right ear pain for the last week now.  She now has a petechia 
+rash in the periumbilical area.  She has no fevers, chills, cough, 
+trauma, or other complaints. 
+REVIEW OF SYSTEMS:  As documented by Dr. Singleton. 
+PAST MEDICAL HISTORY:  As documented by Dr. Singleton. 
+MEDICATIONS:  As documented by Dr. Singleton. 
+ALLERGIES:  As documented by Dr. Singleton. 
+SOCIAL HISTORY AND FAMILY HISTORY:  As documented by Dr. Singleton. 
+PHYSICAL EXAMINATION:  The patient is in no acute distress.  Her 
+blood pressure is 220/80, pulse 80 and regular, respirations 16, 
+the patient is afebrile with oxygen saturation 97% on room air. 
+Examination of her right air shows positive cerumen impaction and 
+question of otitis externa.  Otherwise her airway is patent.  Her 
+neck is supple without jugular venous distension, nodes, or bruits. 
+Her lungs are clear.  Her heart reveals a regular rate and rhythm 
+without murmur.  Her abdomen is soft, positive petechial rash on 
+the left aspect of the umbilicus, not raised, no hives or 
+tenderness over the graft.  No rebound, guarding, or rigidity.  Her 
+extremities have no deformities.  Neurologic examination is non 
+focal.  The rest of the physical examination is unremarkable. 
+LABORATORY EVALUATION:  Complete blood count shows a white blood 
+cell count of 5.8, hematocrit 35.8.  Electrolytes are within normal 
+limits.  BUN is 16.9 with creatinine 2.8. 
+THERAPY RENDERED/COURSE IN ED:  The patient was seen in the 
+emergency department by ENT and by the transplant service. 
+FINAL DIAGNOSIS:  Cerumen impaction and otitis externa to the ear. 
+Elevated BUN and creatinine. 
+DISPOSITION (including condition upon discharge):  The patient was 
+admitted for further evaluation and treatment.  She was admitted in 
+stable condition. 
+___________________________________                    MA317/6938
+                                                       D:03/01/88 
+                                                       T:03/02/88 
+Dictated by:  UNKNOWN Y. PARRA, M.D.  UP65 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2088-03-01" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="49" end="52" text="FPM" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="76" end="91" text="TINSLEY,PEGGY R" TYPE="PATIENT" comment="" />
+<ID id="P3" start="94" end="105" text="236-67-03-3" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="135" end="143" text="03/01/88" TYPE="DATE" comment="" />
+<NAME id="P5" start="202" end="211" text="Singleton" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="230" end="239" text="Singleton" TYPE="DOCTOR" comment="" />
+<AGE id="P7" start="336" end="338" text="49" TYPE="AGE" comment="" />
+<NAME id="P8" start="753" end="762" text="Singleton" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="809" end="818" text="Singleton" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="856" end="865" text="Singleton" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="901" end="910" text="Singleton" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="970" end="979" text="Singleton" TYPE="DOCTOR" comment="" />
+<ID id="P13" start="2379" end="2389" text="MA317/6938" TYPE="IDNUM" comment="" />
+<DATE id="P14" start="2447" end="2455" text="03/01/88" TYPE="DATE" comment="" />
+<DATE id="P15" start="2514" end="2522" text="03/02/88" TYPE="DATE" comment="" />
+<NAME id="P16" start="2538" end="2554" text="UNKNOWN Y. PARRA" TYPE="DOCTOR" comment="" />
+<NAME id="P17" start="2562" end="2566" text="UP65" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

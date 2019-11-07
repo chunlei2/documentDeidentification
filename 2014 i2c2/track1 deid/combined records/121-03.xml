@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2074-06-04
+
+ 
+ 
+ 
+ 
+Jun 04, 2074
+ 
+ 
+Jacob Bautista, M.D.
+589 Eldorado Circle
+Coeburn, WA 42646
+ 
+Re:  Kenneth Umstead
+     MR#  401-10-87-8
+ 
+Dear Jac:
+ 
+I saw your patient Kenneth Umstead in the Cardiology Office today and
+he feels he has actually improved.  His primary limitation had been
+his claudication, but he feels that he can walk better now than in
+the past.  We had a repeat evaluation of his segmental leg pressure
+and volumes, and these actually were unchanged from a prior study
+two years ago.  The post volume recordings were normal in each leg. 
+Systolic pressure gradients were present in the right leg
+consistent with mild anterior tibial/dorsalis pedis disease.  No
+systolic pressure gradients were found in the left leg.  These were
+unchanged from January, 2072.  Mr. Umstead feels that he can be more
+physically active and is less limited.
+ 
+His current medical regimen includes Metoprolol 50 mg b.i.d.,
+Nifedipine XL 60 mg q.d., and Lasix 20 mg q.d.
+ 
+Of note, in October, 2073, he was found by colonoscopy to have four
+polyps which were removed.  Apparently, no malignant cells were
+seen in the pathologic specimens.
+ 
+On exam, he is comfortable with a blood pressure of 122/68, heart
+rate 63 and regular, weight 205 lbs.  HEENT unremarkable.  Chest
+was clear.  Cardiac exam showed no jugular venous distention at 30
+degrees, PMI is normal.  S1 and S2 normal but physiologically
+split.  There was an S4 and a I/VI systolic ejection murmur at the
+lower left sternal border.  Abdominal exam was unremarkable. 
+Extremities show no edema or cyanosis.
+ 
+His resting 12 lead EKG demonstrates normal sinus rhythm, left axis
+deviation, and persisting X waves across the precordium consistent
+with his left anterior hemiblock.
+ 
+I think Mr. Umstead is doing quite well.  He asked that I see him
+again in six months for routine re-evaluation, and I would be happy
+to do so. If any problems develop in the interim please don't
+hesitate to contact me.  Thank you for allowing me to participate
+in his care.
+ 
+Kenneth Umstead
+MR#  401-10-87-8              -2-            Jun 04, 2074
+ 
+With best regards. 
+ 
+Sincerely, 
+ 
+ 
+ 
+Marshall O. Lehman, M.D. 
+Wilson Medical Center
+30 Whipple St
+Tonkawa, WA 67495
+ 
+DD: 06/04/74
+DT: 06/08/74
+DV: 06/04/74
+ 
+ 
+ 
+MOL/farrar
+ 
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2074-06-04" TYPE="DATE" comment="" />
+<DATE id="P1" start="36" end="48" text="Jun 04, 2074" TYPE="DATE" comment="" />
+<NAME id="P2" start="53" end="67" text="Jacob Bautista" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="74" end="93" text="589 Eldorado Circle" TYPE="STREET" comment="" />
+<LOCATION id="P4" start="94" end="101" text="Coeburn" TYPE="CITY" comment="" />
+<LOCATION id="P5" start="103" end="105" text="WA" TYPE="STATE" comment="" />
+<LOCATION id="P6" start="106" end="111" text="42646" TYPE="ZIP" comment="" />
+<NAME id="P7" start="119" end="134" text="Kenneth Umstead" TYPE="PATIENT" comment="" />
+<ID id="P8" start="145" end="156" text="401-10-87-8" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P9" start="164" end="167" text="Jac" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="190" end="205" text="Kenneth Umstead" TYPE="PATIENT" comment="" />
+<DATE id="P11" start="785" end="798" text="January, 2072" TYPE="DATE" comment="" />
+<NAME id="P12" start="805" end="812" text="Umstead" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="1003" end="1016" text="October, 2073" TYPE="DATE" comment="" />
+<NAME id="P14" start="1772" end="1779" text="Umstead" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="2037" end="2052" text="Kenneth Umstead" TYPE="PATIENT" comment="" />
+<ID id="P16" start="2058" end="2069" text="401-10-87-8" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P17" start="2098" end="2110" text="Jun 04, 2074" TYPE="DATE" comment="" />
+<NAME id="P18" start="2153" end="2171" text="Marshall O. Lehman" TYPE="DOCTOR" comment="" />
+<LOCATION id="P19" start="2179" end="2200" text="Wilson Medical Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P20" start="2201" end="2214" text="30 Whipple St" TYPE="STREET" comment="" />
+<LOCATION id="P21" start="2215" end="2222" text="Tonkawa" TYPE="CITY" comment="" />
+<LOCATION id="P22" start="2224" end="2226" text="WA" TYPE="STATE" comment="" />
+<LOCATION id="P23" start="2227" end="2232" text="67495" TYPE="ZIP" comment="" />
+<DATE id="P24" start="2239" end="2247" text="06/04/74" TYPE="DATE" comment="" />
+<DATE id="P25" start="2252" end="2260" text="06/08/74" TYPE="DATE" comment="" />
+<DATE id="P26" start="2265" end="2273" text="06/04/74" TYPE="DATE" comment="" />
+<NAME id="P27" start="2280" end="2283" text="MOL" TYPE="DOCTOR" comment="" />
+<NAME id="P28" start="2284" end="2290" text="farrar" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

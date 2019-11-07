@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2086-07-15
+
+EDVISIT^92819461^STEPHENSON, BREDNA^07/15/86^WALLACE, VELMA
+
+I saw this patient on 07/15/2086 in conjunction with Dr. Echols. 
+
+I confirm that I have interviewed and examined the patient,
+
+reviewed the resident's documentation on the patient's chart, and
+
+discussed the evaluation, plan of care, and disposition with the
+
+patient.
+
+CHIEF COMPLAINT:  A 68-year-old female with leg pain.
+
+HISTORY OF PRESENT ILLNESS:  The patient with known coronary
+
+artery disease, peripheral vascular disease, and diabetes, status
+
+post left fem-pop bypass and transmetatarsal amputation of her
+
+left foot at the Siouxland on 05/02/2086.  This was complicated by
+
+acute renal failure with creatinine between 1.6 and 2.4 and
+
+labile sugars.  She was discharged to rehab on 04/19/2086 for
+
+approximately 1 month.  Subsequently, she developed left thigh
+
+erythema, swelling, and pain along the incision site yesterday. 
+
+She has had no fevers, nausea, or vomiting but has had difficulty
+
+ambulating due to pain, denies any diarrhea but has had some mild
+
+stomach upset.
+
+PAST MEDICAL HISTORY:  Remarkable as I said for hypertension,
+
+diabetes, CHF, chronic renal insufficiency, peripheral vascular
+
+disease, and hypothyroidism.  She had MIBI in 2084 with LAD and
+
+D1 lesion.  Her EF was 35%.  She had a CABG in 2083.
+
+Social history, family history, and review of systems are as per
+
+the written note.
+
+MEDICATIONS:  Amitriptyline, atenolol, aspirin,
+
+hydrochlorothiazide, insulin, Lasix, lisinopril, Norvasc,
+
+Synthroid, Zocor, and Zoloft.
+
+ALLERGIES:  None.
+
+PHYSICAL EXAMINATION:  The patient is awake and alert, in no
+
+acute distress, however, distinctly uncomfortable.  Vital signs: 
+
+Temperature is 97.2, pulse 59, respiratory rate 20, blood
+
+pressure 148/67, and oxygen saturation is 97% on room air.  For
+
+full physical exam findings, please see the resident's written
+
+note.  Specifically, HEENT, neck, abdominal exam, and neurologic
+
+exams are within normal limits as documented.  Respiratory exam
+
+reveals crackles at the bases but no respiratory distress. 
+
+Cardiovascular exam:  Regular rate and rhythm with 2/6 systolic
+
+ejection murmur at the left upper sternal border. 
+
+Musculoskeletal exam:  The fem-pop incision on the left leg is
+
+concerning for purulent drainage along the incision site,
+
+especially along the upper aspect of the upper thigh.  There is
+
+approximately an area of 8 x 5 cm of erythema, induration, and
+
+tenderness surrounding the area draining purulent material.  The
+
+patient also has a transmetatarsal amputation.  The wound there
+
+is clean, dry, and intact.
+
+LABORATORY DATA:  CBC and electrolytes remarkable for white blood
+
+count of 10.9, BUN and creatinine ratio of 30:1.4 respectively.
+
+EMERGENCY DEPARTMENT COURSE:  Surgery was consulted regarding
+
+this likely wound infection.  Vancomycin, levofloxacin, and
+
+Flagyl were their request for antibiotics.  These were
+
+administered in the Emergency Department, and the patient will be
+
+admitted for likely operative debridement of this wound
+
+infection.
+
+ ******** Not reviewed by Attending Physician ********
+
+PRIMARY DIAGNOSIS:  Postsurgical infection.
+
+SECONDARY DIAGNOSIS:  Diabetes.
+
+TERTIARY DIAGNOSIS:  Peripheral vascular disease.
+
+DISPOSITION:  Admitted.
+
+______________________________
+
+WALLACE, VELMA MD
+
+D: 07/19/86
+
+T: 07/19/86
+
+Dictated By: WALLACE, VELMA
+
+eScription document:2-8532294 BF
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2086-07-15" TYPE="DATE" comment="" />
+<ID id="P1" start="36" end="44" text="92819461" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="45" end="63" text="STEPHENSON, BREDNA" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="64" end="72" text="07/15/86" TYPE="DATE" comment="" />
+<NAME id="P4" start="73" end="87" text="WALLACE, VELMA" TYPE="DOCTOR" comment="" />
+<DATE id="P5" start="111" end="121" text="07/15/2086" TYPE="DATE" comment="" />
+<NAME id="P6" start="146" end="152" text="Echols" TYPE="DOCTOR" comment="" />
+<AGE id="P7" start="380" end="382" text="68" TYPE="AGE" comment="" />
+<LOCATION id="P8" start="625" end="634" text="Siouxland" TYPE="HOSPITAL" comment="" />
+<DATE id="P9" start="638" end="648" text="05/02/2086" TYPE="DATE" comment="" />
+<DATE id="P10" start="784" end="794" text="04/19/2086" TYPE="DATE" comment="" />
+<DATE id="P11" start="1254" end="1258" text="2084" TYPE="DATE" comment="" />
+<DATE id="P12" start="1320" end="1324" text="2083" TYPE="DATE" comment="" />
+<NAME id="P13" start="3297" end="3311" text="WALLACE, VELMA" TYPE="DOCTOR" comment="" />
+<DATE id="P14" start="3319" end="3327" text="07/19/86" TYPE="DATE" comment="" />
+<DATE id="P15" start="3332" end="3340" text="07/19/86" TYPE="DATE" comment="" />
+<NAME id="P16" start="3355" end="3369" text="WALLACE, VELMA" TYPE="DOCTOR" comment="" />
+<ID id="P17" start="3391" end="3400" text="2-8532294" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

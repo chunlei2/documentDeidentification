@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2089-05-19
+
+CCU JAR Transfer Note
+
+Pt: Tiffany Ulrich
+
+MR#: 824-59-51
+
+Date of Admission:  5/19/89
+
+Cardiologist: Jewett
+
+
+
+ID:   81 year old with cardiac risk factors of HTN, hyperlipidemia p/w IMI
+
+
+
+HPI:   	 Ms Ulrich has the above risk factors which include HTN and hyperlipidemia and on the day of admission developed 6/10  left arm pain and lower gum pain associated with some nausea around 11: pm, she drove with her daughter to the GNC ED where EKG was positive for inferior STEMI and she was treated wit TNG, integrillin, lopressor and sent to cath.
+
+
+
+In the cath lab she had a noted culprit PDA lesion and had a 2.25 mm by 18mm stent, the rest of her anatomy included 20% LM, 30% LAD, 30% LCX, 40% dominant RCA. She had an angioseal placed and was transferred to the CCU
+
+
+
+CCU Course: Her stay in the CCU was uneventful, she had her integrillin continued for 12 hours and was started on ASA, Plavix, Lopressor and ACE 
+
+
+
+
+
+PMH: 
+
+HTN
+
+Osetoarthritis 
+
+Breast CA
+
+Elevated Cholesterol
+
+Recent admission for CHF
+
+	 
+
+
+
+Meds on admission:  	
+
+Norvasc
+
+Atenolol
+
+Lasix 40
+
+Atacand 32mg qd
+
+
+
+Meds on Transfer:
+
+ASA
+
+Heparin SC
+
+Nexium 40mg qd
+
+Nitrofurantin
+
+Pravachol 40mg qd
+
+Plavix 75 mg qd
+
+Atacand 16mg qd
+
+Lopressor 37.5 mg tid
+
+ 	
+
+All:  	Narcotics cause GI upset
+
+
+
+SH:  	Non-smoker, rare ETOH
+
+	
+
+FH:  Father died of stroke in 80's, mother w/ CHF
+
+
+
+
+
+
+
+Exam:  	
+
+
+
+Please today's PN
+
+
+
+Labs:  
+
+	
+
+Please see today's labs
+
+
+
+
+
+
+
+
+
+
+
+CXR:	
+
+There is increase in central lung markings. I cannot exclude
+
+	developing pulmonary edema. The heart appears slightly larger in
+
+	size but this may be due to lower lung volumes. The right
+
+	diaphragm remains mildly elevated.
+
+
+
+
+
+
+
+EKG:	NSR, w/ 1mm STE in III and AVF
+
+
+
+
+
+____________________________________________
+
+Impr:	:   81 year old with cardiac risk factors of HTN, hyperlipidemia p/w IMI
+
+
+
+Plan: 	
+
+	
+
+CV:
+
+Ischemia - s/p setnt to RCA, ASA, Plavix, Pravachol, Lopressor and ARB
+
+                     Stress test  in 4-6 weeks
+
+
+
+Pump - F/U ECHO in 3 days, prior h/o CHF
+
+
+
+Rhythm --  Had some NSVT, increase B-Blocker, monitor lytes
+
+
+
+	
+
+FEN- Nexium, heparin SC	
+
+
+
+UTI-  Marodantin for 3 days 	
+
+
+
+
+
+
+
+
+
+_________________________________
+
+Vernon Voorhees
+
+95540
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2089-05-19" TYPE="DATE" comment="" />
+<NAME id="P1" start="55" end="69" text="Tiffany Ulrich" TYPE="PATIENT" comment="" />
+<ID id="P2" start="76" end="85" text="824-59-51" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="107" end="114" text="5/19/89" TYPE="DATE" comment="" />
+<NAME id="P4" start="130" end="136" text="Jewett" TYPE="DOCTOR" comment="" />
+<AGE id="P5" start="146" end="148" text="81" TYPE="AGE" comment="" />
+<NAME id="P6" start="230" end="236" text="Ulrich" TYPE="PATIENT" comment="" />
+<LOCATION id="P7" start="456" end="459" text="GNC" TYPE="HOSPITAL" comment="" />
+<AGE id="P8" start="1361" end="1365" text="80's" TYPE="AGE" comment="" />
+<AGE id="P9" start="1804" end="1806" text="81" TYPE="AGE" comment="" />
+<NAME id="P10" start="2227" end="2242" text="Vernon Voorhees" TYPE="DOCTOR" comment="" />
+<CONTACT id="P11" start="2244" end="2249" text="95540" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

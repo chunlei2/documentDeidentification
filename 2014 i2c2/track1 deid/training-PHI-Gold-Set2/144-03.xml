@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2131-05-30
+
+EDVISIT^22267708^JONES, URIEL^05/30/31^COOKE, FREDI
+
+CHIEF COMPLAINT:  Shortness of breath.
+
+HISTORY OF PRESENT ILLNESS:  A 67 year-old male was seen in
+
+transfer from Friends Hospital for evaluation of progressively
+
+worsening shortness of breath over the last 2 days, associated
+
+with increased fatigue and episodes of chest pressure yesterday. 
+
+He did note increase weight for the last 1-2 months,
+
+progressively worsening shortness of breath with minimal
+
+exertion.  He did have chest pressure at rest yesterday, which
+
+did radiate to his left shoulder.  This seemed to resolve
+
+spontaneously and then he noted shortness of breath with any kind
+
+of exertion at all.  The shortness of breath was exclusively
+
+exertional.  He has not noticed nausea, vomiting, diaphoresis,
+
+presyncopal symptoms or diarrhea.  No fevers.  He does have a
+
+slight cough that is nonproductive.  He was seen at a local
+
+Emergency Department today where he had laboratory studies as
+
+well as was given Lasix, albuterol, and nitroglycerin and states
+
+he has some relief of his symptoms associated with this.  He was
+
+cardioverted 2 days ago for atrial fibrillation by his
+
+cardiologist at SAH.  Additionally, at the outside Emergency
+
+Department, his INR was therapeutic at 2 as he is on Coumadin,
+
+but his troponin was elevated at 0.16.
+
+PAST MEDICAL HISTORY:  Significant for hypertension, orally
+
+controlled diabetes, hypercholesterolemia, and atrial flutter. 
+
+He has had a cardiac catheterization last in 2127.
+
+SOCIAL HISTORY:  He is a past smoker with 10 pack years of
+
+smoking.
+
+REVIEW OF SYSTEMS:  As noted in the written chart and HPI,
+
+otherwise negative.
+
+MEDICATIONS:  Coumadin, citalopram, metoprolol, lisinopril,
+
+glipizide, Cipro, and simvastatin.
+
+ALLERGIES:  He is allergic to penicillin.
+
+PHYSICAL EXAMINATION:  Temperature 99, pulse 63, respiratory rate
+
+20, blood pressure 140/86, and oxygen saturation 96% on room air.
+
+ HEENT:  Normocephalic and atraumatic.  Pleasant, calm.  Neck is
+
+supple.  Respiratory:  Clear to auscultation, except for
+
+scattered rales in the left lower lung field.  Cardiovascular: 
+
+Regular rate and rhythm without murmur.  Abdomen is soft and
+
+nontender.  Skin is intact, warm, and dry.  Extremities:  He has
+
+got 1+ edema of the bilateral lower extremities that is
+
+symmetric.  Neuropsych:  He is oriented x3, moves all extremities
+
+equally.
+
+LABORATORY DATA:  ECG shows a sinus rhythm at 65 with poor R-wave
+
+progression, but no acute ST segment abnormalities.  Chest x-ray
+
+shows interstitial increased markings with a small left pleural
+
+effusion and prominence of the ventricle consistent with mild
+
+pulmonary edema.  Cardiac biomarkers show troponin of 0.16 with
+
+creatinine of 1.43, CK-MB of 3.2 with normal index, and CK of 87.
+
+ BNP is still pending.  INR is 2.5, which is therapeutic on
+
+Coumadin.
+
+EMERGENCY DEPARTMENT COURSE:  At the outside Emergency
+
+Department, he did receive Lasix and he put off approximately 2
+
+liters of urine since then with significant symptomatic
+
+improvement in his dyspnea.  He has no further episodes of chest
+
+pain or pressure.  I did discuss the case with Dr. Davison,
+
+the SAH cardiologist on-call.  I believe this patient has CHF
+
+exacerbation.  He also was recently cardioverted, which ____
+
+explain his troponin elevation.  Additionally, his CHF
+
+exacerbation alone could explain his troponin elevation, and I
+
+doubt the patient has an acute coronary syndrome.  At this point,
+
+the patient is already anticoagulated by virtue of being on
+
+Coumadin.  We will hold any further heparinization or Lovenox at
+
+this time.  However, he will have serial cardiac biomarkers, will
+
+be admitted to the Cardiology Service for evaluation and for
+
+further evaluation and optimization of his congestive heart
+
+failure and for monitoring of his troponin levels.
+
+DIAGNOSIS:  Congestive heart failure exacerbation, troponin
+
+elevation, and diabetes.
+
+DISPOSITION:  Admission in stable condition.
+
+______________________________
+
+COOKE, FREDI M.D.
+
+D: 05/30/31
+
+T: 05/31/31
+
+Dictated By: COOKE, FREDI
+
+eScription document:0-8412167 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2131-05-30" TYPE="DATE" comment="" />
+<ID id="P1" start="36" end="44" text="22267708" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="45" end="57" text="JONES, URIEL" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="58" end="66" text="05/30/31" TYPE="DATE" comment="" />
+<NAME id="P4" start="67" end="79" text="COOKE, FREDI" TYPE="DOCTOR" comment="" />
+<AGE id="P5" start="152" end="154" text="67" TYPE="AGE" comment="" />
+<LOCATION id="P6" start="196" end="212" text="Friends Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P7" start="1196" end="1199" text="SAH" TYPE="HOSPITAL" comment="" />
+<DATE id="P8" start="1517" end="1521" text="2127" TYPE="DATE" comment="" />
+<NAME id="P9" start="3160" end="3167" text="Davison" TYPE="DOCTOR" comment="" />
+<LOCATION id="P10" start="3174" end="3177" text="SAH" TYPE="HOSPITAL" comment="" />
+<NAME id="P11" start="4016" end="4028" text="COOKE, FREDI" TYPE="DOCTOR" comment="" />
+<DATE id="P12" start="4038" end="4046" text="05/30/31" TYPE="DATE" comment="" />
+<DATE id="P13" start="4051" end="4059" text="05/31/31" TYPE="DATE" comment="" />
+<NAME id="P14" start="4074" end="4086" text="COOKE, FREDI" TYPE="DOCTOR" comment="" />
+<ID id="P15" start="4108" end="4117" text="0-8412167" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

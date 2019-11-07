@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2098-03-31
+
+                     GLENN HELEN EMERGENCY DEPT VISIT
+ 
+VINCENT,ROBERTA J.   380-18-32-2                    VISIT DATE: 03/31/98
+See primarily by Dr. Ulises Collier.  I also saw the patient and 
+reviewed Dr. Collier's history. 
+HISTORY OF PRESENTING COMPLAINT:  This 62 year-old woman comes from 
+dial where she developed substernal chest pain radiating to her 
+left arm near the end of the run.  She also complains of shortness 
+of breath.  She noted some nausea, but no vomiting.  She had no 
+other related symptoms.  She has had no previous history of chest 
+pain.  She was given Nitroglycerin x 3 and this eventually relieved 
+her pain. 
+PAST MEDICAL/SURGICAL HISTORY:  Includes end-stage renal disease, 
+coronary artery disease with a bypass graft but without any chest 
+pain at the time, and insulin dependent diabetes mellitus which may 
+account for her previous cardiac history without chest pain. 
+ALLERGIES:  PENICILLIN AND CODEINE 
+MEDICATIONS:  Aspirin and Xanax. 
+PHYSICAL EXAMINATION:  VITAL SIGNS:  Blood pressure 164/94, pulse 
+94, respirations 24, oxygen saturation 96%.  GENERAL:  The patient 
+is comfortable in no acute distress.  HEAD AND NECK: 
+Normocephalic, atraumatic.  Pupils equal and reactive. Pharynx 
+benign.  Tongue is of normal shape and contour.  Neck is supple. 
+No jugular venous distention.  LUNGS:  Are clear bilaterally. 
+CARDIAC:  Regular rate and rhythm.  S1, S2, with no murmurs, rubs 
+or gallops.  ABDOMEN:  Soft and non-tender with normal bowel 
+sounds.  EXTREMITIES:  No clubbing, cyanosis or edema or rash. 
+NEUROLOGICAL:  Patient is alert and oriented x 3.  She moves all 
+extremities.  Has symmetrical strength and all proximal and distal 
+upper and lower motor bilaterally.  Normal sensation to light touch 
+grossly. 
+LABORATORY:  White blood cell count 9, hematocrit 41.  Glucose was 
+high at 533.  However, she has bicarbonate of 24, so she is 
+probably not in diabetic ketoacidosis.  BUN 31, creatinine 3.8. 
+Troponin-I was 0.5.  Chest x-ray was negative.  Electrocardiogram 
+shows normal sinus rhythm with left ventricular hypertrophy and 
+non-specific ST/T wave changes.  Perhaps some ST depressions in II, 
+III and AVF, and deep S waves in V1, 2, 3, and 4. 
+TREATMENT RENDERED AND COURSE IN ED: In the hospital the patient 
+did not have further chest pain here.  She was admitted for chest 
+pain and for rule out myocardial infarction to the Medical Service. 
+FINAL DIAGNOSIS:  Rule out myocardial infarction 
+DISPOSITION (including condition upon discharge):  Admitted. 
+___________________________________                    FD008/9052 
+STEVE NUTT, M.D.       SN2                         D:03/31/98 
+                                                       T:04/01/98 
+Dictated by:  STEVE NUTT, M.D.       SN2 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2098-03-31" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="49" end="60" text="GLENN HELEN" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="84" end="102" text="VINCENT,ROBERTA J." TYPE="PATIENT" comment="" />
+<ID id="P3" start="105" end="116" text="380-18-32-2" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="148" end="156" text="03/31/98" TYPE="DATE" comment="" />
+<NAME id="P5" start="178" end="192" text="Ulises Collier" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="236" end="243" text="Collier" TYPE="DOCTOR" comment="" />
+<AGE id="P7" start="295" end="297" text="62" TYPE="AGE" comment="" />
+<ID id="P8" start="2608" end="2618" text="FD008/9052" TYPE="IDNUM" comment="" />
+<NAME id="P9" start="2620" end="2630" text="STEVE NUTT" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="2643" end="2646" text="SN2" TYPE="USERNAME" comment="" />
+<DATE id="P11" start="2673" end="2681" text="03/31/98" TYPE="DATE" comment="" />
+<DATE id="P12" start="2740" end="2748" text="04/01/98" TYPE="DATE" comment="" />
+<NAME id="P13" start="2764" end="2774" text="STEVE NUTT" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="2787" end="2790" text="SN2" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

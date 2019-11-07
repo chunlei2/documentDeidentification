@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2065-02-04
+
+TRIBAL INTERNAL MEDICINE ASSOCIATES          Hart, Matthew
+                                              46103196
+                                              2-4-65
+ 
+ 
+ 
+HPI:  The patient is a 41 year old man with a history of non-insulin 
+dependent diabetes, hypertension, obesity and substance abuse who I 
+learned today was recently admitted for deep venous thrombosis and is 
+presenting for follow up of his DVT.  The patient's current medical 
+problems include:
+1.   Recent DVT.  The patient was admitted between the days of 1-24 and 
+     1-30 secondary to the development of a right lower extremity DVT.  
+     The patient told me that he had been doing well and denied any 
+     previous trauma to his leg or other predisposing factors such as long 
+     car or airplane trips and he stated he had been as active as 
+     previously over the recent few weeks.  The patient stated he awoke 
+     in the morning of the 24th and noted tightness in his right 
+     quadriceps and right calf.  He later developed progressive swelling 
+     of the leg and therefore presented to the THD emergency 
+     department.  He had lower extremity non-invasives performed which 
+     confirmed the presence of a right lower extremity DVT.  He was 
+     admitted and heparinized and then Coumadinized prior to discharge.  
+     The patient disclosed a history that his daughter had a DVT at the 
+     time of her pregnancy and therefore a hypercoagulability work-up was 
+     sent off which was negative.  The patient currently returns to me 
+     complaining of further right calf pain and swelling.  He states that 
+     he was interested in physical therapy but states that that did not 
+     occur during his hospital course.  The patient was also angry and 
+     upset that I had not visited him during his hospital stay.  I 
+     explained to him that I had not been notified of his admission or of 
+     his emergency department visit.  I called all of the parties 
+     responsible for his admission to clear the confusion that had 
+     occurred.
+ 
+2.   Hypertension.  The patient's previously been on anti-hypertensives 
+     including lisinopril, unfortunately the patient has not tolerated ACE 
+     inhibitors secondary to a severe cough and therefore these were 
+     discontinued recently.  With a discontinuation of his drinking, the 
+     patient's blood pressures have been under much better control.
+ 
+3.   Adult onset diabetes mellitus.  I recently started the patient on 
+     insulin.  He was scheduled for a follow up visit but unfortunately 
+     did not make his visit.  His insulin dose was adjusted during his 
+     recent hospitalization and his current dosage is 35 units of NPH in 
+     the morning and 15 units of regular.  In the evening he takes 10 
+     units of NPH and 10 units of regular.  The patient does not yet have 
+     a home glucometer.  We will arrange for this.
+ 
+THD INTERNAL MEDICINE ASSOCIATES          Hart, Matthew
+Page 2                                        46103196
+                                              2-4-65
+ 
+ 
+ 
+Physical Examination:  Vital signs showed a heart rate of 90.  Blood 
+pressure: 135/92. Respiratory rate: 14 and unlabored.  HEENT: pupils 
+equal, round and reactive to light, extraocular movements intact, 
+oropharynx clear. Mucous membranes moist. Cardiac: regular rate and 
+rhythm, normal S1, S2, no murmurs, rubs, or gallops.  Lungs: clear to 
+ausculation. Abdomen soft, nontender with active bowel sounds.  
+Extremities:  There was notable edema of his right lower extremity with 
+significant pain and a positive Homan's sign.  
+ 
+Impression:
+1)   DVT.  Given his current physical examination, and lack of recent PT 
+     check since time of discharge on the 30th, I am sending a stat PT.  I 
+     encouraged the patient to elevate the leg. My feeling is that the DVT 
+     has not successfully been treated and that likely his PT is not 
+     therapeutic at the present time.  I have arranged for the patient to 
+     follow up with Aguilar, the Internal Medicine nurse, on Wednesday for a repeat 
+     check of his PT.  I left instructions that I should be called 
+     immediately upon receiving the PT value, I also arranged for the 
+     patient to meet with the physical therapist for the provision of a 
+     cane to help with ambulation. 
+ 
+2)   Adult onset diabetes.  I will recheck a hemoglobin A1C value at his 
+     next office visit.  A finger stick in the office approximately three 
+     hours after eating is 253.  I feel this is still too elevated.  I 
+     will therefore adjust his insulin dose when I see him next week.  I 
+     will follow up with the patient next week and make any necessary 
+     adjustments in his medications at that time.
+ 
+ 
+ 
+_________________________
+Michael Uecker, M.D. 
+ 
+PD:UD:1698
+DD:2-19-65
+DT:2-22-65
+DV:2-4-65
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2065-02-04" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="28" end="34" text="TRIBAL" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="73" end="86" text="Hart, Matthew" TYPE="PATIENT" comment="" />
+<ID id="P3" start="133" end="141" text="46103196" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="188" end="194" text="2-4-65" TYPE="DATE" comment="" />
+<AGE id="P5" start="224" end="226" text="41" TYPE="AGE" comment="" />
+<DATE id="P6" start="561" end="565" text="1-24" TYPE="DATE" comment="" />
+<DATE id="P7" start="576" end="580" text="1-30" TYPE="DATE" comment="" />
+<DATE id="P8" start="956" end="960" text="24th" TYPE="DATE" comment="" />
+<LOCATION id="P9" start="1116" end="1119" text="THD" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P10" start="2934" end="2937" text="THD" TYPE="HOSPITAL" comment="" />
+<NAME id="P11" start="2976" end="2989" text="Hart, Matthew" TYPE="PATIENT" comment="" />
+<ID id="P12" start="3036" end="3044" text="46103196" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P13" start="3091" end="3097" text="2-4-65" TYPE="DATE" comment="" />
+<DATE id="P14" start="3767" end="3771" text="30th" TYPE="DATE" comment="" />
+<NAME id="P15" start="4042" end="4049" text="Aguilar" TYPE="DOCTOR" comment="" />
+<DATE id="P17" start="4083" end="4092" text="Wednesday" TYPE="DATE" comment="" />
+<NAME id="P18" start="4805" end="4819" text="Michael Uecker" TYPE="DOCTOR" comment="" />
+<ID id="P19" start="4829" end="4839" text="PD:UD:1698" TYPE="IDNUM" comment="" />
+<DATE id="P20" start="4843" end="4850" text="2-19-65" TYPE="DATE" comment="" />
+<DATE id="P21" start="4854" end="4861" text="2-22-65" TYPE="DATE" comment="" />
+<DATE id="P22" start="4865" end="4871" text="2-4-65" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

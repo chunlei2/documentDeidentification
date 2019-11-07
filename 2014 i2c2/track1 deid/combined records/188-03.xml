@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2067-03-06
+
+
+
+
+
+INTERNAL MEDICINE ASSOCIATES
+
+OCHILTREE GENERAL HOSPITAL
+
+
+
+History of present illness   This is a 54-year-old white male here complaining persistent cough.  He has had a dry cough for about two months.  He was put on inhalers, but there was no improvement.  The cough is worse at night, but also he has it during the day.  He has no mucus production, no hemoptysis, no shortness of breath, and no wheezing.  He is a nonsmoker.  About a week ago, he was admitted to a local emergency room for chest pain.  He was rushed to Ochiltree General because of ST-T wave abnormalities on his EKG.  In retrospect, he has had these changes for many years, and anyway he had a cardiac catheterization, which showed mild obstruction of some of his coronary systems but no evidence of coronary artery syndrome.  He did have cardiomyopathy with the ejection fraction of 35%.  He was sent home on Toprol XL 50 mg QD, Lipitor 10 mg QD, lisinopril 10 mg, aspirin 325 mg once a day, and Avandia 2 mg once a day.  Since returning home, the patient feels no chest pain or shortness of breath.  No orthopnea or PND.  He still has a dry cough.
+
+
+
+Change in therapies and Renewals
+
+Viagra 50mg  PRN QTY:15 Refills:3 Start: 10/05/2063
+
+Avandia 2 mg 1 tab   qd QTY:30 Refills:3 Start: 1/31/2065
+
+aspirin 325 mg 1 tab   qd QTY:30 Refills:1 yr Start: 3/12/2065
+
+lisinopril 10 mg   QD Start: 8/4/2066
+
+Lipitor 10mg po qd Start: 12/17/2066
+
+Proventil two puffs inhaled qid QTY:1 cannister Refills:3 Start: 1/28/2067 End: 3/06/2067 prn - Inactivated
+
+Toprol XL 50 mg po qd Start: 03/06/2067
+
+Prilosec 20mg po bid QTY:60 Refills:1 Start: 03/06/2067 take before meals
+
+
+
+Physical examination
+
+Blood pressure 110/80  
+
+Weight   214 pounds
+
+General appearance   Well-developed and well-nourished, no acute distress
+
+Skin   Clear
+
+Heent   Eyes, nonicteric.  Nose clear.  Pharynx normal
+
+Neck   No masses.  Neck veins not distended
+
+Chest   Lungs clear
+
+Cor   Regular rhythm.  S1 and S2 normal.  No murmur, S3, or S4
+
+Abdomen   Soft, nontender, and no masses.  No liver or spleen palpable
+
+Extrem   No edema
+
+
+
+Assessment and plan   Cardiomyopathy.  Continue present medications.  Complete abstention from alcohol advised.
+
+Diabetes.  Check hemoglobin A1c.
+
+Persistent cough.  Question GERD.  Plan:  A trial of Prilosec 20 mg twice a day.  Schedule upper GI.  Return in one month.  If cough persists, consider a role of lisinopril.  However, he was taking lisinopril long before his cough started.
+
+Hyperlipidemia.  Continue Lipitor.  Check lipid profile.
+
+Impotence.  Refill Viagra.
+
+
+
+Note transcribed by outside service   Transcription errors may be present.
+
+
+
+Signed electronically by Thomson, Steven on Mar 09, 2067     
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2067-03-06" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="62" end="88" text="OCHILTREE GENERAL HOSPITAL" TYPE="HOSPITAL" comment="" />
+<AGE id="P2" start="131" end="133" text="54" TYPE="AGE" comment="" />
+<LOCATION id="P3" start="555" end="572" text="Ochiltree General" TYPE="HOSPITAL" comment="" />
+<DATE id="P4" start="1231" end="1241" text="10/05/2063" TYPE="DATE" comment="" />
+<DATE id="P5" start="1291" end="1300" text="1/31/2065" TYPE="DATE" comment="" />
+<DATE id="P6" start="1355" end="1364" text="3/12/2065" TYPE="DATE" comment="" />
+<DATE id="P7" start="1395" end="1403" text="8/4/2066" TYPE="DATE" comment="" />
+<DATE id="P8" start="1431" end="1441" text="12/17/2066" TYPE="DATE" comment="" />
+<DATE id="P9" start="1508" end="1517" text="1/28/2067" TYPE="DATE" comment="" />
+<DATE id="P10" start="1523" end="1532" text="3/06/2067" TYPE="DATE" comment="" />
+<DATE id="P11" start="1581" end="1591" text="03/06/2067" TYPE="DATE" comment="" />
+<DATE id="P12" start="1638" end="1648" text="03/06/2067" TYPE="DATE" comment="" />
+<NAME id="P13" start="2685" end="2700" text="Thomson, Steven" TYPE="DOCTOR" comment="" />
+<DATE id="P14" start="2704" end="2716" text="Mar 09, 2067" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

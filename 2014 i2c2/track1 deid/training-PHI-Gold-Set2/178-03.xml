@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2123-02-02
+
+
+NANCY K GUSTAFSON
+113 ANDOVER DOWN 
+CHARLEMONT, IA 79229
+
+
+
+
+
+
+
+
+February 02, 2123
+
+
+
+
+
+
+Dear Ms. Gustafson, 
+
+
+I have just received your test results and I would like to share them with you.
+
+
+
+Your Hemoglobin A1c value was 7.30 on 01/29/2123. It has remained stable compared to the last value of 7.10 on 10/29/2122. Hemoglobin A1c is a blood test that indicates how well you have controlled your blood sugar over the past 3 months. We would like to keep it below 7.
+
+
+I suggest a trial of metformin 500mg twice daily
+test your sugars to keep below 140 2 hours after meals
+
+If you have any questions about these results, please do not hesitate to contact me.
+
+
+
+
+_______________________________
+Olney Francis Ong, M.D., Ph.D.
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2123-02-02" TYPE="DATE" comment="" />
+<NAME id="P1" start="29" end="46" text="NANCY K GUSTAFSON" TYPE="PATIENT" comment="" />
+<LOCATION id="P2" start="47" end="63" text="113 ANDOVER DOWN" TYPE="STREET" comment="" />
+<LOCATION id="P3" start="65" end="75" text="CHARLEMONT" TYPE="CITY" comment="" />
+<LOCATION id="P4" start="77" end="79" text="IA" TYPE="STATE" comment="" />
+<LOCATION id="P5" start="80" end="85" text="79229" TYPE="ZIP" comment="" />
+<DATE id="P6" start="94" end="111" text="February 02, 2123" TYPE="DATE" comment="" />
+<NAME id="P7" start="127" end="136" text="Gustafson" TYPE="PATIENT" comment="" />
+<DATE id="P8" start="262" end="272" text="01/29/2123" TYPE="DATE" comment="" />
+<DATE id="P9" start="335" end="345" text="10/29/2122" TYPE="DATE" comment="" />
+<NAME id="P10" start="725" end="742" text="Olney Francis Ong" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

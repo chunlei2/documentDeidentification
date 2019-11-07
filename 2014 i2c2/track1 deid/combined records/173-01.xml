@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2072-01-25
+
+Patient Name: NARVAEZ, OTIS;  MRN: 6680255
+Dictated at: 01/25/72 by HOLLAND KELLER, M.D. 
+
+ 
+ 
+ 
+PRIMARY CARE PHYSICIAN:  
+Dr. Hayden Avery 
+ 
+REFERRAL SOURCE:  
+Above.  
+ 
+CONSULTATION REPLY 
+ 
+Thank you for sending this patient for neurologic consultation.  I have reviewed or collected the primary data and examined the patient personally.  
+ 
+CHIEF COMPLAINT:  62 year-old left handed white male (crossed right handed for writing), with bilateral buttock burning dysesthesias radiating down both lateral lower extremities.   
+HISTORY OF PRESENT ILLNESS:  The patient is a 62 year-old man with a history of diabetes, hyperlipidemia, asthma, hypertension, attention deficit disorder, diabetic neuropathy and obesity who developed two years of gradually progressive discomfort in the lower extremities.  He has gained 40 pounds over the past two years and over that time course has noted that when he stands after about a minute he gets a firing burning pain in the left buttock just lateral to the spine which then radiates down the lateral aspect of the left leg.  If he shifts to his right leg, he gets a similar discomfort one or two minutes later.  This is relieved by sitting.  It will happen when walking as well.  This is distinct from the decrease in sensation and the tingling and cold feeling he gets in his feet due to the diabetic neuropathy.  He has had no back trauma, although he has a torn right ACL in the knee which leads to occasional falls.  Of note, he wears his wallet in his left rear pocket and tightens his belt to keep it at his waist.  
+ 
+PAST MEDICAL HISTORY:  The past medical history is as above and also includes a superficial varicosity in the right mid calf.   
+ALLERGIES:  Sulfa, contrast medium, Ambien.  
+ 
+FAMILY HISTORY:  Non-contributory.  
+ 
+CURRENT MEDICATIONS:  Hytrin, Cozaar 50 mg q. day, Ritalin 20 mg five times per day, glucophage 10 mg t.i.d., Rezulin 400 mg t.i.d., Neurontin 600 mg q.h.s. and Selexa.  
+ 
+SOCIAL HISTORY:  He is getting divorced and has four grown children all in good health.  
+ 
+BIRTH HISTORY:  He was born with hammer toes and no other family member has this condition.  
+ 
+EDUCATION:  He is a Consultant who works in Dupont.  
+ 
+SOCIAL HISTORY:  He has limited exercise and diet.  He has 30+ year history of cigarette smoking and has has no cigarettes in the last six weeks.  He denies alcohol use or recent recreational drug use.  He has no HIV risk factors.  
+ 
+REVIEW OF SYSTEMS:  System review reveals normal bowel function with frequent small volume urination.  He attributes this to his Ritalin use and has not seen a urologist.  He has difficulty achieving and maintaining an erection and had only minimal improvement with Viagra.  When walking he develops some symptoms of claudication which were immediately relieved by resting.  There is no cardiovascular, respiratory or constitutional symptoms.  
+ 
+PHYSICAL EXAMINATION:  General: healthy appearance with a blood pressure of 175/90 in the left arm seated.  Pulse of 60 and regular.  Carotids 2+ without bruits.  Mental status:  Unremarkable.  Cranial nerves:  immature cataract, o.s.  No evidence of retinopathy.  
+ 
+Motor:  normal tone and full strength in upper limbs.  Mild 5-/5 weakness in ankle extension bilaterally.  Mild distal atrophy in the foot intrinsics.  Rapid alternating movements intact.   
+Sensation:  decreased to vibration and joint position in the feet bilaterally.  Mild decrease to pin over the medial nerve distribution on the right hand.  
+ 
+The muscle stretch reflexes are absent at the Achilles and 1+ at the patellar, brachial radialis, biceps and triceps with flexor, plantar responses.  Finger to nose is accurate in both arms.  Gait is steady but distorted by the knee injury and slightly wide based.  He has a decreased tandem but can heel walk.  He has minimal unsteadiness in the Romberg position.  
+ 
+DATA REVIEW:  MR imaging of the lumbosacral spine was performed at Carolinas Medical Center-Mercy and then again several days later at Regional Medical Center Bayonet Point (860-721-0108).  Report and films reviewed from Carolinas Medical Center-Mercy demonstrate no obvious focal disc herniation or spinal stenosis but some of the views are suboptimal.  The summary report from Bayonet Point suggests there may be some lumbosacral spinal stenosis and I await faxed copy of that report.  
+ 
+ASSESSMENT:  
+1.  Neuropathy.  The patient has likely multifactorial reasons for his lumbar spine pain.  He did undergo an evaluation by Dr.  Ulysses Harding which is unavailable at this time and one cortisone injection which was not effective at relieving his discomfort.  He likely has a combination of diabetic peripheral neuropathy, sciatic neuropathy and possible lumbosacral spinal stenosis or polyradiculopathy.  There is no evidence of diabetic amyotrophy.  I think at this point, an EMG with nerve conduction studies will be most helpful to identify the relevant contributions of these different factors.  I have also suggested that he invest in suspenders and carry his wallet in a different pocket to see if this will provide some relief.  He has tried a course of non steroidals without effect and I think I would like to begin with a low dose of amitriptyline as a neuropathic pain agent to supplement the Neurontin that he is on for other indications.  I will see him back in the office after the EMG has been performed and I have had a chance to review the MR imaging.  
+ 
+Thank you for sending him to my office, it is a pleasure taking care of this gentleman and I am hopeful that we will be able to reduce his discomfort to some degree.  
+ 
+The risks and benefits of any recommended or alternative treatments were discussed.  
+ 
+DIAGNOSTIC CODE/LEVEL:  C5/peripheral neuropathy.  
+ 
+ 
+_______________________________ 
+Holland Keller, M.D.  
+ 
+ 
+ 
+DD:01/25/72 
+DT:01/25/72 
+TD:5969:032 
+ 
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2072-01-25" TYPE="DATE" comment="" />
+<NAME id="P1" start="42" end="55" text="NARVAEZ, OTIS" TYPE="PATIENT" comment="" />
+<ID id="P2" start="63" end="70" text="6680255" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="84" end="92" text="01/25/72" TYPE="DATE" comment="" />
+<NAME id="P4" start="96" end="110" text="HOLLAND KELLER" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="155" end="167" text="Hayden Avery" TYPE="DOCTOR" comment="" />
+<AGE id="P6" start="393" end="395" text="62" TYPE="AGE" comment="" />
+<AGE id="P7" start="604" end="606" text="62" TYPE="AGE" comment="" />
+<PROFESSION id="P8" start="2193" end="2203" text="Consultant" TYPE="PROFESSION" comment="" />
+<LOCATION id="P9" start="2217" end="2223" text="Dupont" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P10" start="3965" end="3995" text="Carolinas Medical Center-Mercy" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P11" start="4033" end="4070" text="Regional Medical Center Bayonet Point" TYPE="HOSPITAL" comment="" />
+<CONTACT id="P12" start="4072" end="4084" text="860-721-0108" TYPE="PHONE" comment="" />
+<LOCATION id="P13" start="4119" end="4149" text="Carolinas Medical Center-Mercy" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P14" start="4277" end="4290" text="Bayonet Point" TYPE="HOSPITAL" comment="" />
+<NAME id="P15" start="4531" end="4546" text="Ulysses Harding" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="5824" end="5838" text="Holland Keller" TYPE="DOCTOR" comment="" />
+<DATE id="P17" start="5856" end="5864" text="01/25/72" TYPE="DATE" comment="" />
+<DATE id="P18" start="5869" end="5877" text="01/25/72" TYPE="DATE" comment="" />
+<ID id="P19" start="5879" end="5890" text="TD:5969:032" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2083-11-01
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+June 6, 2083
+ 
+ 
+ 
+Vincent Ventura, M.D.
+0758 Edmatteric Drive
+Cheney, TX 37523
+ 
+Re:  Peggy Tinsley
+     MR#  236-67-03-3
+ 
+Dear Dr. Ventura:
+ 
+Peggy Tinsley was seen in the Renal Clinic today.  Her chief
+symptomatic complaint is severe pruritus, which has not improved
+much with Benadryl.  She has yet to fill the prescription for Sarna
+lotion.  Her diarrhea has improved with Imodium, and she brought in
+samples for cultures today.  Her appetite has improved somewhat.
+She notes exertional fatigue and shortness of breath.  Medications
+include Phoslo 1 tablet t.i.d., Lasix 160 mg b.i.d., Altase  2.5 mg
+b.i.d., Lopressor 100 mg b.i.d., NPH 10 units q.d., iron t.i.d.
+ 
+On examination, weight was 46.8 kilos, which is stable.  Heart rate
+was 72, blood pressure 130/64.  JVP was clearly seen at 6 cm
+greater than the sternal angle, and there was 1 plus peripheral
+edema.  There was no S3.  Chest examination revealed bibasilar
+inspiratory crackles.  Her left hand is no longer cold, but the
+PTFE graft remains slightly edematous.
+ 
+Blood work from May 30th showed a hematocrit of 23, potassium 5.2,
+bicarbonate 15, BUN 91, creatinine 7.9, calcium 5.5., phosphate
+5.2, albumin 3.4.
+ 
+We will continue to hold off on dialysis until such time as Peggy's
+PTFE graft is suitable.  This will save her the additional
+morbidity of a semipermanent IJ catheter.  She is more hypervolemic
+than last week, and I added Zaroxolyn 2.5 mg in the morning to her
+diuretic regimen.  By oversight, she was not started on Rocaltrol,
+and I have started her on Rocaltrol .25 mcg p.o. q.d., and
+Nephrocaps 1 p.o. q.d.
+ 
+Page 2
+Vincent Ventura, M.D.
+Re:  Peggy Tinsley
+     MR#  236-67-03-3
+June 6, 2083
+ 
+A follow-up appointment was arranged in one week's time.
+ 
+Yours sincerely,
+ 
+ 
+ 
+Keith Quant, M.D.
+Renal Fellow
+ 
+ 
+ 
+Y. Quinton Xanders, M.D.
+ 
+DD: 6-6-83
+DT: 06/13/83
+DV: 6-6-83
+ 
+ 
+ 
+cc:
+Ivan Tomlinson, M.D.
+Surgery
+FPM
+ 
+ 
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2083-11-01" TYPE="DATE" comment="" />
+<DATE id="P1" start="54" end="66" text="June 6, 2083" TYPE="DATE" comment="" />
+<NAME id="P2" start="73" end="88" text="Vincent Ventura" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="95" end="116" text="0758 Edmatteric Drive" TYPE="STREET" comment="" />
+<LOCATION id="P4" start="117" end="123" text="Cheney" TYPE="CITY" comment="" />
+<LOCATION id="P5" start="125" end="127" text="TX" TYPE="STATE" comment="" />
+<LOCATION id="P6" start="128" end="133" text="37523" TYPE="ZIP" comment="" />
+<NAME id="P7" start="141" end="154" text="Peggy Tinsley" TYPE="PATIENT" comment="" />
+<ID id="P8" start="165" end="176" text="236-67-03-3" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P9" start="188" end="195" text="Ventura" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="199" end="212" text="Peggy Tinsley" TYPE="PATIENT" comment="" />
+<DATE id="P11" start="1104" end="1112" text="May 30th" TYPE="DATE" comment="" />
+<NAME id="P12" start="1299" end="1304" text="Peggy" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="1659" end="1674" text="Vincent Ventura" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="1686" end="1699" text="Peggy Tinsley" TYPE="PATIENT" comment="" />
+<ID id="P15" start="1710" end="1721" text="236-67-03-3" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P16" start="1722" end="1734" text="June 6, 2083" TYPE="DATE" comment="" />
+<NAME id="P17" start="1819" end="1830" text="Keith Quant" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="1856" end="1874" text="Y. Quinton Xanders" TYPE="DOCTOR" comment="" />
+<DATE id="P19" start="1887" end="1893" text="6-6-83" TYPE="DATE" comment="" />
+<DATE id="P20" start="1898" end="1906" text="06/13/83" TYPE="DATE" comment="" />
+<DATE id="P21" start="1911" end="1917" text="6-6-83" TYPE="DATE" comment="" />
+<NAME id="P22" start="1928" end="1942" text="Ivan Tomlinson" TYPE="DOCTOR" comment="" />
+<LOCATION id="P24" start="1957" end="1960" text="FPM" TYPE="HOSPITAL" comment="" />
+</TAGS>
+</deIdi2b2>

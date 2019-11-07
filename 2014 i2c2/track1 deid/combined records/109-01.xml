@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2098-08-18
+
+
+
+Jensen Clinic
+
+745 Greenfield Drive
+
+
+
+75 y.o. here infection on arm. Two days ago injured forearm on sharp corner of counter. Thin flap of skin lifted up. Self treated with irrigation and comporession. Noted redness last night and today. No fever or chills.
+
+
+
+Medications
+
+Asa (ACETYLSALICYLIC Acid) 81MG, PO QD
+
+Albuterol Inhaler 2 PUFF INH QID PRN shortness of breath
+
+Premarin (CONJUGATED Estrogens) 0.3MG, 1 Tablet(s) PO QOD
+
+K-dur (KCL Slow Rel.) 10MEQ, 1 Tablet(s) PO QD : Take as directed 
+
+Lipitor (ATORVASTATIN) 10MG, 1 Tablet(s) PO QD
+
+Hctz (HYDROCHLOROTHIAZIDE) 50MG, 1 Tablet(s) PO QD
+
+LISINOPRIL 20MG, 1 Tablet(s) PO QD : Take as directed 
+
+Synthroid (LEVOTHYROXINE Sodium) 25MCG, 1 Tablet(s) PO QD
+
+Celexa (CITALOPRAM) 40MG, 1 Tablet(s) PO QD 
+
+
+
+
+
+Allergies
+
+Halothane Gas - Unknown : liver 
+
+
+
+
+
+Social Hx
+
+widowed '91, lives alone, tob 1 ppd x 35,  began @ 11, quit 10/94!, etoh none, no exercise, hobbies: none, TV, friends
+
+
+
+ROS: no polyuria/polydipsia
+
+
+
+Exam
+
+T 97, well appearing, nontoxic
+
+pleasant affect, oriented x 3, cooperative
+
+Chest: cta, spine nontender
+
+CV: rrr, nl s1 s2
+
+Ext: no c/c/e. R arm with lipoma, no change in size, 2+ distal pulses
+
+derm: shallow ulcer L foream, curvilinear shape, 3sx1 shallow ulcer, surrounding erythema 5x 4 cm diameter, no red streaks, no lad
+
+
+
+
+
+Data
+
+tsh wnl Oct '96
+
+ldl 75, glucose 113 mg/dl Oct 2097
+
+tsh qns to run '97
+
+
+
+Assessment/Plan
+
+1. cellulitis s/p abrasion. No foreign bodies. Treat with Keflex 500 qid x 7 days. rtc < 1 wk to reassess.
+
+Td booster given today as patient cannot recall last booster. Believes it is more than 5 years, maybe longer ago than '91 which is the estimate in the chart.
+
+
+
+2. HTN:  Tolerating lisinopril 20mg po qd.
+
+
+
+3. hypothyroid: stable dose. recheck TSH
+
+
+
+4. obesity: reviewed options to cut calories, increase exercise
+
+
+
+
+
+_______________________________________
+
+Eric A. Morgan, M.D.
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2098-08-18" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="30" end="43" text="Jensen Clinic" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P2" start="45" end="65" text="745 Greenfield Drive" TYPE="STREET" comment="" />
+<AGE id="P3" start="69" end="71" text="75" TYPE="AGE" comment="" />
+<DATE id="P4" start="863" end="866" text="'91" TYPE="DATE" comment="" />
+<AGE id="P5" start="906" end="908" text="11" TYPE="AGE" comment="" />
+<DATE id="P6" start="915" end="920" text="10/94" TYPE="DATE" comment="" />
+<DATE id="P7" start="1359" end="1366" text="Oct '96" TYPE="DATE" comment="" />
+<DATE id="P8" start="1394" end="1402" text="Oct 2097" TYPE="DATE" comment="" />
+<DATE id="P9" start="1419" end="1422" text="'97" TYPE="DATE" comment="" />
+<DATE id="P10" start="1669" end="1672" text="'91" TYPE="DATE" comment="" />
+<NAME id="P11" start="1912" end="1926" text="Eric A. Morgan" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

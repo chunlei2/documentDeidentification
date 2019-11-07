@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2083-12-04
+
+                     DLC EMERGENCY DEPT VISIT
+
+ 
+
+STEPHENSON,BREDNA   928-19-46-1                    VISIT DATE: 12/04/83
+
+The patient was seen 12/04/83 with Dr. Key.  The patient was 
+
+interviewed and examined by me.  Resident's note reviewed and 
+
+confirmed.  See chart for details.  
+
+HISTORY OF PRESENTING COMPLAINT:  The patient is a 65 year old 
+
+woman with history of diabetes, hypertension, and coronary artery 
+
+disease who presents with one week of exertional dyspnea, and 
+
+orthopnea.  Also complains of numbness and coolness in her left 
+
+lower extremity for the past 24 hours.  No chest pain/back 
+
+pain/abdominal pain.  No fever or chills.        
+
+PAST MEDICAL HISTORY:  Diabetes, hypertension, hypothyroidism, 
+
+coronary artery disease.  No prior documented history of congestive 
+
+heart failure.      
+
+MEDICATIONS:  Atenolol, Imdur, Lasix, Lipitor, metformin, 
+
+Synthroid, Zantac, Vioxx, Lisinopril, Ecotrin, Avandia, Micronase.
+
+SOCIAL HISTORY AND FAMILY HISTORY:  Nonsmoker.  Lives alone.   
+
+PHYSICAL EXAMINATION:  No respiratory distress, afebrile, pulse 88, 
+
+respirations 15, blood pressure 148/89, pulse ox 98% on room air.
+
+Cardiovascular examination is notable for JVP at 10 cm, regular 
+
+rate and rhythm with frequent premature beats and S3 gallop.  She 
+
+has 2+ femoral pulse on the right, 1+ femoral pulse on the left.  
+
+She has 1+ dorsalis pedis on the right, absent dorsalis pedis pulse 
+
+on the left.  She has symmetric 2+ radial pulses.  Her lungs have 
+
+rales at both bases.  Her breathing is nonlabored.  Abdomen is soft 
+
+and nontender, no masses or bruits in the abdomen.  Extremity 
+
+examination is notable for cool left lower extremity with 1+ edema 
+
+to the knee.        
+
+LABORATORY EVALUATION:  Chest x-ray shows pulmonary edema.  
+
+Electrocardiogram shows normal sinus rhythm with frequent premature 
+
+ventricular contractions and nonspecific T wave abnormality with 
+
+change from prior electrocardiogram.   
+
+THERAPY RENDERED/COURSE IN ED:  The plan is aspirin, heparin, 
+
+Lasix, Nitropaste, Cardiology consult, check cardiac enzymes, 
+
+troponin, BNP, echocardiogram and lower extremity noninvasive 
+
+vascular studies.  Primary care physician, Dr. Patricia Quebedeaux, 
+
+notified.     
+
+Critical care time:  30 minutes.        
+
+FINAL DIAGNOSIS:  1.  New onset congestive heart failure.  2.  Cool 
+
+left lower extremity, rule out venous versus arterial thrombus.  
+
+DISPOSITION (including condition upon discharge):  The patient is 
+
+currently in stable condition. 
+
+___________________________________                    HE342/20225 
+
+BRODY OHARA, M.D.   BO907                          D:12/04/83 
+
+                                                       T:12/04/83 
+
+Dictated by:  BRODY OHARA, M.D.   BO907 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2083-12-04" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="49" end="52" text="DLC" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="78" end="95" text="STEPHENSON,BREDNA" TYPE="PATIENT" comment="" />
+<ID id="P3" start="98" end="109" text="928-19-46-1" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="141" end="149" text="12/04/83" TYPE="DATE" comment="" />
+<DATE id="P5" start="172" end="180" text="12/04/83" TYPE="DATE" comment="" />
+<NAME id="P6" start="190" end="193" text="Key" TYPE="DOCTOR" comment="" />
+<AGE id="P7" start="367" end="369" text="65" TYPE="AGE" comment="" />
+<NAME id="P8" start="2222" end="2241" text="Patricia Quebedeaux" TYPE="DOCTOR" comment="" />
+<ID id="P9" start="2596" end="2607" text="HE342/20225" TYPE="IDNUM" comment="" />
+<NAME id="P10" start="2610" end="2621" text="BRODY OHARA" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="2630" end="2635" text="BO907" TYPE="USERNAME" comment="" />
+<DATE id="P12" start="2663" end="2671" text="12/04/83" TYPE="DATE" comment="" />
+<DATE id="P13" start="2731" end="2739" text="12/04/83" TYPE="DATE" comment="" />
+<NAME id="P14" start="2756" end="2767" text="BRODY OHARA" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="2776" end="2781" text="BO907" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

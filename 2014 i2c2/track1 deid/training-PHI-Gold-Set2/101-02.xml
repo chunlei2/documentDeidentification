@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2079-06-23
+
+
+
+
+MERCY CARE CENTER
+Mercy Internal Medicine Associates
+18 Newburgh Street
+Terrell, AR 72985
+
+Russell, Donna
+10418061
+06/23/79
+
+
+HISTORY OF PRESENT ILLNESS:  Ms. Russell is returning for follow 
+up.  She has had couple of further episodes of this peculiar 
+sensation in which her arm feels like it goes dead and then she 
+gets some pressure in her chest.  She gets a slight shortness of 
+breath.  It lasts 30 seconds.  She gets as many as three or four 
+a day.  The frequency has, however, decreased and she is feeling 
+better and better, as she begins to lose some weight.  I think 
+weight loss is going to be critical.  She also is less fatigued 
+as she begins to lose weight.
+
+Her hypertension has been under better control.  
+Hydrochlorothiazide seems to be helping quite a bit in addition 
+to the atenolol.
+
+PHYSICAL EXAMINATION:  Blood pressure is 146/86.  Weight has gone 
+from 200 to 196 pounds.  Respiratory rate is 20.  Pulse is 64.  
+Neck is supple.  There is no lymphadenopathy.  Chest is clear to 
+percussion and auscultation.  Cardiac exam is regularly regular 
+with no murmurs, gallops or rubs.  Abdomen is soft and nontender.  
+There is no hepatosplenomegaly.  Extremities are clear of 
+cyanosis, clubbing and edema.
+
+LABORATORY DATA:  Electrolytes are within normal limits.
+
+ASSESSMENT AND PLAN
+1.	Hypertension.  Relatively well controlled on 
+hydrochlorothiazide plus atenolol.
+2.	Weight.  Now began to lose some weight and feeling much 
+better as a result of it.
+3.	Peculiar chest pressure.  I do not think she has coronary 
+artery disease given the exercise test.  In light of this, 
+we will try to control her blood pressure and get her to 
+lose some weight.  Hopefully, this will help with the 
+resolution of her symptoms.
+
+
+
+_______________________________
+Quinn Rutledge, M.D.
+
+QR/RM5
+855930.do
+c
+DD:  
+06/27/2079
+DT:  
+06/28/2079
+DV:  
+06/23/2079
+
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2079-06-23" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="31" end="48" text="MERCY CARE CENTER" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P2" start="49" end="54" text="Mercy" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P3" start="84" end="102" text="18 Newburgh Street" TYPE="STREET" comment="" />
+<LOCATION id="P4" start="103" end="110" text="Terrell" TYPE="CITY" comment="" />
+<LOCATION id="P5" start="112" end="114" text="AR" TYPE="STATE" comment="" />
+<LOCATION id="P6" start="115" end="120" text="72985" TYPE="ZIP" comment="" />
+<NAME id="P7" start="122" end="136" text="Russell, Donna" TYPE="PATIENT" comment="" />
+<ID id="P8" start="137" end="145" text="10418061" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P9" start="146" end="154" text="06/23/79" TYPE="DATE" comment="" />
+<NAME id="P10" start="190" end="197" text="Russell" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="1808" end="1822" text="Quinn Rutledge" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="1830" end="1832" text="QR" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="1833" end="1836" text="RM5" TYPE="USERNAME" comment="" />
+<ID id="P14" start="1837" end="1843" text="855930" TYPE="IDNUM" comment="" />
+<DATE id="P15" start="1855" end="1865" text="06/27/2079" TYPE="DATE" comment="" />
+<DATE id="P16" start="1872" end="1882" text="06/28/2079" TYPE="DATE" comment="" />
+<DATE id="P17" start="1889" end="1899" text="06/23/2079" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

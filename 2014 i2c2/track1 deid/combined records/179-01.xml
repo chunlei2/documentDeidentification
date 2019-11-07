@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2067-12-09
+
+Patient Name: LAGNSTON, SHERMAN I.;  MRN: 7223692
+Dictated at: 12/09/67 by GARY J. HUGHES, MD 
+
+ 
+FOLLOW UP NOTE 
+ 
+DIAGNOSIS:  Renal cell carcinoma, presumably metastatic to T1.  Interval since conformal radiation therapy to vertebra T1 to a dose of 50.4 gray:  Three months.  
+ 
+TUMOR STATUS:  Not available.  
+ 
+NORMAL TISSUE STATUS:  No difficulty.  
+ 
+INTERVAL HISTORY:  Mr. Lagnston is generally doing well with no deterioration and some improvement in his symptomatology.  He now has occasionally tingling in his feet and hands, which is possibly similar to before or less so.  He also has some posterior neck tingling, probably related to some position or activity and with lifting weight.  He has no weakness in any extremities.  His nocturia has decreased from three to one.  His hands feel a little "fuzzy."  The trembles, which he has had for some time are possibly better or the same, still a little worse on the left hand than the right.  
+ 
+PHYSICAL EXAMINATION:  On physical examination he looks well.  His weight is up to 230 pounds.  He has no percussible bony tenderness throughout.  His abdomen is entirely negative, so is his incision.  
+ 
+IMPRESSION:  Clinically possibly slightly improved, certainly no evidence of progression.  
+ 
+PLAN:  I will obtain a repeat chest and thoracic spine CT, as well as a bone scan.  Assuming that these are not indicative of further progression, I plan to see him in routine follow up in four to six months.  Dr. Levine would like some blood tests drawn on him, which I will happy to arrange when I hear exactly what they are.  Dr. Sweet is still seeing him frequently and giving him Norvasc and Atenolol for his blood pressure.  
+ 
+_______________________________ 
+GARY J. HUGHES, MD 
+ 
+ 
+cc: IZEYAH SWEET, MD 
+    HUNTUR IVERSON, MD 
+    THOMAS EARL, MD 
+    Isaac Ortega, M.D.  
+    KYLE LEVINE, MD 
+ 
+DD:12/09/67 
+DT:12/10/67 
+GW:1014      :04 
+ 
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2067-12-09" TYPE="DATE" comment="" />
+<NAME id="P1" start="42" end="62" text="LAGNSTON, SHERMAN I." TYPE="PATIENT" comment="" />
+<ID id="P2" start="70" end="77" text="7223692" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="91" end="99" text="12/09/67" TYPE="DATE" comment="" />
+<NAME id="P4" start="103" end="117" text="GARY J. HUGHES" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="408" end="416" text="Lagnston" TYPE="PATIENT" comment="" />
+<NAME id="P6" start="1497" end="1503" text="Levine" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="1616" end="1621" text="Sweet" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="1750" end="1764" text="GARY J. HUGHES" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="1778" end="1790" text="IZEYAH SWEET" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="1800" end="1814" text="HUNTUR IVERSON" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="1824" end="1835" text="THOMAS EARL" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="1845" end="1857" text="Isaac Ortega" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="1870" end="1881" text="KYLE LEVINE" TYPE="DOCTOR" comment="" />
+<DATE id="P14" start="1892" end="1900" text="12/09/67" TYPE="DATE" comment="" />
+<DATE id="P15" start="1905" end="1913" text="12/10/67" TYPE="DATE" comment="" />
+<ID id="P16" start="1915" end="1931" text="GW:1014      :04" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

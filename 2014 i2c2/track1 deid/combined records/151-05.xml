@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2078-01-31
+
+
+
+Chief Complaint
+
+urosepsis
+
+
+
+History of Present Illness
+
+Mr. Quin is well known to me. He has a severely dysfunctional bladder and severe urethral stricture 2/2 radiation therapy for prostate CA. He has been dependent on a SP tube for bladder drainage, however, after the past 2 SP tube changes, he has developed urosepsis. He now presents again in urosepsis after his most recent SP tube change. He also complains of bilateral pelvic/hip pain which is limiting his ability to walk without a walker. This is a marked change over the past 3 months. 
+
+
+
+Review of Systems
+
+             No weight loss
+
+             No difficulty with blurry vision or double vision, 
+
+             No breathing problems, wheezing, or shortness of breath
+
+             No blood clots or swollen glands
+
+
+
+
+
+Past Medical History
+
+Prostate cancer - s/p RRP and XRT
+
+Claudication : has buttock pain when walking which resolves when stopping. He has decreased pulses in his DPs bilaterally and has a h/o smoking and diabetes.
+
+Diabetes mellitus type 2 
+
+Anemia 
+
+Coronary artery disease 
+
+
+
+Medications
+
+Aspirin (ACETYLSALICYLIC Acid)   81 MG (81MG TABLET take 1) PO QD 
+
+      GLYBURIDE   5 MG (5MG TABLET take 1) PO TID 
+
+      LISINOPRIL   40 MG (40MG TABLET take 1) PO QD x 30 days
+
+      Neurontin (GABAPENTIN)   300 MG (300MG CAPSULE take 1) PO TID 
+
+      Norvasc (AMLODIPINE)   10 MG (10MG TABLET take 1) PO QD 
+
+      Percocet 10 Mg/325 Mg (OXYCODONE 10 Mg/acetaminophen 325 Mg)   -325MG TABLET take 1-2 PO Q6H PRN pain 
+
+          Toprol Xl (METOPROLOL Succinate Extended Release)   50 MG (50MG TAB.SR 24H take 1) PO QD , please come to officein 1 months and have heart rate and blod perssure checked
+
+
+
+Allergies
+
+NKDA
+
+
+
+Physical Exam
+
+Vital Signs:
+
+VSS
+
+General appearance:  Well developed, well nourished
+
+Respiratory:  Normal rate, breathing non-labored.  
+
+Back/Flank:  No CVA tenderness or masses
+
+Abdominal exam:  soft, NT, SPT in place
+
+Obese, no organomegaly, no masses
+
+Groin - no palpable fluid collections
+
+Lymphatic exam:   No inguinal adenopathy
+
+Neurologic:  Alert and oriented.  Conversant. Normal gait.
+
+Psychiatric:  Affect appropriate, speech non-pressured.  Normal syntax.
+
+Skin:  Normal turgor, no jaundice
+
+Rectal Exam:  Normal tone, no masses
+
+GU Complete
+
+No scrotal lesions
+
+Epididymis normal
+
+Testes normally descended, no masses
+
+Urethral meatus normal caliber, normal position
+
+phallus without skin lesions
+
+Prostate absent
+
+
+
+
+
+
+
+Laboratory Data
+
+Cr - 1.2
+
+ 
+
+Microbiology Detail for QUIN, ULYSSES 
+
+   LMH     URINE                     29-Jan-2078 04:19  Accession # 1263L4557
+
+Detail:
+
+  Specimen: 1263L4557        Collected 29-Jan-78 02:30                     
+
+                             Received  29-Jan-78 04:19                     
+
+  Ordering Provider: Unknown, Missing No Info
+
+  Specimen Group:    URINE
+
+  Specimen Type:     URINE
+
+  Urine Culture - Final    Reported: 31-Jan-78 15:51
+
+    Abundant (>=100,000 CFU/ml) ESCHERICHIA COLI
+
+      RAPID METHOD
+
+      Antibiotic                      Interpretation
+
+      ----------------------------------------------
+
+      Amikacin                        Susceptible   
+
+      Amoxicillin/Clavulanate         Susceptible   
+
+      Ampicillin                      Resistant     
+
+      Aztreonam                       Susceptible   
+
+      Cefazolin                       Susceptible   
+
+      Cefepime                        Susceptible   
+
+      Ceftriaxone                     Susceptible   
+
+      Ciprofloxacin                   Susceptible   
+
+      Gentamicin                      Resistant     
+
+      Levofloxacin                    Susceptible   
+
+      Nitrofurantoin                  Susceptible   
+
+      Piperacillin                    Intermediate  
+
+      Tetracycline                    Resistant     
+
+      Trimethoprim/Sulfamethoxazole   Resistant     
+
+    Confidential Material Please Handle Appropriately.
+
+ 
+
+
+
+
+
+Assessment
+
+1. Urosepsis - Treat as you are with Levofloxacin.
+
+2. Bilateral hip pain - given subacute nature of this worsening problem, I would obtain a CT scan of the lower abdomen/pelvis to r/o any drainable fluid collections that we cannot appreciate on PE.
+
+3. Long term plan - I have discussed with Mr. Quin that we are likely headed toward needing a surgical urinary diversion with an ileal conduit. He understands this and is still considering this. We will continue this discussion in outpatient follow up.
+
+ 
+
+ 
+
+
+
+______________________________
+
+Quinton H. Welch
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2078-01-31" TYPE="DATE" comment="" />
+<NAME id="P1" start="92" end="96" text="Quin" TYPE="PATIENT" comment="" />
+<NAME id="P2" start="2531" end="2544" text="QUIN, ULYSSES" TYPE="PATIENT" comment="" />
+<LOCATION id="P3" start="2550" end="2553" text="LMH" TYPE="HOSPITAL" comment="" />
+<DATE id="P4" start="2584" end="2595" text="29-Jan-2078" TYPE="DATE" comment="" />
+<ID id="P5" start="2615" end="2624" text="1263L4557" TYPE="MEDICALRECORD" comment="" />
+<ID id="P6" start="2647" end="2656" text="1263L4557" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P7" start="2674" end="2683" text="29-Jan-78" TYPE="DATE" comment="" />
+<DATE id="P8" start="2751" end="2760" text="29-Jan-78" TYPE="DATE" comment="" />
+<DATE id="P9" start="2929" end="2938" text="31-Jan-78" TYPE="DATE" comment="" />
+<NAME id="P10" start="4252" end="4256" text="Quin" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="4500" end="4516" text="Quinton H. Welch" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

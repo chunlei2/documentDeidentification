@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2079-07-20
+
+                           OFFICE NOTE
+                                
+ 
+Westyn-Nuel, Kelli
+#898-97-85-6
+July 20, 2079
+ 
+Ms. Westyn-Nuel returns following myocardial infarction with
+stenting procedure in February of this year. She continues to do
+well and had an LDL of 90 in March. We will recheck it again today. 
+She has no significant chest discomfort and is doing all of her
+activities.  She has no syncope or paroxysmal nocturnal dyspnea.
+She is tolerating her medications quite well and is happy with her
+progress.  At home she takes her blood pressure and it's generally 
+around 120/80.
+ 
+Current medications are one aspirin per day as well as Isordil 20
+mg. t.i.d., Labetalol 400 mg. t.i.d., Norvasc 7.5 mg. q.d., Lipitor
+80 mg. q.d. and Glipizide.  She has not used sublingual
+Nitroglycerin although she has this.  
+ 
+Her blood pressure today is 128/80 and her heart rate is 50 and
+regular.  Chest is clear. Cardiac exam reveals a II/VI left sternal
+border systolic ejection murmur.  Abdomen is soft and nontender. 
+Extremities are free of edema.
+ 
+Ms. Kelli Westyn-Nuel is doing well. We will check her LDL
+again today to make sure it did not rebound to a higher level
+following her myocardial infarction.  We will also check her liver
+function test because of her statin therapy.  We may in the future
+need to adjust her nitrates to a more rational once per day
+regimen, but her current situation is so stable that we will leave
+her medications as is.
+ 
+ 
+ 
+Spencer O. Wilhelm, M.D.
+ 
+/keys
+ 
+DD: 07/20/79
+DT: 07/22/79
+DV: 07/20/79
+ 
+ 
+ 
+  
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2079-07-20" TYPE="DATE" comment="" />
+<NAME id="P1" start="102" end="120" text="Westyn-Nuel, Kelli" TYPE="PATIENT" comment="" />
+<ID id="P2" start="122" end="133" text="898-97-85-6" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="134" end="147" text="July 20, 2079" TYPE="DATE" comment="" />
+<NAME id="P4" start="154" end="165" text="Westyn-Nuel" TYPE="PATIENT" comment="" />
+<DATE id="P5" start="233" end="241" text="February" TYPE="DATE" comment="" />
+<DATE id="P6" start="305" end="310" text="March" TYPE="DATE" comment="" />
+<NAME id="P7" start="1092" end="1109" text="Kelli Westyn-Nuel" TYPE="PATIENT" comment="" />
+<NAME id="P8" start="1499" end="1517" text="Spencer O. Wilhelm" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="1527" end="1531" text="keys" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="1538" end="1546" text="07/20/79" TYPE="DATE" comment="" />
+<DATE id="P11" start="1551" end="1559" text="07/22/79" TYPE="DATE" comment="" />
+<DATE id="P12" start="1564" end="1572" text="07/20/79" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

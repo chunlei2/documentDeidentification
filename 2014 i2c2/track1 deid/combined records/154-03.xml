@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2081-12-23
+
+                     WMH EMERGENCY DEPT VISIT
+ 
+JOHNSON,PEPPER E.   537-18-74-8                   VISIT DATE: 12/23/81
+The patient was seen by me and examined.  Briefly, the history is 
+as follows. 
+HISTORY OF PRESENTING COMPLAINT:  The patient is a 52 year-old 
+black male with multiple cardiac risk factors including insulin 
+dependent diabetes, hypertension, and hypercholesterolemia, who now 
+presents for evaluation of chest pain.  The patient states he 
+developed substernal chest pressure this a.m. at approximately 9 
+o'clock, associated with nausea, shortness of breath, diaphoresis, 
+and generalized weakness.  He states the discomfort was a 
+substernal tightness without radiation.  At the present time he 
+states the pain is approximately 4/10 in intensity.  Of note, the 
+patient had a stress test done on December 6, 2081, standard Bruce, 
+for which he exercised 7 minutes, 30 seconds and stopped secondary 
+to fatigue.  He went 74 percent of predicted and developed no 
+symptoms.  The test revealed no evidence of ischemia. 
+PAST MEDICAL HISTORY:  As noted above. 
+MEDICATIONS:  Lopressor, amoxicillin, aspirin, insulin, 
+nitroglycerin p.r.n., Claritin, lisinopril, and Zocor. 
+ALLERGIES:  No known drug allergies. 
+SOCIAL HISTORY AND FAMILY HISTORY:  The patient denies smoking. 
+PHYSICAL EXAMINATION:  GENERAL:  Well-developed, well-nourished, 
+pleasant male in no acute distress.  VITAL SIGNS:  Temperature 97, 
+blood pressure 108/62, pulse 80, respiratory rate 18, O2 saturation 
+97 percent on room air.  HEENT:  Mucous membranes were moist 
+without lesions.  NECK:  Supple without jugular venous distension. 
+LUNGS:  Clear to auscultation.  HEART:  Regular rate and rhythm 
+without murmurs, rubs or gallops.  ABDOMEN:  Soft, non-tender and 
+non-distended.  EXTREMITIES:  No clubbing, cyanosis or edema.  No 
+calf tenderness.  Negative Homan's sign.  NEUROLOGIC:  Awake, alert 
+and oriented times three, non-focal. 
+LABORATORY EVALUATION:  CBC:  White count 8.9, hematocrit 40.8, 
+platelets 323,000.  CPK was 1213, MB 10.5.  SMA-7 was within normal 
+limits.  Cardiac troponin was 0.04.  EKG showed normal sinus rhythm 
+with nonspecific T-wave changes.  There was a flipped T-wave in 
+leads 1 and aVL, which is unchanged compared with prior tracing 
+dated December 6, 2081. 
+THERAPY RENDERED/COURSE IN ED:  The patient was treated in the 
+emergency department with O2, two liters via nasal cannula, 
+nitroglycerin 1/150 sublingual times three, Lopressor 25 mg p.o., 
+and aspirin 325 mg p.o.  The patient became pain-free and remained 
+hemodynamically stable. 
+FINAL DIAGNOSIS:  Chest pain, rule out myocardial infarction. 
+DISPOSITION (including condition upon discharge):  The patient will 
+be admitted to the medical service for further evaluation and 
+management, including usual rule out myocardial infarction 
+protocol.  He was admitted in stable condition. 
+___________________________________                    BW018/5369 
+URIEL ERVIN, M.D.       UE24                        D:12/23/81 
+                                                       T:12/24/81 
+Dictated by:  URIEL ERVIN, M.D.       UE24 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2081-12-23" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="49" end="52" text="WMH" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="76" end="93" text="JOHNSON,PEPPER E." TYPE="PATIENT" comment="" />
+<ID id="P3" start="96" end="107" text="537-18-74-8" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="138" end="146" text="12/23/81" TYPE="DATE" comment="" />
+<AGE id="P5" start="278" end="280" text="52" TYPE="AGE" comment="" />
+<DATE id="P6" start="847" end="863" text="December 6, 2081" TYPE="DATE" comment="" />
+<DATE id="P7" start="2302" end="2318" text="December 6, 2081" TYPE="DATE" comment="" />
+<ID id="P8" start="2965" end="2975" text="BW018/5369" TYPE="IDNUM" comment="" />
+<NAME id="P9" start="2977" end="2988" text="URIEL ERVIN" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="3001" end="3005" text="UE24" TYPE="USERNAME" comment="" />
+<DATE id="P11" start="3031" end="3039" text="12/23/81" TYPE="DATE" comment="" />
+<DATE id="P12" start="3098" end="3106" text="12/24/81" TYPE="DATE" comment="" />
+<NAME id="P13" start="3122" end="3133" text="URIEL ERVIN" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="3146" end="3150" text="UE24" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

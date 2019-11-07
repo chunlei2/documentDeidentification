@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2088-10-23
+
+Patient Name: YOUNT, PATRICIA;  MRN: 4711083
+
+Dictated on: 10/24/2088 by YOEL NEWCOMB, M.D. 
+
+
+
+ 
+
+Patricia is a 70-year-old retired woman, right-hand dominant, who comes with complaints of soreness in her right wrist.  She apparently had a fall, which caused substantial pain and some swelling, but no bruising.  Brought her in to have an evaluation.  X-rays showed no fracture and over the last few weeks things have improved substantially, and she comes in just because she was told to get it checked out by her doctors, but otherwise feeling quite good and wondering if the appointment is even necessary.  
+
+ 
+
+Past medical history includes high blood pressure and diabetes.  
+
+ 
+
+No prior surgeries.  
+
+ 
+
+No medications.  
+
+ 
+
+No known drug allergies.  
+
+ 
+
+Lists no family history of any problems.  
+
+ 
+
+Lives alone and used to smoke, but quit.  
+
+ 
+
+On examination, she has full range of motion of her wrist compared to the opposite side.  No atrophy, ecchymosis, edema or deformity.  Negative scaphoid shift test.  Slight tenderness over the distal radius.  Normal tendon function.  
+
+ 
+
+My impression is that she must have got a mild sprain, which has recovered or possibly even a nondisplaced fracture given her age and osteoporotic bone, but whatever this was, it has resolved almost entirely, she is functioning well, and there is no apparent problem, so I will see her back as needed.   
+
+
+
+__________________________ 
+
+Yoel Newcomb, M.D.  
+
+ 
+
+CC:  Dustin T. Michael, M.D.
+
+       SBH - IMA
+
+       YRUK 7  
+
+ 
+
+DD:10/24/2088 
+
+DT:10/25/2088 
+
+VT:32367     :9154 
+
+ 
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2088-10-23" TYPE="DATE" comment="" />
+<NAME id="P1" start="42" end="57" text="YOUNT, PATRICIA" TYPE="PATIENT" comment="" />
+<ID id="P2" start="65" end="72" text="4711083" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="87" end="97" text="10/24/2088" TYPE="DATE" comment="" />
+<NAME id="P4" start="101" end="113" text="YOEL NEWCOMB" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="127" end="135" text="Patricia" TYPE="PATIENT" comment="" />
+<AGE id="P6" start="141" end="143" text="70" TYPE="AGE" comment="" />
+<NAME id="P7" start="1462" end="1474" text="Yoel Newcomb" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="1492" end="1509" text="Dustin T. Michael" TYPE="DOCTOR" comment="" />
+<LOCATION id="P9" start="1524" end="1527" text="SBH" TYPE="HOSPITAL" comment="" />
+<ID id="P10" start="1542" end="1548" text="YRUK 7" TYPE="IDNUM" comment="" />
+<DATE id="P11" start="1558" end="1568" text="10/24/2088" TYPE="DATE" comment="" />
+<DATE id="P12" start="1574" end="1584" text="10/25/2088" TYPE="DATE" comment="" />
+<ID id="P13" start="1587" end="1605" text="VT:32367     :9154" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

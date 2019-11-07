@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2088-03-08
+
+Patient Name: YOUNT, PATRICIA;  MRN: 4711083
+Dictated at: 03/08/2088 by BRANDON VICENTE, M.D. 
+
+RENAL CONSULT NOTE 
+ 
+It is a pleasure seeing seeing Ms. Yount in consultation.  She was referred to us by Dr. Michael.  Ms. Yount has a history of diabetes mellitus for the last seven years.  She also has a long history of hypertension.  She retired from IBM in 2085 after working there for many years.  Her last posting was as a electrical mechanic.  She is feeling well.  She denies headaches, nausea, vomiting, abdominal pain.  She also denies shortness of breath or complex partial seizures.  She denies swelling and presence of dysuria, fever, chills.  She is taking her medications regularly.  
+ 
+ALLERGIES 
+No known drug allergies.  
+ 
+PAST MEDICAL HISTORY 
+1.  Diabetes mellitus for about seven years.  
+2.  Hypertension.  
+
+3.  PVD
+
+4.  Hypercholesterolemia
+
+ 
+SOCIAL HISTORY 
+She denies smoking or drinking.  She has one son living with her.
+
+
+FAMILY HISTORY 
+Positive for diabetes.  
+ 
+MEDICATIONS 
+Norvasc 10 mg q. day,
+
+Glucophage 500 mg twice a day,
+
+Glucotrol 5 mg twice a day,
+
+Avandia 4 mg q. day, (she had incresed skin itching with attempts to increase the dose)
+
+Lipitor 10 mg q. day,
+
+Aspirin 325 mg a day (she is not taking aspirin).   
+
+
+REVIEW OF SYSTEMS 
+Ms. Yount denies any recent visual change, headaches.  She denies chest pain, shortness of breath, nausea, vomiting, abdominal pain, diarrhea, constipation, dysuria, fever, chills.   
+
+
+PHYSICAL EXAM 
+Ms. Yount looks well.  Blood pressure is 148/90.  Body weight is 188.  Repeat blood pressure is 170/80.  On examination of head and neck - no absolutely.  Thyroid is soft, nontender, no nodules.  Chest is clear to percussion and auscultation.  Heart - regular rate and rhythm, no S3.  Abdomen is soft, bowel sounds present.  Extremities - trace edema.  
+ 
+LABORATORY 
+Pending.  
+ 
+IMPRESSION 
+Ms. Yount has diabetes and hypertension with a mildly elevated creatinine.  Her urine shows presence of protein, which suggests diabetic nephropathy.  Upon review of her medications, she is on a very good medication control, and  her blood pressure has been well controlled.  However, today the blood pressure is running higher.  I will see her in about two to three months.  If her blood pressure continues to be high, we should try to increase her dose of ARB.  I also explained to Ms. Yount the importance of taking aspirin and that she should continue her daily aspirin.   
+ 
+_______________________________ 
+Brandon Vicente, M.D.  
+ 
+DD:03/08/2088 
+DT:03/10/2088 
+JM:99704     :137 
+ 
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2088-03-08" TYPE="DATE" comment="" />
+<NAME id="P1" start="42" end="57" text="YOUNT, PATRICIA" TYPE="PATIENT" comment="" />
+<ID id="P2" start="65" end="72" text="4711083" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="86" end="96" text="03/08/2088" TYPE="DATE" comment="" />
+<NAME id="P4" start="100" end="115" text="BRANDON VICENTE" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="181" end="186" text="Yount" TYPE="PATIENT" comment="" />
+<NAME id="P6" start="235" end="242" text="Michael" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="249" end="254" text="Yount" TYPE="PATIENT" comment="" />
+<LOCATION id="P8" start="380" end="383" text="IBM" TYPE="ORGANIZATION" comment="" />
+<DATE id="P9" start="387" end="391" text="2085" TYPE="DATE" comment="" />
+<PROFESSION id="P10" start="455" end="474" text="electrical mechanic" TYPE="PROFESSION" comment="" />
+<NAME id="P11" start="1309" end="1314" text="Yount" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="1510" end="1515" text="Yount" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="1903" end="1908" text="Yount" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="2387" end="2392" text="Yount" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="2512" end="2527" text="Brandon Vicente" TYPE="DOCTOR" comment="" />
+<DATE id="P16" start="2541" end="2551" text="03/08/2088" TYPE="DATE" comment="" />
+<DATE id="P17" start="2556" end="2566" text="03/10/2088" TYPE="DATE" comment="" />
+<ID id="P18" start="2568" end="2585" text="JM:99704     :137" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

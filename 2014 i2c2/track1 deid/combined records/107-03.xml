@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2095-06-27
+
+Problem List 
+1) CAD
+         -Cath: 5/95:  LAD (Proximal), Discrete Discrete 70% lesion; LAD (Mid), Discrete Discrete 80% lesion              DIAG1 (Proximal), Discrete Discrete 95% lesion Left Circumflex Artery CX (Mid), Discrete Discrete 95% lesion              MARG1 (Ostial), Discrete Discrete 95% lesion. Right Coronary Artery  Discrete Discrete 95% lesion       -s/p CABG6/95  
+ SVG-OM, SVG to ramus, LIMa to LAD 
+2) Sick sinus syndrom
+         -s/p PPM 5/95
+3) CHF
+      -EF 45% prior to surgery
+      .
+       
+Dear Dr. Regan: 
+
+
+I had the pleasure of seeing Mr. Percy Root in the Cardiovascular Clinic at the Shady Brook Hospital today.  As you know, he is a 70-year-old man who is s/p CABG in May of this year. Today he is doing well folloing his surgery . 
+
+
+
+His past medical history is significant for a coronary artery disease, status post IMI,afib,  CABG, PPM,  hypertension, hyperlipidemia, question of an old stroke.  His current medications include aspirin 81 mg, amlodipine 5 mg, lisinorpill 40 mg, Toprol-XL 10 mg, Prilosec 20 mg, Zocor 40 mg, Hydralazine.Coumadin as directed.
+
+
+Allergies:  No known drug allergies.
+
+
+He lives in Claxton with his wife, daughter, and grandkids and son-in-law.  He does not drink, smoke or use IV drugs.  He is originally from England.  
+
+
+Family History:  noncontributory.
+
+
+On physical examination, his heart rate was 60 and regular,  his blood pressure was 125/70.  Carotids are 2+, good upstrokes, no bruits.  Jugular venous pressure was flat.  Lungs are clear to auscultation bilaterally.  He had a regular rate and rhythm with a 2/6 systolic ejection murmur at the right upper sternal border.  Abdomen was benign.  No clubbing, cyanosis or edema of the extremities. Good peripheral pulses.
+
+
+
+
+
+In summary, this is a 70-year-old man with coronary artery disease,  At this time he is NYHA II. Hre appears a bit volume overloaded. I will add ACE and lasix. Follow up in 1 month. 
+
+
+
+
+____________________________________
+Xavier Ross, M.D.
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2095-06-27" TYPE="DATE" comment="" />
+<DATE id="P1" start="65" end="69" text="5/95" TYPE="DATE" comment="" />
+<DATE id="P2" start="406" end="410" text="6/95" TYPE="DATE" comment="" />
+<DATE id="P3" start="489" end="493" text="5/95" TYPE="DATE" comment="" />
+<NAME id="P4" start="557" end="562" text="Regan" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="600" end="610" text="Percy Root" TYPE="PATIENT" comment="" />
+<LOCATION id="P6" start="647" end="667" text="Shady Brook Hospital" TYPE="HOSPITAL" comment="" />
+<AGE id="P7" start="697" end="699" text="70" TYPE="AGE" comment="" />
+<DATE id="P8" start="732" end="735" text="May" TYPE="DATE" comment="" />
+<LOCATION id="P9" start="1180" end="1187" text="Claxton" TYPE="CITY" comment="" />
+<LOCATION id="P10" start="1309" end="1316" text="England" TYPE="COUNTRY" comment="" />
+<AGE id="P11" start="1805" end="1807" text="70" TYPE="AGE" comment="" />
+<NAME id="P12" start="2007" end="2018" text="Xavier Ross" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

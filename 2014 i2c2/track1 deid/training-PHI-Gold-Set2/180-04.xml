@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2087-02-06
+
+                     FPM EMERGENCY DEPT VISIT
+ 
+TINSLEY,PEGGY R   236-67-03-3                  VISIT DATE: 02/06/87
+PRESENTING COMPLAINT:  The patient is a 48-year-old female who has
+had a kidney transplant as well as an extensive cardiac history who
+comes in complaining of fatigue and shortness of breath.
+HISTORY OF PRESENTING COMPLAINT:  She was seen primarily by Dr.
+Robert Villasenor.  She also complains of pleuritic chest pain and a
+cough.
+PAST MEDICAL HISTORY:  Are as documented in the written chart by
+Dr. Villasenor.
+MEDICATIONS:  Are as documented in the written chart by Dr.
+Villasenor.
+ALLERGIES:  Are as documented in the written chart by Dr. Villasenor.
+SOCIAL HISTORY AND FAMILY HISTORY:  Are as documented in the
+written chart by Dr. Villasenor.
+PHYSICAL EXAMINATION:  Her temperature is 99.  Her other vital
+signs are stable.  Her O2 sat is 96% on room air.  Her exam is as
+noted in the written chart.  Of note, on her cardiovascular exam:
+She has a regular rate and rhythm with a 2/6 systolic murmur.  The
+lungs show left lower lobe crackles.
+LABORATORY EVALUATION:  Are notable for a white blood cell count of
+12.5 and a hematocrit of 45.3.  Chest x-ray shows an infiltrate in
+the superior segment of the left upper lobe.
+FINAL DIAGNOSIS:  This is a 48-year-old female status post a kidney
+transplant who now has a left upper lobe pneumonia.
+DISPOSITION (including condition upon discharge):  The plan is to
+admit the patient for IV antibiotics.  Condition on admission is
+satisfactory.
+___________________________________                    JD545/5915
+SARINA BOOTH, M.D.  SB17                           D:02/06/87
+                                                       T:02/07/87
+Dictated by:  SARINA BOOTH, M.D.  SB17
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2087-02-06" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="49" end="52" text="FPM" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="76" end="91" text="TINSLEY,PEGGY R" TYPE="PATIENT" comment="" />
+<ID id="P3" start="94" end="105" text="236-67-03-3" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="135" end="143" text="02/06/87" TYPE="DATE" comment="" />
+<AGE id="P5" start="184" end="186" text="48" TYPE="AGE" comment="" />
+<NAME id="P6" start="400" end="417" text="Robert Villasenor" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="545" end="555" text="Villasenor" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="617" end="627" text="Villasenor" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="687" end="697" text="Villasenor" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="781" end="791" text="Villasenor" TYPE="DOCTOR" comment="" />
+<AGE id="P11" start="1300" end="1302" text="48" TYPE="AGE" comment="" />
+<ID id="P12" start="1592" end="1602" text="JD545/5915" TYPE="IDNUM" comment="" />
+<NAME id="P13" start="1603" end="1615" text="SARINA BOOTH" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="1623" end="1627" text="SB17" TYPE="USERNAME" comment="" />
+<DATE id="P15" start="1656" end="1664" text="02/06/87" TYPE="DATE" comment="" />
+<DATE id="P16" start="1722" end="1730" text="02/07/87" TYPE="DATE" comment="" />
+<NAME id="P17" start="1745" end="1757" text="SARINA BOOTH" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="1765" end="1769" text="SB17" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

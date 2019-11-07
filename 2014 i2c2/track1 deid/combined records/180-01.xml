@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2083-07-18
+
+ 
+ 
+July 18, 2083
+ 
+ 
+Vincent Ventura, M.D.
+4971 Edmatteric Drive
+Cheney, TX 37523
+ 
+RE:  Peggy Tinsley
+     MR #236-67-03-3
+ 
+Dear Dr. Ventura:
+ 
+Peggy Tinsley was seen in the renal clinic today.  This patient
+with end stage renal disease secondary to diabetes was initiated
+on hemodialysis 2 weeks ago in MH.  She has been doing well
+except for the complaint of fevers and rigors intermittently for
+the past week.  There is no history of cough, dyspnea, or chest
+pain.  She denies any dysuria, urgency, or frequency.  Her blood
+sugars at home have been between 120 and 180.  
+ 
+Her current medications include Tums 5 to 6 tabs with meals,
+Erythropoietin, Premarin and Provera, Nephrox 150 mg tid, insulin
+NPH 10 units qam.
+ 
+On July 17, after hemodialysis, Ms. Tinsley was given a partial
+dose of Vancomycin and developed pruritus.  CBC at the time
+revealed a white count of 6.2 with a hematocrit of 25.2.  Blood
+cultures were sent.
+ 
+On examination today this lady appeared well with a BP of 110/60
+and a pulse of 88.  She was afebrile.  Head and neck examination
+was unremarkable and chest was clear to IPPA.  On cardiovascular
+examination JVP was at the sternal angle and there was no
+peripheral edema.  Heart sounds were normal.
+ 
+Urinalysis did not reveal and white cells and contained 3+
+protein and 2+ glucose.
+ 
+Miss Tinsley should be followed up at her dialysis center. 
+There does not appear to be any evidence of a graft infection. 
+She should also have a urine sent for culture to rule out urinary
+tract infection.  Because of her early satiety she has been
+eating poorly and we might suggest that she be started on a
+gastroprokinetic agent such as Cisapride 10 mg qid.
+Vincent Ventura, M.D.         -2-
+RE:  Peggy Tinsley
+     MR #236-67-03-3
+ 
+ 
+Thank you for allowing us to be involved in the care of this
+patient.
+ 
+Yours sincerely,
+ 
+ 
+ 
+Martin Y. Pruitt, M.D.
+Renal Fellow
+ 
+ 
+ 
+Y. Quinton Xanders, M.D.
+Attending Physician
+ 
+DD: 07/18/83
+DT: 07/23/83
+DV: 07/18/83
+ 
+/bradford
+ 
+cc:  Dr. Uriel Palmer
+     Dr. Isaac Upson, Cheney, TX 37523
+ 
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2083-07-18" TYPE="DATE" comment="" />
+<DATE id="P1" start="32" end="45" text="July 18, 2083" TYPE="DATE" comment="" />
+<NAME id="P2" start="50" end="65" text="Vincent Ventura" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="72" end="93" text="4971 Edmatteric Drive" TYPE="STREET" comment="" />
+<LOCATION id="P4" start="94" end="100" text="Cheney" TYPE="CITY" comment="" />
+<LOCATION id="P5" start="102" end="104" text="TX" TYPE="STATE" comment="" />
+<LOCATION id="P6" start="105" end="110" text="37523" TYPE="ZIP" comment="" />
+<NAME id="P7" start="118" end="131" text="Peggy Tinsley" TYPE="PATIENT" comment="" />
+<ID id="P8" start="141" end="152" text="236-67-03-3" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P9" start="164" end="171" text="Ventura" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="175" end="188" text="Peggy Tinsley" TYPE="PATIENT" comment="" />
+<LOCATION id="P11" start="335" end="337" text="MH" TYPE="HOSPITAL" comment="" />
+<DATE id="P12" start="758" end="765" text="July 17" TYPE="DATE" comment="" />
+<NAME id="P13" start="791" end="798" text="Tinsley" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="1355" end="1362" text="Tinsley" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="1712" end="1727" text="Vincent Ventura" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="1751" end="1764" text="Peggy Tinsley" TYPE="PATIENT" comment="" />
+<ID id="P17" start="1774" end="1785" text="236-67-03-3" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P18" start="1885" end="1901" text="Martin Y. Pruitt" TYPE="DOCTOR" comment="" />
+<NAME id="P19" start="1927" end="1945" text="Y. Quinton Xanders" TYPE="DOCTOR" comment="" />
+<DATE id="P20" start="1978" end="1986" text="07/18/83" TYPE="DATE" comment="" />
+<DATE id="P21" start="1991" end="1999" text="07/23/83" TYPE="DATE" comment="" />
+<DATE id="P22" start="2004" end="2012" text="07/18/83" TYPE="DATE" comment="" />
+<NAME id="P23" start="2016" end="2024" text="bradford" TYPE="DOCTOR" comment="" />
+<NAME id="P24" start="2036" end="2048" text="Uriel Palmer" TYPE="DOCTOR" comment="" />
+<NAME id="P25" start="2058" end="2069" text="Isaac Upson" TYPE="DOCTOR" comment="" />
+<LOCATION id="P26" start="2071" end="2077" text="Cheney" TYPE="CITY" comment="" />
+<LOCATION id="P27" start="2079" end="2081" text="TX" TYPE="STATE" comment="" />
+<LOCATION id="P28" start="2082" end="2087" text="37523" TYPE="ZIP" comment="" />
+</TAGS>
+</deIdi2b2>

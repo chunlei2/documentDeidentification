@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2087-07-13
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+OFFICE NOTE  QUIANA N. BULLOCK, MSN, NP
+
+ 
+
+RE:Etheridge, Shari
+
+PMH:94482315
+
+ 
+
+July 13, 2087
+
+ 
+
+REASON FOR VISIT:  Postoperative appointment.
+
+ 
+
+HPI:  Shari is an 83-year-old female who on March 21, 2087 underwent an 
+
+ileocecectomy for ischemic bowel.  Two weeks prior to her presentation 
+
+to the Parkview Memorial Hospital she underwent a stent placement to 
+
+her SMA.  After stent placement she was discharged to rehab, and then 
+
+returned to the emergency room complaining of severe sudden onset of 
+
+right lower quadrant pain.  CT scan of the abdomen showed cecal 
+
+thickening with fat stranding locally.  She subsequently was taken to 
+
+the operating room.  Her postoperative course was uncomplicated and she 
+
+was discharged to Hendry Hospital where she had remained until May.
+
+ 
+
+Her complaints today include some constipation, which she is relating 
+
+to iron intake.  She is going to use some stool softeners and some milk 
+
+of magnesia for this.  She also has some diaphoresis at nighttime, 
+
+which she reports has occurred prior to her hospitalization.  
+
+ 
+
+REVIEW OF SYSTEMS: Otherwise, today she denies fever, chills, chest 
+
+pain, shortness of breath, nausea, vomiting, diarrhea, abdominal pain, 
+
+or calf pain.
+
+ 
+
+PHYSICAL EXAM: On physical exam she is healthy appearing in no apparent 
+
+distress.  She is accompanied today by her daughter.  Her weight is 164 
+
+pounds.  Her vital signs are 103/80, 70, 16, 96.6.  Her abdomen is 
+
+soft, nontender and nondistended.  Her midline incision is well healed 
+
+with no evidence of hernia.
+
+ 
+
+IMPRESSION:  Ischemic cecum.
+
+ 
+
+PLAN: Patient was seen today by Dr. Oscar G. Gregory and Quiana N. 
+
+Bullock, NP.  We will send over to her primary care physician the 
+
+operative, pathology, and discharge summaries.  Shari does not need to 
+
+return to clinic unless further surgical issues arise.
+
+ 
+
+ 
+
+Quiana N. Bullock, MSN, NP
+
+ 
+
+ 
+
+Oscar G. Gregory, M.D.
+
+ 
+
+cc:
+
+ 
+
+Quentin Casey, M.D.
+
+Gravette Medical Center
+
+9890 Lacy Street
+
+Pecos, FL  14347
+
+ 
+
+QB:umberger;59-43465178.doc;DD:07/14/87;DT:07/15/87;DV:07/13/87
+
+ 
+
+ 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2087-07-13" TYPE="DATE" comment="" />
+<NAME id="P1" start="56" end="73" text="QUIANA N. BULLOCK" TYPE="DOCTOR" comment="" />
+<NAME id="P2" start="90" end="106" text="Etheridge, Shari" TYPE="PATIENT" comment="" />
+<LOCATION id="P3" start="108" end="111" text="PMH" TYPE="HOSPITAL" comment="" />
+<ID id="P4" start="112" end="120" text="94482315" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="125" end="138" text="July 13, 2087" TYPE="DATE" comment="" />
+<NAME id="P6" start="199" end="204" text="Shari" TYPE="PATIENT" comment="" />
+<AGE id="P7" start="211" end="213" text="83" TYPE="AGE" comment="" />
+<DATE id="P8" start="237" end="251" text="March 21, 2087" TYPE="DATE" comment="" />
+<LOCATION id="P9" start="347" end="373" text="Parkview Memorial Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P10" start="784" end="799" text="Hendry Hospital" TYPE="HOSPITAL" comment="" />
+<DATE id="P11" start="829" end="832" text="May" TYPE="DATE" comment="" />
+<NAME id="P12" start="1672" end="1688" text="Oscar G. Gregory" TYPE="DOCTOR" comment="" />
+<PHI id="P13" start="1693" end="1712" text="Quiana N. 
+
+Bullock" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="1821" end="1826" text="Shari" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="1908" end="1925" text="Quiana N. Bullock" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="1942" end="1958" text="Oscar G. Gregory" TYPE="DOCTOR" comment="" />
+<NAME id="P17" start="1977" end="1990" text="Quentin Casey" TYPE="DOCTOR" comment="" />
+<LOCATION id="P18" start="1998" end="2021" text="Gravette Medical Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P19" start="2023" end="2039" text="9890 Lacy Street" TYPE="STREET" comment="" />
+<LOCATION id="P20" start="2041" end="2046" text="Pecos" TYPE="CITY" comment="" />
+<LOCATION id="P21" start="2048" end="2050" text="FL" TYPE="STATE" comment="" />
+<LOCATION id="P22" start="2052" end="2057" text="14347" TYPE="ZIP" comment="" />
+<NAME id="P23" start="2062" end="2064" text="QB" TYPE="DOCTOR" comment="" />
+<NAME id="P24" start="2065" end="2073" text="umberger" TYPE="DOCTOR" comment="" />
+<ID id="P25" start="2074" end="2085" text="59-43465178" TYPE="IDNUM" comment="" />
+<DATE id="P26" start="2093" end="2101" text="07/14/87" TYPE="DATE" comment="" />
+<DATE id="P27" start="2105" end="2113" text="07/15/87" TYPE="DATE" comment="" />
+<DATE id="P28" start="2117" end="2125" text="07/13/87" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

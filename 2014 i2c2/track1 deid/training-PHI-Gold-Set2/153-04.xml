@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2079-01-05
+
+
+
+
+
+INTERNAL MEDICINE ASSOCIATES
+
+MESA VISTA HOSPITAL
+
+
+
+Reason for visit
+
+			
+
+  Followup of multiple medical problems.
+
+
+
+Major Problems
+
+
+
+
+
+Hand pain
+
+The patient has been treated with Indocin and had resolution of his wrist swelling and pain, suggesting gout.  
+
+A: Stable. 
+
+P: Indocin PRN.  We will check renal function today.
+
+
+
+Claudication
+
+The patient does not complain of pain today.  He has vascular disease and Dr.  Rico as well as our renal consultants were in contract about the optimal management and the worry of his renal artery stenosis.  I have referred him back to Renal where he has not been seen in many months.
+
+
+
+Coronary artery disease
+
+There are no new symptoms.  He had chest pain and an admission to Colonial Manor several months ago.  There, an adenosine MIBI showed inferior scar and no reversible ischemia.  Cardiac function was 67%.  There was diffuse contraction thickening of the walls.
+
+
+
+Diabetes mellitus
+
+The patient remains on metformin, and hemoglobin A1c will be rechecked.
+
+
+
+Hypertension
+
+The patient remains on a complex regimen with the assistance of the Renal Service.  He remains on hydralazine, atenolol, Cozaar, and Norvasc.  His blood pressure has been stable by his report, and we get 150/80, repeated by me 150/70 today.  
+
+A: Metastable hypertension. 
+
+P: Follow up Renal Service and check BUN and creatinine today.
+
+
+
+Renal failure
+
+Has proteinuria and a creatinine approaching 3.  I have asked him to reschedule a followup with the Renal Service.
+
+
+
+Active Medications
+
+
+
+aspirin 325 mg 1 tab  po QD
+
+atenolol 50 mg 1 tab  po QD
+
+clotrimazole (lotrimin) cream  top bid to feet
+
+Cozaar 25mg po qd
+
+Glucophage 500 mg 1 tab  po QD
+
+hydralazine 10 mg  PO TID
+
+Indocin 50 mg po tid take with food
+
+Lipitor 20 mg 1 tab  po QD
+
+Lotrisone cream  PRN
+
+Norvasc 10 mg 1 tab  po QD
+
+
+
+Review of systems
+
+			
+
+  No chest pain, palpitations, shortness of breath, dyspnea on exertion, orthopnea, or leg swelling or pain.
+
+
+
+Physical examination
+
+Pulse   70
+
+Blood pressure 150/80    , repeated by me 150/70
+
+Weight   132 pounds
+
+General appearance   Well developed and well nourished in no apparent distress
+
+Neck   Carotids 2+.  No bruit detected
+
+Chest   Clear to PandA without rale or dullness
+
+Cor   S1 and S2 without significant murmur
+
+Abdomen   Bowel sounds positive, cannot detect bruit today
+
+Extrem   Feet are well profused but only DP on the right is palpable
+
+
+
+Assessment and plan
+
+			
+
+  Renal failure, diabetes, coronary disease, and gout.  We will check labs for stability.  The patient had a report of apical thickening on a chest film at Colonial Manor and will repeat the chest x-ray today.  The patient is to follow up with me in short order in the Renal Service.
+
+
+
+Addendum
+
+			
+
+  Chest x-ray was reviewed, and pleural thickening is stable since 2075.  There is no CHF or parenchymal disease.  There is vascular calcification of the aorta as well as coronary vessels.
+
+
+
+Note transcribed by outside service
+
+			
+
+  Transcription errors may be present.
+
+
+
+Signed electronically by Jeffers, Oswald on Jan 21, 2079     
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2079-01-05" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="62" end="81" text="MESA VISTA HOSPITAL" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="458" end="462" text="Rico" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="758" end="772" text="Colonial Manor" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P4" start="2626" end="2640" text="Colonial Manor" TYPE="HOSPITAL" comment="" />
+<DATE id="P5" start="2839" end="2843" text="2075" TYPE="DATE" comment="" />
+<NAME id="P6" start="3073" end="3088" text="Jeffers, Oswald" TYPE="DOCTOR" comment="" />
+<DATE id="P7" start="3092" end="3104" text="Jan 21, 2079" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

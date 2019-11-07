@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2075-04-06
+
+                     AGH EMERGENCY DEPT VISIT
+ 
+HARDY,TERESA   360-52-41-3                    VISIT DATE: 04/06/75
+The patient was seen by myself and Dr. Yong, Emergency Medicine 
+resident, on 4/06/75 at 2030. 
+PRESENTING COMPLAINT:   The patient is a 55 year-old female 
+complaining of chest pain, shortness of breath x 16 hours. 
+HISTORY OF PRESENT ILLNESS:  Patient has a past medical history of 
+increased cholesterol, hypertension, non-insulin dependent, long 
+history of non-compliance with medications.  Patient states over 
+the last 4 - 6 weeks she has had right shoulder pain.  Now 
+complaining of chest pressure that she describes as a weight on her 
+chest since 3 a.m. yesterday.  The patient also shortness of breath 
+on exertion.  She denies fever or chills, palpations, syncope, 
+abdominal pain, nausea or vomiting. 
+PAST MEDICAL/SURGICAL HISTORY:  Previous urinary tract infections, 
+hypertension, increased cholesterol, hyperglycemia. 
+MEDICATIONS:  Pain medications 
+ALLERGIES:  NO KNOWN DRUG ALLERGIES 
+PHYSICAL EXAMINATION:  GENERAL:  Well-developed, well-nourished 
+female, awake and alert.  VITAL SIGNS:  Temperature 96.3, pulse 84, 
+respirations 16, blood pressure 158/67, oxygen saturation 98%. 
+HEENT:  Normocephalic, atraumatic.  Pupils equal and react to 
+light.  NECK:  Supple.  LUNGS:  Clear.  HEART:  Regular rate and 
+rhythm.  ABDOMEN:  Soft.  Non-tender.  Positive bowel sounds. 
+EXTREMITIES:  2+ edema bilaterally. 
+TREATMENT RENDERED/COURSE IN ED:  The patient received aspirin and 
+sublingual Nitroglycerin and Lopressor.  Patient had chest x-ray 
+which showed mild vascular prominence, with no history of 
+infiltrate.   The patient had electrocardiogram showing normal 
+sinus rhythm.  ST flattening laterally. 
+CPK 393, MB 1.8, Troponin-I 0. 
+FINAL DIAGNOSIS:  Chest pain.  Cannot rule out ischemic etiology 
+DISPOSITION (including condition upon discharge):  Admit for rule 
+out myocardial infarction and further cardiac workup.  Condition is 
+satisfactory. 
+___________________________________                    MW631/33924 
+HARRIET XIA, M.D.       HX82                          D:04/06/75 
+                                                       T:04/07/75 
+Dictated by:  HARRIET XIA, M.D.       HX82 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2075-04-06" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="49" end="52" text="AGH" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="76" end="88" text="HARDY,TERESA" TYPE="PATIENT" comment="" />
+<ID id="P3" start="91" end="102" text="360-52-41-3" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="134" end="142" text="04/06/75" TYPE="DATE" comment="" />
+<NAME id="P5" start="182" end="186" text="Yong" TYPE="DOCTOR" comment="" />
+<DATE id="P6" start="221" end="228" text="4/06/75" TYPE="DATE" comment="" />
+<AGE id="P7" start="280" end="282" text="55" TYPE="AGE" comment="" />
+<ID id="P8" start="2078" end="2089" text="MW631/33924" TYPE="IDNUM" comment="" />
+<NAME id="P9" start="2091" end="2102" text="HARRIET XIA" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="2115" end="2119" text="HX82" TYPE="USERNAME" comment="" />
+<DATE id="P11" start="2147" end="2155" text="04/06/75" TYPE="DATE" comment="" />
+<DATE id="P12" start="2214" end="2222" text="04/07/75" TYPE="DATE" comment="" />
+<NAME id="P13" start="2238" end="2249" text="HARRIET XIA" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="2262" end="2266" text="HX82" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

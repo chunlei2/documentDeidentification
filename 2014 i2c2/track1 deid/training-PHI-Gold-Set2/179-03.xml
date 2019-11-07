@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2070-10-27
+
+ 
+
+CLERMONT COUNTY HOSPITAL
+
+ERVING, VERMONT
+
+
+
+GI CONSULT NOTE 								10/27/2070
+
+
+
+Patient: Langston, Sherman
+
+Unit #: 7223692
+
+Location: Ol 11
+
+Referring Attending: Null
+
+
+
+Reason for consult:  BRBPR
+
+
+
+HPI: The patient is a 62 year old male with history of CAD s/p stents of LAD lesion in February 2070 readmit with chest pain.  At the time of this stenting, he had total occlusion of his midRCA and mid circumflex with collaterals.  He presented with recurrent CP in May, and he underwent a second cath that revealed patent LAD with stent.  This admission he had a 10-15 minute episode of chest and jaw pain with tachycardia and hypertension by home monitoring.  The pain resolved with two sublingual nitroglycerins.  He went to Butte Ridge Associates where he was placed on heparin.  In the setting of heparin bolus with PPT >150, he had one episode, moderate volume of painless rectal bleeding.  Since transfer, still on heparin, he had no further bleeding, nor guiac positive stool until today.   This morning he passed a large brown bowel movement which was guiac negative.  Following this, after returning to bed, he had a small amount of oozing of blood from his rectum.  He had no abdominal pain.  No further bleeding since this morning.  He has never had rectal bleeding previously on aspirin and plavix.  His colonoscopy in 2066 revealed diverticulosis.  He is currently on aspirin, plavix, heparin with therapeutic PTT.
+
+
+
+PMH:
+
+CAD
+
+Hypertension
+
+Hypercholesterolemia
+
+CRI
+
+Bilateral RCC - s/p L nephrectomy,  R RFA, XRT.  Per renal note also has pulmonary nodules, which are presumably metastatic RCC, but patient states prior eval not consistent with met disease. 
+
+
+
+MEDS:
+
+ASA 325
+
+Plavix
+
+Heparin gtt
+
+Toprol
+
+Protonix
+
+Lipitor
+
+HCTZ
+
+Diovan
+
+MVI
+
+
+
+
+
+ALL: NKDA
+
+SH: works as an archivist.  
+
+FH: no pertinent FH.
+
+
+
+PE:
+
+VS:  97.7    65  120/75   99 % RA
+
+General: appears well, NAD
+
+Neck:  no LN
+
+Heent: OP dry, conjunc nl
+
+Chest:  CTA B
+
+Cardiac:  RRR, nl s1, s2, no murmurs, rubs or gallops
+
+Abdomen: NT, ND, nl BS.  No hepatomegaly.  No epigastric discomfort
+
+Rectal: small external hemorrhoids, nontender, blood around anus
+
+Extremities: no edema, normal pulses
+
+Skin:  No jaundice, no rashes
+
+
+
+LABS:
+
+Plasma Sodium                    137                       (135-145)        mmo
+
+Plasma Potassium                 4.0                       (3.4-4.8)        mmol
+
+Plasma Chloride                  102                       (100-108)        mmol
+
+Plasma Carbon Dioxide            26.9                      (23.0-31.9)      mmol
+
+Plasma Urea Nitrogen             38               H        (8-25)           mg/
+
+Plasma Creatinine                2.6              H        (0.6-1.5)        mg/
+
+
+
+WBC                              6.2                       (4.5-11.0)       th/
+
+HCT                              37.2             L        (41.0-53.0)      %
+
+HGB                              12.7             L        (13.5-17.5)      gm/
+
+RBC                              4.18             L        (4.50-5.90)      mil/
+
+PLT                              169                       (150-350)        th/c
+
+MCV                              89                        (80-100)         fl
+
+MCH                              30.3                      (26.0-34.0)      pg/
+
+MCHC                             34.0                      (31.0-37.0)      g/dl
+
+RDW                              13.9                      (11.5-14.5)      %
+
+PT                               15.3             H        (11.3-13.3)      sec
+
+PT-INR                           1.5              C
+
+Superstat APTT                   72.0             H        (22.1-35.1)      sec
+
+
+
+          10/27/70  10/26/70  10/25/70  	10/24/70  10/24/70  10/23/70  10/23/70           	          		<5        	<5        
+
+HCT       37.2(L)   38.4(L)   35.5(L)   	33.3(L)   31.8(L)   33.3(L)   37.0(L)   
+
+No transfusions while in the hospital
+
+
+
+        09/22/70  	 
+
+FE        47        		          	          
+
+TIBC     278       	      	          	          
+
+FER      134      
+
+
+
+Colonoscopy June 2066 - large mouthed diverticulosis in the sigmoid.   	      	          	          
+
+No prior EGD - had an ENT exam at Ridge Family Practice
+
+
+
+ASSESSMENT AND PLAN: 
+
+62 year old male with CAD with chest pain to be evaluated by cardiac cath with painless BRBPR following a large bowel movement today in the setting of heparin, aspirin and plavix.  This bleeding was minimal and self-limited, most likely of hemorrhoidal origin, rather than diverticular.  He does have some risk of recurrent rectal bleeding on these blood thinners, but the bleeding is likely to continue to be limited.  There is no contraindication to cardiac catherization or continuing these important medications.  There is also no intervention we could do now to adjust the risk.  Would recommend proceeding to cardiac catherization.  No alteration in medications required.  
+
+
+
+Opal Larson, M.D. 
+
+GI Fellow - Page 09744
+
+      
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2070-10-27" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="31" end="55" text="CLERMONT COUNTY HOSPITAL" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P2" start="57" end="63" text="ERVING" TYPE="CITY" comment="" />
+<LOCATION id="P3" start="65" end="72" text="VERMONT" TYPE="STATE" comment="" />
+<DATE id="P4" start="100" end="110" text="10/27/2070" TYPE="DATE" comment="" />
+<NAME id="P5" start="123" end="140" text="Langston, Sherman" TYPE="PATIENT" comment="" />
+<ID id="P6" start="150" end="157" text="7223692" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P8" start="197" end="201" text="Null" TYPE="DOCTOR" comment="" />
+<AGE id="P9" start="257" end="259" text="62" TYPE="AGE" comment="" />
+<DATE id="P10" start="322" end="335" text="February 2070" TYPE="DATE" comment="" />
+<DATE id="P11" start="501" end="504" text="May" TYPE="DATE" comment="" />
+<LOCATION id="P12" start="763" end="785" text="Butte Ridge Associates" TYPE="HOSPITAL" comment="" />
+<DATE id="P13" start="1367" end="1371" text="2066" TYPE="DATE" comment="" />
+<PROFESSION id="P14" start="1829" end="1838" text="archivist" TYPE="PROFESSION" comment="" />
+<DATE id="P15" start="3704" end="3712" text="10/27/70" TYPE="DATE" comment="" />
+<DATE id="P16" start="3714" end="3722" text="10/26/70" TYPE="DATE" comment="" />
+<DATE id="P17" start="3724" end="3732" text="10/25/70" TYPE="DATE" comment="" />
+<DATE id="P18" start="3735" end="3743" text="10/24/70" TYPE="DATE" comment="" />
+<DATE id="P19" start="3745" end="3753" text="10/24/70" TYPE="DATE" comment="" />
+<DATE id="P20" start="3755" end="3763" text="10/23/70" TYPE="DATE" comment="" />
+<DATE id="P21" start="3765" end="3773" text="10/23/70" TYPE="DATE" comment="" />
+<DATE id="P22" start="3952" end="3960" text="09/22/70" TYPE="DATE" comment="" />
+<DATE id="P23" start="4095" end="4104" text="June 2066" TYPE="DATE" comment="" />
+<LOCATION id="P24" start="4219" end="4240" text="Ridge Family Practice" TYPE="HOSPITAL" comment="" />
+<AGE id="P25" start="4267" end="4269" text="62" TYPE="AGE" comment="" />
+<NAME id="P26" start="4950" end="4961" text="Opal Larson" TYPE="DOCTOR" comment="" />
+<CONTACT id="P27" start="4987" end="4992" text="09744" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

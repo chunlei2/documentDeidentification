@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2079-03-28
+
+Other CARDIOLOGY F8 - INTERN ADMIT NOTE
+Hosptial Room: 
+Attending: Carroll (Cardiology)
+PCP: Smith (Internal Medicine)
+Speciailists: Carroll (Cardiology)Chief Complaint Abnormal stress testHistory of Present Illness 55yo M with a history of IDDM, hypertension, hyperlipidemia, ESRD (on HD), h/o DVT (positive lupus anticoagulant), osteoarthritis was scheduled for elective hip surgery 3/29/77. For his pre-operative work-up, the patient had a stress PET exam on 3/26 that was notable for a medium-sized defect of moderate intensity in the mid and basal inferior and inferolateral walls that was reversible. As a result, the patient was referred to Dr. Carroll who saw the patient in clinic on 3/27. Given the patient's risk factors and positive stress test, the patient was scheduled for right and left heart catheterization on the day of admission with the plan to delay his hip surgery if he requires a stent and subsequent Plavix therapy. On the evening prior to his catheterization, he had dialysis.
+ 
+The patient went to the cath lab where he was found to have an 80% lesion of the mid-RCA so a bare-metal stent was placed. After cath, the patient was started on ASA 325mg PO daily and Plavix loaded with 600mg PO x 1 then 75mg PO daily thereafter. He was also given Warfarin 8mg PO x 1 for an INR of 1.6.Review of Systems negative except as abovePast Medical History 1. IDDM (A1c 6.9, neuropathy)
+2. Hypertension
+3. Hyperlipidemia
+4. ESRD (on HD, s/p AVF)
+5. h/o DVT x 2 &amp; PE x 1 (positive lupus anticoagulant)
+6. Osteoarthritis
+7. h/o bladder cancer treated by "scraping"
+8. Obesity
+9. GERD
+10. s/p skin graft from hip to foot for burn
+11. s/p amputation of two toes on R foot for infectionMedications ASA 81mg PO daily
+Folic acid 1mg PO daily
+Gemfibrozil 600mg PO BID
+Insulin lantus 50u SC QPM
+Lipitor 80mg PO QPM
+Insulin Lispro 10-15u AC
+Nephrocaps 1tab PO daily
+Nifedipine ER 30mg PO daily
+Phoslo 1334mg PO TID
+Protonix 40mg PO daily
+Soma 350mg PO QID PRN spasms
+Viagra 100mg PO PRN
+Zetia 10mg PO daily
+Toprol XL 25mg PO daily
+WarfarinAllergies Codeine, Cephalosporins, SimvastatinFamily History Is remarkable for father at 81 years of age who has had breast and prostate cancer more than 15 years ago and has chronic lung disease currently.  His mother died at 73 years of age after an operative intervention.  Two brothers have been killed by shooting, one by police, and one by an unknown assailant.  The patient reports having 10 children and 21 grandchildren, three of his children have diabetes.Social History Retired on disability and previously worked for West Liberty Foods.  He is not married but has been living with his common-law wife for 34 years.Habits Tob:
+EtOH:
+Illicits:Vital Signs T           HR              BP                 RR                O2 SAT                 WTPhysical Exam  General Appearance NAD, pleasant, obese   HEENT NC/AT, PERRL, EOMI, arcus senilis, OP clear, MMMNeck supple, no LAD, no JVD, no bruits, 2+ carotids   Chest good inspiratory effort, CTAB, no crackles/wheezes   Cor/Cardiac RRR, S1 S2, no M/R/G, no thrills/lifts/heavesAbdomen +BS, S/NT/ND, no hepatomegaly, no splenomegaly   Genito-Urinary DeferredExtremity No C/C/E, 2+ radials, 2+ DP, 2+ PTNeurological A&amp;O x 3 (place, person, time), face symmetric, fluent speech, moving all extremities, sensation grossly intactSkin No gross abnormalities   Nodes/Lymphatic No LADResults 3/28
+INR 1.6
+ 
+3/27
+141/5.3/94/31/80/11.17/192, Ca 9.0
+ALT 13, AST 15, TBili 0.3, AlkP 109
+CK 176
+7.35&gt;36.3&lt;424
+INR 1.5Diagnostic Testing EKG: NSR 87bpm, no ST-T changes (unchanged from prior)
+ 
+Stress PET: The patient's PET-CT test results are abnormal and consistent with a medium sized region of moderate dipyridamole induced peprfusion defect in the distribution of an OM coronary artery.Assessment and Plan 55yo M with a history of obesity, diabetes, hypertension, hyperlipidemia with a positive pre-operative stress test now s/p cardiac catheterization. 
+ 
+# CV (I): The patient had an abnormal stress test and is now s/p cardiac cath.
+- telemetry
+- lipids and A1c in AM
+- ASA, Plavix, statin, BB
+- consider the addition of an ACEi especially given history of diabetes
+ 
+# ESRD: On the evening prior to cath the patient had HD and will have HD tomorrow.
+- renal aware
+- continue phoslo, nephrocaps
+ 
+# DM: Last A1c was 6.9.
+- check A1c in AM
+- Lantus 55u SC QPM, Aspart 10u SC AC, Aspart SS AC + HS
+ 
+# Hypertension: 
+- continue nifedipine and metoprolol
+ 
+# Hyperlipidemia:
+- check lipids in AM
+- continue lipitor, zetia, gemofibrozil
+ 
+# Osteoarthritis: Elective surgery now deferred since patient is s/p stent and on necessary Plavix
+- percocet PRN
+- carisoprodol PRN
+ 
+# h/o DVT: Currently on Coumadin but subtherapeutic. The patient received 8mg PO x 1 in the cath lab.
+- follow INR daily
+- continue home Coumadin
+ 
+# FEN: 
+- renal/cardiac/diabetic diet
+ 
+# PPX:
+- coumadinContact Info Edith Vandiver (significant other) 216-669-9576Code Status FULL CODE
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2079-03-28" TYPE="DATE" comment="" />
+<NAME id="P2" start="95" end="102" text="Carroll" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="121" end="126" text="Smith" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="161" end="168" text="Carroll" TYPE="DOCTOR" comment="" />
+<AGE id="P6" start="244" end="246" text="55" TYPE="AGE" comment="" />
+<DATE id="P7" start="413" end="420" text="3/29/77" TYPE="DATE" comment="" />
+<DATE id="P8" start="490" end="494" text="3/26" TYPE="DATE" comment="" />
+<NAME id="P9" start="680" end="687" text="Carroll" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="721" end="725" text="3/27" TYPE="DATE" comment="" />
+<AGE id="P11" start="2166" end="2168" text="81" TYPE="AGE" comment="" />
+<AGE id="P12" start="2304" end="2306" text="73" TYPE="AGE" comment="" />
+<LOCATION id="P13" start="2606" end="2624" text="West Liberty Foods" TYPE="ORGANIZATION" comment="" />
+<DATE id="P14" start="3424" end="3428" text="3/28" TYPE="DATE" comment="" />
+<DATE id="P15" start="3439" end="3443" text="3/27" TYPE="DATE" comment="" />
+<AGE id="P16" start="3842" end="3844" text="55" TYPE="AGE" comment="" />
+<NAME id="P17" start="4927" end="4941" text="Edith Vandiver" TYPE="PATIENT" comment="" />
+<CONTACT id="P18" start="4962" end="4974" text="216-669-9576" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

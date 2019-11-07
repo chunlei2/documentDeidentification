@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2085-06-13
+
+EDVISIT^53718748^Johnson, Pepper^06/13/85^UMANA, BRUCE
+
+The patient was seen by me along with Dr. Abbott on 06/13/2085. 
+
+The history is documented by Dr. Abbott, was reviewed by me with
+
+the patient, found to be accurate and complete.  The physical
+
+exam was confirmed by my examination.  Evaluation and management
+
+was also concurred with.
+
+HISTORY OF PRESENT ILLNESS:  In brief, this is a 56-year-old male
+
+who enters with a history of after sitting playing a piano,
+
+developed shortness of breath, had decreased ability to breathe. 
+
+Says he had some diaphoresis this morning, dyspnea on exertion
+
+which he has noted that he has been having repeated exertional
+
+dyspnea over the past several days, worsening today when he had
+
+diaphoresis accompanying with no chest pain but felt confused and
+
+did not know where he is supposed to be going in the building until
+
+he was overhead paged to report to specific room, when he looked
+
+up 25 minutes had gone by and he was unaware of what had happened
+
+during that time.  He has had some mild upper respiratory tract
+
+infection about a week ago.  No nausea, no vomiting, no
+
+dizziness, no abdominal pain, and the patient states that he is
+
+feeling much better while he was being given some oxygen but just
+
+feels like he has no energy.  The patient had a cardiac
+
+catheterization in December of 2081 and had a luminal
+
+irregularities and 30% stenosis and echocardiogram revealed 55%
+
+ejection fraction.
+
+PAST MEDICAL HISTORY:  The patient has history of coronary
+
+disease, MI, and hypercholesterolemia.
+
+SOCIAL HISTORY:  Smoked in the past for 30 years.  He is a
+
+Senior Manager of Broadcasting by occupation.  Lives with his family.
+
+Review of systems, allergies, and medications are as documented
+
+in the chart.  Please see Dr. Abbott' notes for details.
+
+PHYSICAL EXAMINATION:  Awake, alert, well-developed,
+
+well-nourished male in mild distress.  Temperature 96.6, pulse
+
+100, respirations 20, blood pressure 164/86.  Lungs clear. 
+
+Cardiovascular:  Regular rate and rhythm.  Abdomen is flat,
+
+nondistended, bowel sounds normoactive, nontender, no pedal
+
+edema.
+
+LABORATORY DATA:  White count 7.9, electrolytes are normal,
+
+hematocrit 36.  CK was elevated at 657, troponin was negative. 
+
+The patient's D-dimer was 211 and an EKG showed T-wave inversions
+
+in aVL, V5 and V6 which ________ from previous chest x-ray was
+
+negative.
+
+DIAGNOSIS:  Acute coronary syndrome, rule out myocardial
+
+infarction.
+
+As such was admitted to Medicine on 06/13/2085.
+
+______________________________
+
+UMANA, BRUCE M.D.
+
+D: 06/13/85
+
+T: 06/13/85
+
+Dictated By: UMANA, BRUCE
+
+eScription document:9-2130535 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2085-06-13" TYPE="DATE" comment="" />
+<ID id="P1" start="36" end="44" text="53718748" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="45" end="60" text="Johnson, Pepper" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="61" end="69" text="06/13/85" TYPE="DATE" comment="" />
+<NAME id="P4" start="70" end="82" text="UMANA, BRUCE" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="126" end="132" text="Abbott" TYPE="DOCTOR" comment="" />
+<DATE id="P6" start="136" end="146" text="06/13/2085" TYPE="DATE" comment="" />
+<NAME id="P7" start="183" end="189" text="Abbott" TYPE="DOCTOR" comment="" />
+<AGE id="P8" start="420" end="422" text="56" TYPE="AGE" comment="" />
+<DATE id="P9" start="1358" end="1374" text="December of 2081" TYPE="DATE" comment="" />
+<PROFESSION id="P10" start="1639" end="1669" text="Senior Manager of Broadcasting" TYPE="PROFESSION" comment="" />
+<NAME id="P11" start="1805" end="1811" text="Abbott" TYPE="DOCTOR" comment="" />
+<DATE id="P12" start="2517" end="2527" text="06/13/2085" TYPE="DATE" comment="" />
+<NAME id="P13" start="2562" end="2574" text="UMANA, BRUCE" TYPE="DOCTOR" comment="" />
+<DATE id="P14" start="2584" end="2592" text="06/13/85" TYPE="DATE" comment="" />
+<DATE id="P15" start="2597" end="2605" text="06/13/85" TYPE="DATE" comment="" />
+<NAME id="P16" start="2620" end="2632" text="UMANA, BRUCE" TYPE="DOCTOR" comment="" />
+<ID id="P17" start="2654" end="2663" text="9-2130535" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

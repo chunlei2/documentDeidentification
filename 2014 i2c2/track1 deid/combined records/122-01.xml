@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2080-09-30
+
+ 
+ 
+                                        Ocampo, Nathan-Oliver
+                                        09/30/80
+HDH INTERNAL MEDICINE ASSOCIATES
+ 
+ 
+ 
+ 
+This 63 y.o. white male with hypertension and hypercholesterolemia
+returns for follow-up.  His cardiovascular review of systems and other
+review of systems is entirely negative.  He takes Niacin SR 500 mg po
+BID and Enalapril 5 mg po BID.  He has no complaints.
+ 
+On examination today, his weight is 188 lbs; BP is 120/70; HEENT exam
+is unremarkable; chest is clear; heart shows a soft flow murmur;
+abdominal examination is benign; rectal is guaiac negative without
+masses.
+ 
+Assessment:  The patient is in good stable health.  I will draw some
+blood tests and write him a letter.  I will see him in about nine
+months.
+ 
+ 
+ 
+ 
+ 
+Kenneth X. Sylvester, M.D.
+ 
+DD: 09/30/80
+DT: 12/29/68
+DV: 09/30/80
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2080-09-30" TYPE="DATE" comment="" />
+<NAME id="P1" start="72" end="93" text="Ocampo, Nathan-Oliver" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="134" end="142" text="09/30/80" TYPE="DATE" comment="" />
+<LOCATION id="P3" start="143" end="146" text="HDH" TYPE="HOSPITAL" comment="" />
+<AGE id="P4" start="189" end="191" text="63" TYPE="AGE" comment="" />
+<NAME id="P5" start="813" end="833" text="Kenneth X. Sylvester" TYPE="DOCTOR" comment="" />
+<DATE id="P6" start="846" end="854" text="09/30/80" TYPE="DATE" comment="" />
+<DATE id="P7" start="859" end="867" text="12/29/68" TYPE="DATE" comment="" />
+<DATE id="P8" start="872" end="880" text="09/30/80" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

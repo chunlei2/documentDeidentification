@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2077-11-10
+
+
+	CARDIOLOGY
+	
+
+	GLENNON MEMORIAL HOSPITAL
+	
+
+Xiomara B Xanthos M.D. 
+53 Barrington Avenue, Suite 700
+Connell, MO 38438
+
+Dear Dr. Xanthos:
+
+  I had the pleasure of seeing Mr. Milton Horne in my office today for evaluation of coronary artery disease.  As you know, he is a very pleasant 64-year-old gentleman who has a history of coronary disease, admitted to GMH in June 2077 after a non-ST-elevation MI, and had a bare-metal stent placed in his LAD.  He has done well since that procedure.  He denies any exertional chest pain, dyspnea on exertion, PND, orthopnea, pedal edema, lightheadedness, dizziness, or loss of consciousness.
+
+Medications:
+Aspirin 325 mg daily.
+Atorvastatin 80 mg daily.
+Metoprolol 100 mg daily.
+Lisinopril 2.5 mg daily.
+Plavix 75 mg daily.
+Nexium 40 mg daily.
+
+
+	Past medical history:
+   Significant for,
+Benign prostatic hypertrophy.
+Basal cell carcinoma.
+Gastroesophageal reflux.
+Umbilical hernia.
+Hypertension.
+Hyperlipidemia.
+Coronary artery disease.
+
+
+	Family history:
+   Significant for brother had an MI at age 68.  Father who had MIs in his 60s and a coronary artery bypass grafting.  Mother never had coronary disease.
+
+
+	Social history:
+   He is single.  Never married.  No children.  He never smoked.  He drinks one to two drinks a week.  He denies illicit drugs.  He also works as a Recruitment Officer.
+
+Physical examination:
+	
+-Pulse:   60 and regular
+-BP: 110/60  
+-resp. rate:   16 and unlabored
+-General:   He is a well-developed, well-nourished white male in no acute distress.  Alert and cooperative.  Oriented x 3
+-Heent:   No xanthelasma, scleral icterus, proptosis, or lid lag.  Mucous membranes are moist.  Trachea is midline
+-Neck:   Thyroid is nonpalpable.  Carotids are 2+ without bruits.  JVP is less than 7 cm of water
+-Chest:   Clear without rales, rhonchi, or wheezes
+-Cardiac:   Normal S1 and S2, a grade 1/6 holosystolic murmur at the left sternal border
+-Abdomen:   Normal bowel sounds.  No organomegaly
+-Extremities:   Peripheral pulses are 1+ and symmetric.  He has no pedal edema.  He has no clubbing or cyanosis
+
+Selected recent labs:
+
+	 Last cholesterol was, 07/06/2077, showed total cholesterol 174, triglycerides 111, HDL 44, and LDL 108.
+	
+
+
+	Other Data:
+   The patient underwent exercise tolerance testing in August 2077 and was able to exercise for 6 minutes.  He had no chest pain.  Nuclear images showed no evidence of ischemia or previous infarct.  LV function was normal.
+EKG today shows normal sinus rhythm, left axis deviation, right bundle-branch block, and an old IMI.
+
+
+	Assessment and plan:
+   In summary, this is a very pleasant 64-year-old gentleman who had an MI in June 2077, which was a non-ST-elevation MI.  He underwent stenting of his LAD.  Since that time, he has not had any exertional angina.  He has no evidence of fluid retention or decompensated congestive heart failure.  Blood pressure is fine today.  Cholesterol is not perfect, but acceptable.  He is on a high dose of atorvastatin.  He is on a good medical regimen and at this point, I would keep him on his current medicines and plan to see him back in another six months.  He would like to enter a Cardiac Rehab Program and I think that certainly is a reasonable thing to do.
+
+As always, it is a pleasure to be able to participate in the care of this very pleasant gentleman.
+
+Best personal regards,
+
+Sincerely yours,
+
+	
+
+	
+
+	
+Dominic Issa MD,PhD
+
+	
+Signed electronically by  Dominic Issa, MD,PhD
+Document Status: Final
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2077-11-10" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="45" end="70" text="GLENNON MEMORIAL HOSPITAL" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="74" end="91" text="Xiomara B Xanthos" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="98" end="118" text="53 Barrington Avenue" TYPE="STREET" comment="" />
+<LOCATION id="P5" start="130" end="137" text="Connell" TYPE="CITY" comment="" />
+<LOCATION id="P6" start="139" end="141" text="MO" TYPE="STATE" comment="" />
+<LOCATION id="P7" start="142" end="147" text="38438" TYPE="ZIP" comment="" />
+<NAME id="P8" start="158" end="165" text="Xanthos" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="203" end="215" text="Milton Horne" TYPE="PATIENT" comment="" />
+<AGE id="P10" start="314" end="316" text="64" TYPE="AGE" comment="" />
+<LOCATION id="P11" start="387" end="390" text="GMH" TYPE="HOSPITAL" comment="" />
+<DATE id="P12" start="394" end="403" text="June 2077" TYPE="DATE" comment="" />
+<AGE id="P13" start="1071" end="1073" text="68" TYPE="AGE" comment="" />
+<AGE id="P14" start="1102" end="1105" text="60s" TYPE="AGE" comment="" />
+<PROFESSION id="P15" start="1348" end="1367" text="Recruitment Officer" TYPE="PROFESSION" comment="" />
+<DATE id="P16" start="2150" end="2160" text="07/06/2077" TYPE="DATE" comment="" />
+<DATE id="P17" start="2304" end="2315" text="August 2077" TYPE="DATE" comment="" />
+<AGE id="P18" start="2636" end="2638" text="64" TYPE="AGE" comment="" />
+<DATE id="P19" start="2675" end="2684" text="June 2077" TYPE="DATE" comment="" />
+<NAME id="P20" start="3404" end="3416" text="Dominic Issa" TYPE="DOCTOR" comment="" />
+<NAME id="P21" start="3453" end="3465" text="Dominic Issa" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

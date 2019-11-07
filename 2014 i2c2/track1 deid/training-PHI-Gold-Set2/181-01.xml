@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2074-11-09
+
+                     HEARTHSTONE EMERGENCY DEPT VISIT
+ 
+LEVINE,LYDIA   813-25-60-5                   VISIT DATE: 11/10/74
+HISTORY OF PRESENTING COMPLAINT:  This patient is a 48 year old 
+female who while working at home two days ago noticed pain and 
+swelling of the left fifth finger.  The patient was also noted to 
+complain of pain, erythema and a slight amount of pus of the fifth 
+finger of the left hand.  She denies any other complaints.  There 
+is no fever, no chills, no nausea or vomiting. 
+PAST MEDICAL HISTORY:  She has a history of insulin dependent 
+diabetes mellitus. 
+MEDICATIONS:  Insulin for her diabetes. 
+ALLERGIES:  No known allergies. 
+PHYSICAL EXAMINATION:  Temperature of 99, pulse of 96, respiratory 
+rate of 16, blood pressure is 165/96.  Examination of the fifth 
+finger noted pus and erythema of the extensor surface of the fifth 
+finger of the left hand.  She was noted to have full range of 
+motion of the fifth finger of the left hand. 
+THERAPY RENDERED/COURSE IN ED:  Pus was drained from the wound, 
+approximately 1/2 cc of pus.  The patient was given Ancef 1 gram IV 
+piggyback. 
+DISPOSITION (including condition upon discharge):  She was 
+discharged home on Keflex 250 mg p.o. q.i.d. x seven days.  She was 
+also given a tetanus shot.  Condition on discharge stable. 
+___________________________________                    JD134/2915 
+D. EMON DUBOIS, M.D.  ED65                            D:11/10/74 
+                                                       T:11/10/74 
+Dictated by:  D. EMON DUBOIS, M.D.  ED65 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2074-11-09" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="49" end="60" text="HEARTHSTONE" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="84" end="96" text="LEVINE,LYDIA" TYPE="PATIENT" comment="" />
+<ID id="P3" start="99" end="110" text="813-25-60-5" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="141" end="149" text="11/10/74" TYPE="DATE" comment="" />
+<AGE id="P5" start="202" end="204" text="48" TYPE="AGE" comment="" />
+<ID id="P6" start="1386" end="1396" text="JD134/2915" TYPE="IDNUM" comment="" />
+<NAME id="P7" start="1398" end="1412" text="D. EMON DUBOIS" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="1420" end="1424" text="ED65" TYPE="USERNAME" comment="" />
+<DATE id="P9" start="1454" end="1462" text="11/10/74" TYPE="DATE" comment="" />
+<DATE id="P10" start="1521" end="1529" text="11/10/74" TYPE="DATE" comment="" />
+<NAME id="P11" start="1545" end="1559" text="D. EMON DUBOIS" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="1567" end="1571" text="ED65" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

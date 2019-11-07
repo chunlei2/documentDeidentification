@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2063-07-12
+
+HISTORY AND PHYSICAL NOTE
+
+
+
+Reason for referral:	53 year old male with ESRD here for dialysis access consultation.
+
+
+
+History of Present Illness:	Mr. Kaufman had a left AVF constructed in November 2062 and had an angiographic procedure to dilate the fistula recently.  This eventually thrombosed.  He doesn't want a right hand procedure and is here for evaluation for a graft.
+
+
+
+Past Medical History:	
+
+diabetes
+
+hypertension
+
+CAD
+
+  	
+
+Medications
+
+Labetalol HCL 400 MG (200MG TABLET take 2) PO BID 
+
+Lipitor (ATORVASTATIN) 10 MG (10MG TABLET take 1) PO QHS 
+
+Cozaar (LOSARTAN) 100 MG (100MG TABLET take 1) PO QD 
+
+Neurontin (GABAPENTIN) 300 MG (300MG CAPSULE take 1) PO BID 
+
+Asa (ACETYLSALICYLIC ACID) 325 MG (325MG TABLET take 1) PO QD 
+
+Renaphro 1 TAB PO QD 
+
+Nexium (ESOMEPRAZOLE) 20 MG (20MG CAPSULE DR take 1) PO QD 
+
+
+
+Allergies:	NKDA	 
+
+
+
+Family History:	Non contributory 
+
+
+
+Social History:	Non contributory 
+
+
+
+Review of Systems:	Negative x 10 systems other than noted above.	
+
+
+
+Physical Examination:
+
+General:	WNL
+
+Vital signs:	WNL
+
+Head:		Normal
+
+Oropharynx:	WNL
+
+Neck:		WNL
+
+Skin:		WNL
+
+Lymph:		WNL
+
+Chest/back:	WNL
+
+Coronary:	Normal S1,S2, no murmur, gallop or rub appreciated.  No lifts, RRR
+
+Lungs:		Clear to Percussion and Auscultation
+
+Abdomen:	Soft, NT, without hepatomegaly, splenomegaly, bladder distention or masses, NABS, no bruits
+
+GU:		Normal external genitalia
+
+Rectal:		Normal tone, without masses or tenderness, stool hemocult ___________
+
+Vascular:	Femorals, DPs, PTs intact, no bruits
+
+Extremities:	No evidence of any usable cephalic vein, need arteriovenous graft 
+
+Neuro:		Nonfocal and intact to a screening exam
+
+
+
+Laboratory:
+
+
+
+Impressions:   In summary, Mr. Kaufman can have a left AV graft placed from AVF to antecubital region using an ARTEGRAFT.  We will schedule this procedure and he knows the risks and benefits of the procedure and wishes to proceed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+_____________________________________________
+
+Carroll Nolan, MD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2063-07-12" TYPE="DATE" comment="" />
+<AGE id="P1" start="78" end="80" text="53" TYPE="AGE" comment="" />
+<NAME id="P2" start="179" end="186" text="Kaufman" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="217" end="230" text="November 2062" TYPE="DATE" comment="" />
+<NAME id="P4" start="1727" end="1734" text="Kaufman" TYPE="PATIENT" comment="" />
+<NAME id="P5" start="1987" end="2000" text="Carroll Nolan" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

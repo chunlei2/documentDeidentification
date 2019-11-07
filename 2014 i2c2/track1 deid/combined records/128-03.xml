@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2090-03-29
+
+
+
+
+
+INTERNAL MEDICINE ASSOCIATES
+
+SOUTH BAY HOSPITAL
+
+
+
+Major Problems
+
+Diabetes mellitus
+
+She takes Glucotrol 5 mg BID in addition to Avandia 4 mg PO QD and a Glucophage 500 mg PO BID.  Her last hemoglobin A1c was 7%.  She saw her eye doctor last year who recommended seeing her in another two years.  She is on Lipitor. 
+
+  O:  Examination below. 
+
+  A:  Type 2 diabetes. 
+
+P:  Repeat hemoglobin A1c with microalbumin.  She is on Cozaar.
+
+
+
+add: A1C 3/23/90 8%.  increase glucophage to 1000mg po bid. 
+
+
+
+Change in therapies and Renewals
+
+Glucophage 1000 mg po bid QTY:180 Refills:3 Start: 2/16/2086 take with meals
+
+
+
+Signed electronically by   Dana  Michael MD  on  Mar 30, 2090     
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2090-03-29" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="62" end="80" text="SOUTH BAY HOSPITAL" TYPE="HOSPITAL" comment="" />
+<DATE id="P2" start="480" end="487" text="3/23/90" TYPE="DATE" comment="" />
+<DATE id="P3" start="620" end="629" text="2/16/2086" TYPE="DATE" comment="" />
+<NAME id="P4" start="676" end="689" text="Dana  Michael" TYPE="DOCTOR" comment="" />
+<DATE id="P5" start="698" end="710" text="Mar 30, 2090" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

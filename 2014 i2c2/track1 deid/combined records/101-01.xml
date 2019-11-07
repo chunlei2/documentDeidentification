@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2079-05-12
+
+
+
+
+
+MERCY CARE CENTER
+Mercy Internal Medicine Associates
+8 Newburgh Street
+Terrell, AR 72985
+
+Russell, Donna
+10418061
+05/12/79
+
+
+Ms. Russell comes in for further evaluation.  She has been in Rhode Island for 
+six months.  Her complaint is that she has heaviness in the chest.  She 
+does not have any palpitations.  She does not note that this is 
+associated with exertion.  She does have diaphoresis associated with it.  
+She does not have any shortness of breath.  This heaviness has been in 
+her chest on and off for the last six weeks.  She is quite concerned.
+
+She has a history of hypothyroidism and hypertension.  She also has 
+hyperlipidemia and is being treated with Lipitor.  Her health 
+maintenance has been in order.  She has just had a hysterectomy.  She 
+needs to have a follow-up mammogram done.  However, today I am most 
+concerned about her chest heaviness.
+
+PHYSICAL EXAMINATION:  Her blood pressure is 130/80, respiratory rate is 
+20 and pulse is 68.  Neck is supple.  There is no lymphadenopathy.  
+Chest is clear to both percussion and auscultation.  Cardiac exam is 
+regularly regular with no murmurs, gallops or rubs.  Abdomen is soft and 
+nontender.  There is no hepatosplenomegaly.  Extremities are clear of 
+cyanosis, clubbing and edema.
+
+LABORATORY DATA:  Her sodium is 145, electrolytes are all otherwise 
+within normal limits.  TSH is 2.0.  LFTs are pending at this time.  We 
+sent her for an electrocardiogram, which showed normal sinus rhythm with 
+nonspecific ST-T wave changes.  We also sent her for an exercise 
+tolerance test with preliminary reports showing that she went to a 
+maximum heart rate of 108, she was on the protocol for 6 minutes 50 
+seconds.  She had no evidence of ischemia.
+
+ASSESSMENT AND PLAN:
+1.	Chest heaviness.  I am not sure what is causing this.  She may have a 
+primary pulmonary problem.  She will be following up with us in one 
+week.  It is heartening to see that she does not have an abnormal 
+exercise tolerance test.
+2.	Hypothyroidism, well controlled at the present time.  Continue same 
+dose of Synthroid.
+3.	Hypertension, well controlled presently.
+4.	Hyperlipidemia.  We will recheck this on her next visit.
+
+
+
+RE:  Russell, Donna
+MRN #:  10418061
+May 12, 2079
+Page 2
+
+
+We will also need to schedule a follow-up mammogram.
+
+
+
+_______________________________
+Quinn Rutledge, M.D.
+
+QR/QR5
+957307.doc
+DD:  
+05/25/2079
+DT:  05/27/2079
+DV:  05/12/2079
+
+
+
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2079-05-12" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="32" end="49" text="MERCY CARE CENTER" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P2" start="50" end="55" text="Mercy" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P3" start="85" end="102" text="8 Newburgh Street" TYPE="STREET" comment="" />
+<LOCATION id="P4" start="103" end="110" text="Terrell" TYPE="CITY" comment="" />
+<LOCATION id="P5" start="112" end="114" text="AR" TYPE="STATE" comment="" />
+<LOCATION id="P6" start="115" end="120" text="72985" TYPE="ZIP" comment="" />
+<NAME id="P7" start="122" end="136" text="Russell, Donna" TYPE="PATIENT" comment="" />
+<ID id="P8" start="137" end="145" text="10418061" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P9" start="146" end="154" text="05/12/79" TYPE="DATE" comment="" />
+<NAME id="P10" start="161" end="168" text="Russell" TYPE="PATIENT" comment="" />
+<LOCATION id="P11" start="219" end="231" text="Rhode Island" TYPE="STATE" comment="" />
+<NAME id="P12" start="2213" end="2227" text="Russell, Donna" TYPE="PATIENT" comment="" />
+<ID id="P13" start="2236" end="2244" text="10418061" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P14" start="2245" end="2257" text="May 12, 2079" TYPE="DATE" comment="" />
+<NAME id="P15" start="2355" end="2369" text="Quinn Rutledge" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="2377" end="2379" text="QR" TYPE="DOCTOR" comment="" />
+<NAME id="P17" start="2380" end="2383" text="QR5" TYPE="USERNAME" comment="" />
+<ID id="P18" start="2384" end="2390" text="957307" TYPE="IDNUM" comment="" />
+<DATE id="P19" start="2401" end="2411" text="05/25/2079" TYPE="DATE" comment="" />
+<DATE id="P20" start="2417" end="2427" text="05/27/2079" TYPE="DATE" comment="" />
+<DATE id="P21" start="2433" end="2443" text="05/12/2079" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

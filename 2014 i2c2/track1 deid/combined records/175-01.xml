@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2091-03-15
+
+
+
+
+
+
+
+
+
+CHIEF COMPLAINT:
+
+Cough and followup of diabetes.
+
+
+
+SUBJECTIVE:
+
+The patient is a 63-year-old woman with 2-1/2 weeks of dry cough.  It is 
+
+occurring in spasms.  No phlegm.  Her daughter had a bad cold.
+
+
+
+Her diabetes has been managed with insulin and oral hypoglycemics.  She takes 
+
+20 units of Humulin, she is not sure what kind in the morning, and she also has 
+
+been taking Glucovance once or twice a day 5/500 mg.  She states that values 
+
+recently have gone around the 200 level at home.
+
+
+
+OBJECTIVE:
+
+Unremarkable pharynx.  Normal TMs.  Lungs:  Clear.  Normal heart sounds.  
+
+Benign abdomen.
+
+
+
+ASSESSMENT:
+
+1.	Cough, possibly viral syndrome.
+
+2.	Diabetes.
+
+
+
+PLAN:
+
+1.	Chest x-ray if not better in 48 hours.
+
+2.	Robitussin A-C, 4 ounces take 5 cc p.o. q.6h. p.r.n..
+
+3.	Refills to be called in for her insulin and Glucovance.
+
+
+
+
+
+
+
+
+
+William K. Joslin, M.D., M.P.H.
+
+
+
+
+
+WKJ/edge
+
+FI:  23755
+
+DD:  03/15/2091
+
+DT:  03/16/2091
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2091-03-15" TYPE="DATE" comment="" />
+<AGE id="P1" start="119" end="121" text="63" TYPE="AGE" comment="" />
+<NAME id="P2" start="884" end="901" text="William K. Joslin" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="921" end="924" text="WKJ" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="925" end="929" text="edge" TYPE="DOCTOR" comment="" />
+<ID id="P5" start="936" end="941" text="23755" TYPE="IDNUM" comment="" />
+<DATE id="P6" start="948" end="958" text="03/15/2091" TYPE="DATE" comment="" />
+<DATE id="P7" start="965" end="975" text="03/16/2091" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2089-06-17
+
+
+FORT WASHINGTON HOSPITAL
+
+June 17, 2089
+
+RE:  Francis, Lydia
+PAH#:     981-82-02
+
+SUBJECTIVE: Lydia has been doing well since her right total
+hip arthroplasty in January of 2089.  She still has pain in
+the right hip and the left hip, which is likely due to
+osteoarthritis.  She has been taking Percocet for pain
+control.  Fortunately, she is not having problems with
+constipation, as she is taking a stool softener.  She is
+taking calcitonin and Evista for her osteoporosis.  In
+addition, she has had a history of right tibial
+osteomyelitis and is taking prophylactic Levaquin, without
+evidence of GI upset or antibiotic-associated diarrhea.  She
+is taking Cozaar for her blood pressure control, and is also
+taking Neurontin for pain control.  At home, she is wearing
+a firm brace that Dr. Younce has prescribed.  In addition,
+she is using a walker for ambulation when outside the house
+and a cane when inside the house.  She comes today for her
+appointment with her son.  She arrived in a wheelchair.
+
+On examination, her blood pressure today is 138/80 with a
+pulse of 80 and a respiratory rate of 16.  She is afebrile.
+Cardiac exam is a regular rate and rhythm, S1, S2, without
+murmurs.  Her neck is supple, although she does have
+paracervical pain to palpation.  Her lungs are clear to
+auscultation.  She has pain throughout the paraspinal
+muscles in the thoracic and lumbosacral area.  She has some
+pain with flexion at the hip, with limited motion at both
+hips.  She has no evidence of lower extremity erythema or
+edema.  Her peripheral pulses are intact.  Her patellar
+reflexes are absent.  She has good pedal pulses.  She denies
+depression and overall is encouraged.  She plans a trip to
+Peru soon.
+
+Medications are updated in LMR.
+
+DISPOSITION: She will follow up with me for a complete
+physical examination in November of this year, and she will
+be fasting at that time.
+
+
+
+Yonathan Turk, M.D.
+Fort Washington Hospital
+
+KV:MD:9637  /  DD:6-17-89  /  DT:6-23-89
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2089-06-17" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="29" end="53" text="FORT WASHINGTON HOSPITAL" TYPE="HOSPITAL" comment="" />
+<DATE id="P2" start="55" end="68" text="June 17, 2089" TYPE="DATE" comment="" />
+<NAME id="P3" start="75" end="89" text="Francis, Lydia" TYPE="PATIENT" comment="" />
+<LOCATION id="P4" start="90" end="93" text="PAH" TYPE="HOSPITAL" comment="" />
+<ID id="P5" start="100" end="109" text="981-82-02" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P6" start="123" end="128" text="Lydia" TYPE="PATIENT" comment="" />
+<DATE id="P7" start="191" end="206" text="January of 2089" TYPE="DATE" comment="" />
+<NAME id="P8" start="819" end="825" text="Younce" TYPE="DOCTOR" comment="" />
+<LOCATION id="P9" start="1724" end="1728" text="Peru" TYPE="COUNTRY" comment="" />
+<DATE id="P10" start="1848" end="1856" text="November" TYPE="DATE" comment="" />
+<NAME id="P11" start="1912" end="1925" text="Yonathan Turk" TYPE="DOCTOR" comment="" />
+<LOCATION id="P12" start="1932" end="1956" text="Fort Washington Hospital" TYPE="HOSPITAL" comment="" />
+<ID id="P13" start="1958" end="1968" text="KV:MD:9637" TYPE="IDNUM" comment="" />
+<DATE id="P14" start="1976" end="1983" text="6-17-89" TYPE="DATE" comment="" />
+<DATE id="P15" start="1991" end="1998" text="6-23-89" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

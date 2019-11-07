@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2080-05-17
+
+                     WMH EMERGENCY DEPT VISIT
+ 
+JOHNSON,PEPPER E.   537-18-74-8                   VISIT DATE: 05/17/80
+PRESENTING COMPLAINT:  This patient is a 50-year-old male that 
+presents to Wausau Memorial Hospital Department of Emergency 
+Medicine with complaints of noticing a small amount of blood on his 
+underwear this a.m. 
+HISTORY OF PRESENTING COMPLAINT:  He also noted a similar effect at 
+1400 hours today while at work.  He denies any fevers, chills, he 
+denies any burning or urgency on urination, he denies having a new 
+sexual partner.  He denies of having a past medical history of this 
+problem. 
+PAST MEDICAL HISTORY:  Diabetes since 2068. 
+MEDICATIONS:  Insulin for diabetes. 
+ALLERGIES:  None known. 
+PHYSICAL EXAMINATION:  HEENT:  Normocephalic, atraumatic.  Pupils: 
+Equal, round, reactive.  Fundi positive for AV nicking.  Neck was 
+supple, no JVD.  Chest was clear to auscultation and percussion, no 
+rales, wheeze, or rhonchi.  Heart:  Normal S1, S2, no S3, S4, no 
+murmur.  Abdomen was soft, benign, nontender without masses, 
+guarding, rebound, or organomegaly.  Extremities:  Grossly within 
+normal limits.  The patient was noted to have negative flank pain. 
+Examination of the penis noted a circumcised male, there were no 
+abrasions, erosions, or penile discharge noted.  There was no 
+tenderness noted.  There was no blood noted at the meatus. 
+LABORATORY EVALUATION:  The patient had a UA done in the ED.  The 
+UA was noted to be negative.  However, it was positive for 2+ 
+glucose but it was negative for blood.  The patient also had a set 
+of electrolytes done to monitor kidney function and he was found to 
+have a glucose of 176, BUN 11, creatinine of 0.9, sodium of 140, 
+potassium 4.2, chloride 102, and a CO2 of 27. 
+FINAL DIAGNOSIS:  Gross hematuria, resolved. 
+DISPOSITION (including condition upon discharge):  The plan is to 
+discharge the patient home, to place him on Bactrim 1 tab p.o. 
+b.i.d. and have him followed up by his PMD.  Condition on discharge 
+is satisfactory. 
+___________________________________                    MQ775/2509 
+H. U. HEBERT, M.D.  UH02                            D:05/17/80 
+                                                       T:05/19/80 
+Dictated by:  H. U. HEBERT, M.D.  UH02 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2080-05-17" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="49" end="52" text="WMH" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="76" end="93" text="JOHNSON,PEPPER E." TYPE="PATIENT" comment="" />
+<ID id="P3" start="96" end="107" text="537-18-74-8" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="138" end="146" text="05/17/80" TYPE="DATE" comment="" />
+<AGE id="P5" start="188" end="190" text="50" TYPE="AGE" comment="" />
+<LOCATION id="P6" start="223" end="247" text="Wausau Memorial Hospital" TYPE="HOSPITAL" comment="" />
+<DATE id="P7" start="684" end="688" text="2068" TYPE="DATE" comment="" />
+<ID id="P8" start="2108" end="2118" text="MQ775/2509" TYPE="IDNUM" comment="" />
+<NAME id="P9" start="2120" end="2132" text="H. U. HEBERT" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="2140" end="2144" text="UH02" TYPE="USERNAME" comment="" />
+<DATE id="P11" start="2174" end="2182" text="05/17/80" TYPE="DATE" comment="" />
+<DATE id="P12" start="2241" end="2249" text="05/19/80" TYPE="DATE" comment="" />
+<NAME id="P13" start="2265" end="2277" text="H. U. HEBERT" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="2285" end="2289" text="UH02" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

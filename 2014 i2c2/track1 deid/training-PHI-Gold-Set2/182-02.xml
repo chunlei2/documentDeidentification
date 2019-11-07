@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2128-04-08
+
+
+
+
+NAME:    Doherty, Daniel
+MRN:     7670238
+DOB:     4-07-2028
+
+HISTORY OF PRESENT ILLNESS: 63-year-old gentleman who presents for
+physical exam.  Unfortunately, he is 20 minutes late for his 30 minute appointment
+and as such, our visit is somewhat curtailed.
+
+He continues to take all of his medications with good compliance.  Denies nausea,
+vomiting, fevers, chills, chest pain or shortness of breath.  Recently evaluated per
+dermatology and facial lesion noted to be a junctional dermal nevus.  Denies chest
+pain, shortness of breath, abdominal pain or bloating.
+
+Review of systems is otherwise negative.
+
+PAST MEDICAL HISTORY: Current per LMR.
+
+MEDICATIONS:  Current per LMR.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  Single.  Lives independently at the Bolingbrook Senior Home.  Denies
+the use of tobacco, alcohol or other recreational drugs.  Currently on disability. No
+tobacco x 1 year.
+
+FAMILY HISTORY: Father: Coronary artery disease.
+
+PHYSICAL EXAM:  In no acute distress.  Blood pressure: 114/78.  Weight is 246. 
+Pulse is 80 and regular.  HEENT: Pupils equal, round, reactive to light .  Extraocular
+motions are intact.  Fundoscopic exam is without nicking, hemorrhages or exudate. 
+Ears: External auditory meatus is clear.  Tympanic membranes are pearly gray with
+good light reflex.  Neck: Supple without JVD, lymphadenopathy or thyromegaly. 
+Cardiac exam: Regular rate and rhythm, normal S1, S2 without murmurs, rubs or
+gallops.  Lymph nodes: No inguinal or axillary lymphadenopathy is appreciated. 
+Abdomen: Obese, nontender, no hepatosplenomegaly is noted.  Skin: Multiple
+excoriations are noted.  Multiple light brown macules are noted with punched-down
+appearance are noted with seborrheic keratosis.  Significant yellow scaling plaques
+over the face, around the ears and in the nasolabial folds consistent with seborrheic
+dermatitis.  Unchanged in size in color, a 6 x 6 mm, flesh colored papule in the left
+nasolabial fold.  
+
+ASSESSMENT AND PLAN:  
+
+(1)  63-year-old gentleman with chronic schizophrenia, stable on his current
+     medications.  Last cholesterol was well within normal limits.  Will check fasting
+     cholesterol and liver function tests in a follow up appointment in one month.  
+
+(2)  With regard to his skin lesions, he is now followed by dermatology and is being
+     treated for his seborrheic dermatitis.
+
+(3)  Health care maintenance: Flex sig is scheduled.  Stool guaiac cards are sent. 
+     The patient is encouraged to engage in increased exercise.  We will complete
+     his physical at his follow up appointment in one month.
+
+
+
+
+Robert D. Briggs, M.D.
+
+RDB/jorgenson/cline
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2128-04-08" TYPE="DATE" comment="" />
+<NAME id="P1" start="40" end="55" text="Doherty, Daniel" TYPE="PATIENT" comment="" />
+<ID id="P2" start="65" end="72" text="7670238" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="82" end="91" text="4-07-2028" TYPE="DATE" comment="" />
+<AGE id="P4" start="121" end="123" text="63" TYPE="AGE" comment="" />
+<LOCATION id="P5" start="801" end="824" text="Bolingbrook Senior Home" TYPE="HOSPITAL" comment="" />
+<AGE id="P6" start="2020" end="2022" text="63" TYPE="AGE" comment="" />
+<NAME id="P7" start="2626" end="2642" text="Robert D. Briggs" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="2650" end="2653" text="RDB" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="2654" end="2663" text="jorgenson" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="2664" end="2669" text="cline" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

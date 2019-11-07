@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2087-04-06
+
+
+
+PROBLEMS
+
+
+
+Diabetes mellitus  
+
+Hypertension  
+
+Psoriasis  
+
+Hysterectomy  due to bleeding
+
+Gastrectomy  partial, PUD 2061
+
+PVD: iliac disease, compensated distally
+
+
+
+MEDICATIONS
+
+
+
+one touch test strips          
+
+ATENOLOL   50MG  1 Tablet(s) PO QD  90 day(s)
+
+GLYBURIDE   5MG  0.5 Tablet(s) PO QD 
+
+
+
+63 yo returns for med refills after 1 1/2 yr hiatus. Has not kept up with routine care. Says her FBS are well controlled and feels well. Has continued to see Dr.Hodge annually to review PVD but has not quit smoking.  Had eyes checked at SNC 3-4 mths ago-she says no diabetic changes.
+
+tobac: 1 ppd
+
+
+
+PE wgt 170  BP 130/90  HR: 64
+
+lungs Clear to A&P
+
+cor RRR
+
+
+
+A. HTN
+
+    DM
+
+    smoker
+
+    PVD- compensated
+
+    wpc
+
+P. mammogram, 3 hemoccults, refuses sigmoidoscopy. HgbA1c, chol, BUN, CBC, microalbumen. Scedule PE and consider additon of ACE-I then.
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2087-04-06" TYPE="DATE" comment="" />
+<DATE id="P1" start="149" end="153" text="2061" TYPE="DATE" comment="" />
+<AGE id="P2" start="335" end="337" text="63" TYPE="AGE" comment="" />
+<NAME id="P3" start="496" end="501" text="Hodge" TYPE="DOCTOR" comment="" />
+<LOCATION id="P4" start="572" end="575" text="SNC" TYPE="HOSPITAL" comment="" />
+</TAGS>
+</deIdi2b2>

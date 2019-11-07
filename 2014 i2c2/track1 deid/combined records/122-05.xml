@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2093-09-13
+
+
+HMS Cardiovascular Division
+CVD R56
+82 Ferry Road                                      OCAMPO, NATHAN-OLIVER
+Foxborough, TX 58771                                           80531359
+(564) 243-4471                                           09/13/93
+
+
+Kenneth X. Sylvester, Jr., M.D.
+Holden District Hospital
+62 Ferry Road Cardiology
+Foxborough, TX  58771
+
+
+Dear Ken:
+
+Mr. Ocampo returns to the office following his recent coronary artery bypass graft surgery.  As you know, Dr. Todd Banks took him to the operating room on August 17th, at which point, he underwent multivessel bypass surgery with placement of a left internal mammary artery to his LAD and reverse saphenous vein grafts to his PDA, first obtuse marginal, and second obtuse marginal.  He tolerated the procedure uneventfully.  His postoperative course was notable for intermittent atrial fibrillation for which he was eventually started on amiodarone therapy.  He also had some difficulty with urinary retention and had a Foley placed, which has stayed in since discharge.  He spent approximately 10 days in Gadsden Medical and has now been discharged to home.  Currently, he complains of a variety of musculoskeletal complaints involving his upper chest and left arm; however, he denies symptoms of active angina, congestive failure, or sensed arrhythmias.  He is slowly recovering his overall strength.
+
+The last blood studies available to me indicate a random glucose of 118, creatinine of 1.1, normal liver function studies, cholesterol of 124, triglyceride of 124, HDL 39, LDL 60, hematocrit of 33.3.
+
+On a regimen of amiodarone 200 mg p.o. q.d., enteric-coated aspirin 81 mg p.o. q.d., Niferex 150 mg p.o. q.d., p.r.n. Tylenol No. 3, Hytrin 10 mg p.o. q.d., Proscar 5 mg p.o. q.d., Toprol-XL 50 mg p.o. q.d., Pletal 100 mg p.o. b.i.d., possibly simvastatin at 20 mg p.o. q.d.
+
+Physical exam today reveals a pleasant male in no acute distress.  Blood pressure right arm sitting 110/50, heart rate 65 and regular, respirations 14 and unlabored, and weight 183 pounds.  The neck is supple, JVP flat, carotids are 2+ without significant bruits.  Chest is clear.  Cardiac exam shows normal S1, physiologically split S2 with 1/6 systolic ejection murmur radiating from the apex to the base, no significant diastolic murmur or rub.  The abdomen is benign.  Extremities reveal markedly diminished peripheral pulses and 1+ pedal edema.
+
+Electrocardiogram shows sinus rhythm at a rate of 60, PR interval 0.14, QRS 0.12, QT 0.38, axis -20 degrees.  There is evidence of left bundle-branch block with secondary ST and T-wave changes.  An echocardiogram performed prior to discharge revealed mildly reduced left ventricular systolic function with a global ejection fraction of 40% at a time when he had a very rapid heart rate.  No subsequent echocardiogram has been performed when he is in sinus rhythm.
+
+Impression and Plan:  Mr. Ocampo is making a slow but study recovery from his multivessel coronary bypass graft surgery.  I suggested he undergo repeat echocardiogram to document current left ventricular function now that he is back in sinus rhythm.  I told him he would stay on amiodarone for approximately 3-6 months, and assuming, he was in normal sinus rhythm throughout this time period, his amiodarone would then be discontinued.  At that time, I would also discontinue his Coumadin.  In addition, at the time of his diagnostic catheterization, he had evidence for severe peripheral vascular disease, and he understands that when he has completed his recovery from his recent surgery, I would strongly encourage further evaluation of his lower extremity arterial system with an eye toward potential percutaneous intervention.  In addition, I have asked him to obtain copies of his discharge summary from the Gadsden Medical Center.  I would like to resume ACE inhibitor therapy in light of his significant CAD and probable left ventricular dysfunction.  He will have routine blood studies obtained today.  I would target his LDL cholesterol to the 70 range.  Beyond this, I have not altered his current regimen.
+
+Thank you very much for allowing me to assist in his care.
+
+Sincerely yours,
+
+
+
+
+
+______________________________
+Nicholas Gomes, M.D.
+
+
+Dictated By: Nicholas Gomes
+
+
+eScription document:5-3575980 AFFocus
+
+
+
+DD: 09/13/93
+DT: 09/14/93
+DV: 09/13/93
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2093-09-13" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="29" end="32" text="HMS" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P3" start="65" end="78" text="82 Ferry Road" TYPE="STREET" comment="" />
+<NAME id="P4" start="116" end="137" text="OCAMPO, NATHAN-OLIVER" TYPE="PATIENT" comment="" />
+<LOCATION id="P5" start="138" end="148" text="Foxborough" TYPE="CITY" comment="" />
+<LOCATION id="P6" start="150" end="152" text="TX" TYPE="STATE" comment="" />
+<LOCATION id="P7" start="153" end="158" text="58771" TYPE="ZIP" comment="" />
+<ID id="P8" start="201" end="209" text="80531359" TYPE="MEDICALRECORD" comment="" />
+<CONTACT id="P9" start="210" end="224" text="(564) 243-4471" TYPE="PHONE" comment="" />
+<DATE id="P10" start="267" end="275" text="09/13/93" TYPE="DATE" comment="" />
+<NAME id="P11" start="278" end="303" text="Kenneth X. Sylvester, Jr." TYPE="DOCTOR" comment="" />
+<LOCATION id="P12" start="310" end="334" text="Holden District Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P13" start="335" end="348" text="62 Ferry Road" TYPE="STREET" comment="" />
+<LOCATION id="P14" start="360" end="370" text="Foxborough" TYPE="CITY" comment="" />
+<LOCATION id="P15" start="372" end="374" text="TX" TYPE="STATE" comment="" />
+<LOCATION id="P16" start="376" end="381" text="58771" TYPE="ZIP" comment="" />
+<NAME id="P17" start="389" end="392" text="Ken" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="399" end="405" text="Ocampo" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="505" end="515" text="Todd Banks" TYPE="DOCTOR" comment="" />
+<DATE id="P20" start="550" end="561" text="August 17th" TYPE="DATE" comment="" />
+<LOCATION id="P21" start="1100" end="1115" text="Gadsden Medical" TYPE="HOSPITAL" comment="" />
+<NAME id="P22" start="2917" end="2923" text="Ocampo" TYPE="PATIENT" comment="" />
+<LOCATION id="P23" start="3805" end="3827" text="Gadsden Medical Center" TYPE="HOSPITAL" comment="" />
+<NAME id="P24" start="4223" end="4237" text="Nicholas Gomes" TYPE="DOCTOR" comment="" />
+<NAME id="P25" start="4259" end="4273" text="Nicholas Gomes" TYPE="DOCTOR" comment="" />
+<ID id="P26" start="4296" end="4305" text="5-3575980" TYPE="IDNUM" comment="" />
+<DATE id="P27" start="4321" end="4329" text="09/13/93" TYPE="DATE" comment="" />
+<DATE id="P28" start="4334" end="4342" text="09/14/93" TYPE="DATE" comment="" />
+<DATE id="P29" start="4347" end="4355" text="09/13/93" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

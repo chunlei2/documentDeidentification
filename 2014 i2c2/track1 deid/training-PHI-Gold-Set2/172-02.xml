@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2064-06-19
+
+
+
+
+
+
+
+
+
+
+
+Arthritis Center 				(581) 730-4429
+Richard F. Vidal, M.D.
+
+
+June 19, 2064
+
+Frank Ito, M.D.
+Jewish Hospital
+61 Church Street
+Murfreesboro, UT  97331
+
+RE:  Rivers, Ida 
+MRN: 71701456 
+DOV: 06/19/64
+
+Dear Dr. Ito,
+
+Ida was seen back today for evaluation of Sjogren's as well as left wrist 
+pain.  Her Sjogren's has been reasonably stable.  She still remains with 
+difficulty in controlling her blood sugar.  She has continued difficulty with 
+her oral cavity.  She has had no extraglandular symptoms -- specifically, 
+polyneuropathy, myopathy, or purpura.
+
+She uses artificial tears and saliva.  She remains on insulin and estrogens.
+
+She has a one-week history of pain and swelling of her left wrist.  She was 
+seen at the Graduate Hospital Emergency Room several days ago.  Radiographs of the 
+wrist show chondrocalcinosis.  She was started on Motrin with some response 
+but still has active symptoms.  She is wearing a splint.
+
+Today on exam, she is afebrile.  There was OA involving the DIP joints.  PIPs 
+and MCPs were nontender.  The left wrist showed swelling and heat with 
+diminished motion.  Right wrist showed full range of motion.  Elbows, 
+shoulders, hips, knees, ankles, and feet did not show active synovitis.  
+There was no adenopathy and lungs were clear.
+
+I aspirated the left wrist under sterile technique.  No fluid was obtained.  
+I injected it with 40 mg of Depo-Medrol.
+
+Clinically, I think she has had pseudogout.  She has chondrocalcinosis on 
+radiograph and has a clinical picture consistent with crystal disease.  In 
+addition, she has primary Sjogren's.  The two diseases are unrelated.
+
+In addition to injection of her wrist, I switched her from Motrin to Celebrex 
+200 mg twice a day due to side effect profile issues.  She should probably 
+take that for about five to seven days.  Side effects were reviewed.
+
+I would like to see her back in four months.  She will be returning to you 
+for further care in the interim.
+
+
+
+Frank Ito, M.D.
+RE:  Rivers, Ida 
+MRN: 71701456 
+Page 2
+
+
+ADDENDUM:  At her next visit, I will want her to check her calcium and 
+thyroid status since that can be associated with CPPD disease.
+
+With best wishes,
+
+
+ 
+_______________________________ 
+Richard F. Vidal, M.D. 
+ 
+DD: 06/19/64 
+DT: 06/22/64 
+DV: 06/19/64
+/turpin
+
+
+ 
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2064-06-19" TYPE="DATE" comment="" />
+<CONTACT id="P2" start="59" end="73" text="(581) 730-4429" TYPE="PHONE" comment="" />
+<NAME id="P3" start="74" end="90" text="Richard F. Vidal" TYPE="DOCTOR" comment="" />
+<DATE id="P4" start="99" end="112" text="June 19, 2064" TYPE="DATE" comment="" />
+<NAME id="P5" start="114" end="123" text="Frank Ito" TYPE="DOCTOR" comment="" />
+<LOCATION id="P6" start="130" end="145" text="Jewish Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P7" start="146" end="162" text="61 Church Street" TYPE="STREET" comment="" />
+<LOCATION id="P8" start="163" end="175" text="Murfreesboro" TYPE="CITY" comment="" />
+<LOCATION id="P9" start="177" end="179" text="UT" TYPE="STATE" comment="" />
+<LOCATION id="P10" start="181" end="186" text="97331" TYPE="ZIP" comment="" />
+<NAME id="P11" start="193" end="204" text="Rivers, Ida" TYPE="PATIENT" comment="" />
+<ID id="P12" start="211" end="219" text="71701456" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P13" start="226" end="234" text="06/19/64" TYPE="DATE" comment="" />
+<NAME id="P14" start="245" end="248" text="Ito" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="251" end="254" text="Ida" TYPE="PATIENT" comment="" />
+<LOCATION id="P16" start="760" end="777" text="Graduate Hospital" TYPE="HOSPITAL" comment="" />
+<NAME id="P17" start="1989" end="1998" text="Frank Ito" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="2010" end="2021" text="Rivers, Ida" TYPE="PATIENT" comment="" />
+<ID id="P19" start="2028" end="2036" text="71701456" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P20" start="2238" end="2254" text="Richard F. Vidal" TYPE="DOCTOR" comment="" />
+<DATE id="P21" start="2268" end="2276" text="06/19/64" TYPE="DATE" comment="" />
+<DATE id="P22" start="2282" end="2290" text="06/22/64" TYPE="DATE" comment="" />
+<DATE id="P23" start="2296" end="2304" text="06/19/64" TYPE="DATE" comment="" />
+<NAME id="P24" start="2306" end="2312" text="turpin" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

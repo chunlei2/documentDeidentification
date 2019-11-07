@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2098-12-11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Neurology Resident ED Consult Note 
+
+
+
+
+Patient Name: Neill, Jennifer K
+
+MRN: 4634248
+
+
+
+PCP: Dr William Joslin
+
+
+
+Date/Time/Place of Exam/Initial Assessment:   12/11/98, 8 PM, PMC ED.
+
+
+
+Reason for Consult: Abnormal speech
+
+
+
+HISTORY OF PRESENT ILLNESS: This is a 71 year-old right-handed woman with multiple medical problems who presents with subacute speech abnormality.  
+
+
+
+She was well before going to bed on 12/09/98.  In the morning of 12/10, her husband noticed that she was repeating the same word &#8220;lawyer&#8221; and the rest of her speech was garbled.  Patient subsequently states that she had word-finding difficulties, but denies comprehension problem.  There was no other neurologic complaint per husband.  Of note, she has similar presentation a few years ago.  Over the course of today, her speech has improved but still not back to normal.    
+
+
+
+Witnessed onset: No (time last seen normal: before bed on 12/09)
+
+Mode of arrival: walk-in 
+
+Clinical course: improving 
+
+Pre-morbid neurological status: no disability 
+
+
+
+
+
+There have been no changes in vision or hearing, headaches, neck pain, tinnitus, vertigo, loss of consciousness, weakness, numbness, difficulty with comprehension, speaking, language, swallowing, eating, balance or gait. General review of systems was negative for fevers, chills, rashes, change in weight, energy level or appetite, chest pain, palpitations, shortness of breath, cough, abdominal pain, nausea, vomiting, bleeding diathesis, and change in bowel or bladder habits (i.e incontinence).
+
+
+
+
+
+PAST MEDICAL HISTORY: 
+
+-- Diabetes- since 2084
+
+-- Hypertension
+
+-- Hyperlipidemia
+
+-- Peripheral vascular disease
+
+-- AV block requiring permanent pacemaker  
+
+-- cardiomyopathy with BiV ICD
+: low EF
+
+
+MEDICATIONS: 
+
+
+Amlodipine 5mg QD
+ 
+ASA 81mg QD
+ 
+Lisinopril 20mg BID
+ 
+Simvastatin 20mg QHS
+ 
+Glucovance 2.5/500 2 tab BID
+ 
+Flovent
+
+
+
+
+
+ALLERGIES: NKDA
+
+
+
+SOCIAL HISTORY: The patient lives with husband, has three children, and is a retired interpreter. There is no history of smoking, excessive ETOH intake or illicit drug use.
+
+
+
+FAMILY HISTORY: 
+
+Father: died at age 89- "old age"
+
+Mother: died at age 87- Alzeimhers disease
+
+Siblings: 2 siblings with DM
+
+
+
+EXAMINATION:
+
+
+
+General: Comfortable, in not acute distress, pleasant  
+
+
+
+MS:        Alert and fully oriented, attentive, following 2-step cross body command, fluency decreased, naming impaired for low-frequency, calculation intact, reading intact, repetition intact, and praxis intact, no left and right confusion
+
+
+
+CN:         VFF, PERRL 5-&gt;2mm, EOM intact without nystagmus, no ptosis, face and palate elevation and shoulder elevation symmetric, notable dysarthria, tongue midline
+
+
+
+Motor:   Normal bulk and tone.  No tremor, rigidity, or bradykinesia. No pronator drift.  Full strength throughout
+
+
+
+Coord:   Finger-to-nose, and heel-to-shin movements intact..
+
+
+
+Reflex:   DTR symmetric throughout.  Toes are down bilaterally
+
+
+
+Sens:      Light touch and temperature are decreased below the knees; joint position intact. No evidence of extinction.  
+
+
+
+Gait:       Deferred
+
+
+
+
+
+
+
+Labs/Studies:
+
+See LMR
+
+
+
+                                                                
+
+Head CT (): 
+
+
+     CT BRAIN: No definite evidence for acute intracranial pathology.  No 
+
+     hemorrhage, mass lesion or evidence for acute territorial infarction.
+
+      
+
+     Stable chronic infarct involving the left frontal lobe.
+
+      
+
+     CTA HEAD: Occlusion of the distal right intradural vertebral artery 
+
+     after the takeoff of the right PICA.  Normal appearance to the left 
+
+     vertebral artery which courses to become the basal artery without 
+
+     evidence of occlusion or significant stenosis.  The other 
+
+     intracranial arteries demonstrate no evidence of significant stenosis 
+
+     or occluded segment.  No aneurysm is visualized.  
+
+      
+
+     CTA NECK: Moderate stenosis of the proximal right cervical vertebral 
+
+     artery secondary to atherosclerotic disease. The other cervical 
+
+     vessels demonstrate no significant stenosis or dissection.
+
+
+
+
+
+ASSESSMENT / PLAN:
+
+This 71 year-old right-handed woman with multiple medical problems who presents with subacute impaired speech fluency.  
+
+
+
+CT confirms infarct in left frontal lobe, age-undetermined.   The distal right intradural vertebral artery occlusion is likely chronic and incidental finding.  
+MRI is contraindicated due to pacemaker
+
+
+
+-          Out of the window for acute thrombolytics
+
+-          Hold off on oral intake until swallow evaluation
+; D5NS in the meantime
+-          Repeat TTE: EF 20-25% in 3/98
+
+-          Consider starting anticoagulation if EF remains poor (pending CMF team decision); continue with ASA for now
+
+-          Rest of the stroke evaluation per CMF team
+
+
+
+
+
+
+
+________________________________
+
+Zyan Conrad, M.D., Ph.D
+
+Neurology (34318)
+
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2098-12-11" TYPE="DATE" comment="" />
+<NAME id="P1" start="105" end="122" text="Neill, Jennifer K" TYPE="PATIENT" comment="" />
+<ID id="P2" start="129" end="136" text="4634248" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P3" start="148" end="162" text="William Joslin" TYPE="DOCTOR" comment="" />
+<DATE id="P4" start="212" end="220" text="12/11/98" TYPE="DATE" comment="" />
+<LOCATION id="P5" start="228" end="231" text="PMC" TYPE="HOSPITAL" comment="" />
+<AGE id="P6" start="316" end="318" text="71" TYPE="AGE" comment="" />
+<DATE id="P7" start="466" end="474" text="12/09/98" TYPE="DATE" comment="" />
+<DATE id="P8" start="495" end="500" text="12/10" TYPE="DATE" comment="" />
+<DATE id="P9" start="979" end="984" text="12/09" TYPE="DATE" comment="" />
+<DATE id="P10" start="1641" end="1645" text="2084" TYPE="DATE" comment="" />
+<PROFESSION id="P11" start="2045" end="2056" text="interpreter" TYPE="PROFESSION" comment="" />
+<AGE id="P12" start="2174" end="2176" text="89" TYPE="AGE" comment="" />
+<AGE id="P13" start="2209" end="2211" text="87" TYPE="AGE" comment="" />
+<AGE id="P14" start="4166" end="4168" text="71" TYPE="AGE" comment="" />
+<DATE id="P15" start="4662" end="4666" text="3/98" TYPE="DATE" comment="" />
+<NAME id="P16" start="4883" end="4894" text="Zyan Conrad" TYPE="DOCTOR" comment="" />
+<CONTACT id="P17" start="4919" end="4924" text="34318" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

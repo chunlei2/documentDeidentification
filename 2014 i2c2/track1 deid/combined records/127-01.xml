@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2076-02-07
+
+                     BOWNE EMERGENCY DEPT VISIT
+
+ 
+
+GODWIN,YAIR   914-64-15-0                    VISIT DATE: 02/07/76
+
+This patient was evaluated and treated in conjunction with a 
+
+resident.  I confirm the history and physical findings as 
+
+documented on the handwritten record. 
+
+HISTORY OF PRESENTING COMPLAINT:  Briefly, this is a 70-year-old 
+
+patient with a history of mild weakness and easy fatigability who 
+
+was thought to be anemic with a hematocrit of 25 on evaluation at 
+
+an outside facility.  He was referred here for further evaluation. 
+
+PHYSICAL EXAMINATION:  GENERAL APPEARANCE:  The patient is awake, 
+
+alert, and in no acute distress.  VITAL SIGNS:  Normal, with the 
+
+exception of a low grade temperature of 99.7.  HEENT:  Benign.  
+
+LUNGS:  The breath sounds are clear.  ABDOMEN:  Soft, nontender. 
+
+LABORATORY EVALUATION:  Hematocrit is determined to be 42.  EKG is 
+
+normal.  Chest x-ray shows no evident abnormality.
+
+CONSULTATIONS (including PCP):  The patient is seen in the 
+
+emergency department by the LMC physician as well.
+
+FINAL DIAGNOSIS:  Mild progressive unexplained fatigue.
+
+DISPOSITION (including condition upon discharge):  The patient is 
+
+ultimately discharged with followup for further investigation as an 
+
+outpatient.  Condition upon discharge is stable. 
+
+___________________________________                    JZ339/6381 
+
+HECTOR V. OBRYAN, M.D.   HO78                            D:02/07/76 
+
+                                                       T:02/07/76 
+
+Dictated by:  HECTOR V. OBRYAN, M.D.   HO78 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2076-02-07" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="49" end="54" text="BOWNE" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="80" end="91" text="GODWIN,YAIR" TYPE="PATIENT" comment="" />
+<ID id="P3" start="94" end="105" text="914-64-15-0" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="137" end="145" text="02/07/76" TYPE="DATE" comment="" />
+<AGE id="P5" start="363" end="365" text="70" TYPE="AGE" comment="" />
+<LOCATION id="P6" start="1060" end="1063" text="LMC" TYPE="HOSPITAL" comment="" />
+<ID id="P7" start="1385" end="1395" text="JZ339/6381" TYPE="IDNUM" comment="" />
+<NAME id="P8" start="1398" end="1414" text="HECTOR V. OBRYAN" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="1423" end="1427" text="HO78" TYPE="USERNAME" comment="" />
+<DATE id="P10" start="1457" end="1465" text="02/07/76" TYPE="DATE" comment="" />
+<DATE id="P11" start="1525" end="1533" text="02/07/76" TYPE="DATE" comment="" />
+<NAME id="P12" start="1550" end="1566" text="HECTOR V. OBRYAN" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="1575" end="1579" text="HO78" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

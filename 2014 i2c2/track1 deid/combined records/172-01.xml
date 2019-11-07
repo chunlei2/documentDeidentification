@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2062-02-10
+
+RANKIN GENERAL HOSPITAL
+Arthritis Center
+39 Autumn Glen Circle                             Rivers, Ida
+Brazzaville, UT  33953                             71701456
+403-5583                                      2-10-62
+ 
+ 
+ 
+1.   Sjogren's.
+2.   Diabetes.
+ 
+CURRENT MEDICATIONS:  Insulin, estrogens, Tears.
+ 
+HPI:  Is noting a dry cough.  Has noted it over the last couple of 
+months.  It has been intermittent.  No fever.
+ 
+Using artificial tears.  Not using Saliva.  Diabetes, she reports, under 
+excellent control.  However, is beginning to lose weight.
+ 
+No extraglandular symptoms now.
+ 
+PHYSICAL EXAMINATION:  Weight 138.  Oral cavity dry.  Neck: supple 
+without adenopathy.  Lungs: clear.  Cardiac exam: no murmurs.  Abdomen: 
+soft, nontender, without spleen tip.  Joints: no active synovitis.  
+Proximal muscle strength normal.
+ 
+ASSESSMENT:
+1.   Primary Sjogren's, stable.
+2.   Diabetes.
+ 
+PLAN:
+1.   Tears and Saliva.
+2.   Dietary intake encouraged.
+3.   Bone density because she is at risk for osteoporosis.
+4.   Calcium and estrogens.
+5.   If cough persists, see Primary Physician for chest x-ray.
+6.   Follow-up 6 months, but she will call me after bone density to 
+     review results.
+ 
+ 
+ 
+______________________________
+Richard F. Vidal, M.D.                                              
+ 
+VD:IP:7913                                                              
+DD:2-10-62                                                              
+DT:2-11-62                                                              
+DV:2-10-62                                                              
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2062-02-10" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="28" end="51" text="RANKIN GENERAL HOSPITAL" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P3" start="69" end="90" text="39 Autumn Glen Circle" TYPE="STREET" comment="" />
+<NAME id="P4" start="119" end="130" text="Rivers, Ida" TYPE="PATIENT" comment="" />
+<LOCATION id="P5" start="131" end="142" text="Brazzaville" TYPE="CITY" comment="" />
+<LOCATION id="P6" start="144" end="146" text="UT" TYPE="STATE" comment="" />
+<LOCATION id="P7" start="148" end="153" text="33953" TYPE="ZIP" comment="" />
+<ID id="P8" start="182" end="190" text="71701456" TYPE="MEDICALRECORD" comment="" />
+<CONTACT id="P9" start="191" end="199" text="403-5583" TYPE="PHONE" comment="" />
+<DATE id="P10" start="237" end="244" text="2-10-62" TYPE="DATE" comment="" />
+<NAME id="P11" start="1263" end="1279" text="Richard F. Vidal" TYPE="DOCTOR" comment="" />
+<ID id="P12" start="1334" end="1344" text="VD:IP:7913" TYPE="IDNUM" comment="" />
+<DATE id="P13" start="1410" end="1417" text="2-10-62" TYPE="DATE" comment="" />
+<DATE id="P14" start="1483" end="1490" text="2-11-62" TYPE="DATE" comment="" />
+<DATE id="P15" start="1556" end="1563" text="2-10-62" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

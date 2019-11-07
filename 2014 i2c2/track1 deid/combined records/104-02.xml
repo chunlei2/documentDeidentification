@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2096-12-08
+
+NMH Admission Note
+
+
+
+45 yo female with Hepatitis C, Type 2 DM, anxiety who c/o severe, generalized joint and limb pain.  She especially complains of severe foot , which is burning, stinging and shooting.  She notes severe RUQ pain, which has been worked up in the past with chest CT and bone scan.  She complains of generalized swelling and pain in fingers as well. C/o swelling in ankles and feet.  She has been maintained in Neurontin 300 mg tid, oxycodone 5 mg and oxycontin 10 mg bid.  She has called frequently, tearfully stating that she cannot handle the pain as an outpatient.  She is referred for an elective admission to try and sort out her pain issues.
+
+
+
+
+
+Problems
+
+Hepatitis C : liver biopsy 2093 with chronic hepatitis, stage III/IV, bridging fibrosis, failed interferon
+
+Hypothyroidism 
+
+Hypertension 
+
+Bipolar disease - Dr. Good
+
+Smoking : stopped 7/96 
+
+otalgia : possible neuralgia
+
+Diabetes mellitus 
+
+Obsessive compulsive disorder  Dr. Good
+
+Arthralgias
+
+Neuropathy
+
+
+
+
+
+
+
+Medications
+
+Ativan (LORAZEPAM) 1MG, 1 Tablet(s) PO QHS
+
+Xalatan (LATANOPROST) 1 DROP OU QPM
+
+Tegretol (CARBAMAZEPINE) 100MG, 1 Tablet(s) PO TID : 2 Tablets QAM, 3 Tablets QPM
+
+Wellbutrin (BUPROPION Hcl) 75MG, 1 Tablet(s) PO QD
+
+Oxycontin (OXYCODONE Sr) 20MG, 1 Tablet(s) PO BID PRN prn severe pain : never picked up today
+
+Ativan (LORAZEPAM) 0.5MG, 1 Tablet(s) PO TID
+
+Neurontin (GABAPENTIN) 100MG, 3 Capsule(s) PO TID x 30 day(s)
+
+Humulin 70/30 (INSULIN 70/30 (HUMAN)) 22 U QPM, 20 U QPM SC BID
+
+Albuterol Inhaler 2 PUFF INH QID PRN prn
+
+Synthroid (LEVOTHYROXINE Sodium) 175MCG, 1 Tablet(s) PO QD x 90 day(s)
+
+LISINOPRIL 5MG, 1 Tablet(s) PO QD
+
+Insulin Regular Humulin (INSULIN Regular Human) Sliding Scale SC 
+
+OXYCODONE 5MG, 1 Tablet(s) PO Q4H PRN pain in back, ribs 
+
+
+
+
+
+Allergies
+
+Aspirin - Unknown
+
+Sulfa - Unknown 
+
+
+
+SH: Lives in Pooler with boyfriend.  Nonsmoker, sober x 5 years. No illicit drugs.
+
+
+
+
+
+Plan:
+
+
+
+1)  Probable arthritis,  due to Hepatitis C- has seen Dr. Nixon as an outpatient for workup of her intermittent joint pain. Declined recommended EMG. Did not keep last appointment.   Consider Rheum input re: dx.
+
+
+
+2) Paresthesias in feet- assume due to DM- already on Neurontin (and tegretol for psych issues).  Suggest consult by pharmacology.  Would like to broaden her pain control regimen to other modalities (non - narcotics, hydrotherapy, etc).
+
+
+
+3)  DM- says FS at home have been <180 now on NPH bid.
+
+
+
+4)  Psychosocial- benefits from limit setting and clear boundaries, ressurance. Anxiolytics and antidepressants. depression meds from outside mental health provider.
+
+
+
+I expect her stay to be brief.  Dr. Bruce Koontz will cover the weekend 12/09/96 through 12/10/96.
+
+
+
+
+
+_____________________________________________
+
+Mia Tapia, MD
+
+
+
+
+
+  
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2096-12-08" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="28" end="31" text="NMH" TYPE="HOSPITAL" comment="" />
+<AGE id="P2" start="50" end="52" text="45" TYPE="AGE" comment="" />
+<DATE id="P3" start="736" end="740" text="2093" TYPE="DATE" comment="" />
+<NAME id="P4" start="871" end="875" text="Good" TYPE="DOCTOR" comment="" />
+<DATE id="P5" start="895" end="899" text="7/96" TYPE="DATE" comment="" />
+<NAME id="P6" start="987" end="991" text="Good" TYPE="DOCTOR" comment="" />
+<LOCATION id="P7" start="1864" end="1870" text="Pooler" TYPE="CITY" comment="" />
+<NAME id="P8" start="2006" end="2011" text="Nixon" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="2666" end="2678" text="Bruce Koontz" TYPE="DOCTOR" comment="" />
+<DATE id="P11" start="2702" end="2710" text="12/09/96" TYPE="DATE" comment="" />
+<DATE id="P12" start="2719" end="2727" text="12/10/96" TYPE="DATE" comment="" />
+<NAME id="P13" start="2781" end="2790" text="Mia Tapia" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2088-02-02
+
+ Renal Transplant Admission Note
+
+Date this visit: 02/02/88
+
+Cause of ESRD: DM T1
+Date of this kidney transplant: 9/83
+
+CC: SOB/DOE
+
+HPI:  48 y/o F h/o ESRD 2/2 DM T1 s/p renal tx 09/83.  Pt. was seen in clinic today with worsening peripheral edema to waist.  She also reports worsening DOE, and some paroxysmal nocturnal dyspnea requiring at least 2 pillows to sleep. She reports worsening of her symptoms over the past week.  She denies n/v/d.   No CP/Abd pain/f/c/s.
+
+Current immunosuppression:  Tacrolimus 1mg qd, Imuran 50mg qd,  prednisone 5 mg QOD
+Other meds: Toprol XL 200mg qam, Lasix 20-40mg qd, Felodipine 10mg qd,  valtrex 1,000 mg qod, CaCarb 1250 mg bid, Vit D 800 units qd, Plavix 75 mg qd, Humalog SS, Lantus 10 units qpm, ASA 81 mg qd, Lipitor 20 mg qd, Avapro 75 mg qd, Epo 6000 qweek, Zantac 150mg bid, ferrous gluconate 325mg qd.
+
+Other medical problems: 
+ESRD 2/2 DM type I s/p renal tx c/b both cellular and humoral rejection.
+Hypertension
+Hyperlipidemia 
+Hepatitis C
+Vertigo 
+T Rubrum infection on back 10/2087 - no treatement d/t insurance issues -resolved by itself
+Shingles 2085
+2 vessel CAD with PTCA and Stent 7/2087
+Sqamous Cell CA- she has had 5 SCCA skin lesions removed in the past 5 years.
+
+Exam: Weight 138.5 lbs, T 96.7 P68 , BP138/68 mmHg,  O2sat 93%on RA
+General: WD, WN, WF, mild distress.
+HEENT: oropharynx clear, neck supple, no LAD, increased JVD.
+CVS: RRR, normal S1/S2, 3/6 SEM at RUSB
+Lungs:  scant bibasislar rales, no wheezing, no rhonchi
+Abd: soft, nontender, nondistended
+Allograft: nontender
+Ext: 3++ bilateral pitting lower ext edema up to waist.
+Neuro: A&Ox 3, mood okay
+
+Results
+labs- pending today  
+
+A/P:  Ms. Xanders is a 48 y/o F w/ h/o ESRD 2/2 DM type I s/p renal tx c/b both cellular and humoral rejection.  She will be admitted to the Renal Clinic under attending Uriah Aranda  for further evaluation and management.
+
+1. Renal- impaired renal function but creatinine has been stable.  Will send urine for 24 hour protein to r/o nephrotic syndrome.
+2. Immunosupopression- cont. current regimen.  Will follow FK levels and adjust as needed.
+3. CVS- hypervolemic, hypertensive with significant peripheral edema.  No IVF's.  Will get EKG, CXR, ECHO while in house.
+4. Pulm-  CHF: will give Lasix 200mg IV bid for diuresis.  Will repeat CXR 
+5. FEN- renal diet
+6. Labs- CBC w/diff, BMP, LDH, albumin, PO4, tacrolimus level qa.m.
+
+_____________________________________________
+Emma S. Crane,PA-C
+Renal Clinic
+bb#78058
+
+
+Staff Note:
+Patient seen by me: Hx, Ex, A/P confirmed.
+Landon Neville, MD, Renal Attg
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2088-02-02" TYPE="DATE" comment="" />
+<DATE id="P1" start="79" end="87" text="02/02/88" TYPE="DATE" comment="" />
+<DATE id="P2" start="142" end="146" text="9/83" TYPE="DATE" comment="" />
+<AGE id="P3" start="167" end="169" text="48" TYPE="AGE" comment="" />
+<DATE id="P4" start="208" end="213" text="09/83" TYPE="DATE" comment="" />
+<DATE id="P5" start="1054" end="1061" text="10/2087" TYPE="DATE" comment="" />
+<DATE id="P6" start="1128" end="1132" text="2085" TYPE="DATE" comment="" />
+<DATE id="P7" start="1166" end="1172" text="7/2087" TYPE="DATE" comment="" />
+<NAME id="P8" start="1692" end="1699" text="Xanders" TYPE="PATIENT" comment="" />
+<AGE id="P9" start="1705" end="1707" text="48" TYPE="AGE" comment="" />
+<NAME id="P11" start="1852" end="1864" text="Uriah Aranda" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="2459" end="2472" text="Emma S. Crane" TYPE="DOCTOR" comment="" />
+<CONTACT id="P14" start="2494" end="2499" text="78058" TYPE="PHONE" comment="" />
+<NAME id="P15" start="2557" end="2571" text="Landon Neville" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

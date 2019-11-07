@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2096-04-10
+
+                     GLENN HELEN EMERGENCY DEPT VISIT
+ 
+VINCENT,ROBERTA J.   380-18-32-2
+HISTORY OF PRESENTING COMPLAINT:  The patient is a 59-year-old 
+female who is status post renal transplant with history of 
+hypertension and diabetes who presents complaining of recurrent 
+shortness of breath.  She had a renal transplant in 2093 with 
+history of chronic renal insufficiency.  She was last admitted here 
+on February 23 for shortness of breath.  The patient has had sore 
+throat and URI symptoms now for a few days.  No nausea and 
+vomiting.  No sweating.  No chest pain or dizziness. 
+PAST MEDICAL HISTORY:  Complicated by hypertension, diabetes, pedal 
+neuropathy, hernia, and hysterectomy. 
+MEDICATIONS:  Premarin, insulin, Prilosec, prednisone, and sodium 
+bicarbonate.  She is also on Lasix, hydralazine, and Talwin. 
+PHYSICAL EXAMINATION:  She is afebrile.  Vital signs are normal. 
+Oxygen saturation 97%.  Initial blood pressure is 214/118.  The 
+second blood pressure is 188/100.  HEENT:  Normal.  Cardiac:  No 
+murmurs or rubs.  Lungs:  Crackles bilaterally, but no wheezing. 
+Abdomen:  Soft and nontender with good bowel sounds.  Extremities: 
+Trace pedal edema 1+ throughout.  Neuro:  Intact. 
+LABORATORY EVALUATION:  Electrolytes here are normal.  Creatinine 
+is pretty good.  She was 4.4 on February 26.  She is 3.3 now, so 
+she has improved in creatinine.  White count is 12.9 and hematocrit 
+of 36.  EKG showed sinus rhythm at 97, old left ventricular 
+hypertrophy, and no acute changes.  Chest x-ray shows increased 
+chronic pulmonary edema and old small right pleural fluid seen. 
+CONSULTATIONS (including PCP):  The Renal fellow is here.  The case 
+has been discussed with the Renal fellow. 
+ADMITTING DIAGNOSIS:  Congestive heart failure and hypertension. 
+DISPOSITION (including condition upon discharge):  The patient is 
+going to be admitted to the Renal Service, admitted to Dr. Elias 
+Mercado.  Admitted in stable condition. 
+___________________________________                    VC341/8846 
+DEXTER N. JOHNSON, M.D.  DJ50                             D:04/10/96 
+                                                       T:04/10/96 
+Dictated by:  DEXTER N. JOHNSON, M.D.  DJ50 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2096-04-10" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="49" end="60" text="GLENN HELEN" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="84" end="102" text="VINCENT,ROBERTA J." TYPE="PATIENT" comment="" />
+<ID id="P3" start="105" end="116" text="380-18-32-2" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P4" start="168" end="170" text="59" TYPE="AGE" comment="" />
+<DATE id="P5" start="358" end="362" text="2093" TYPE="DATE" comment="" />
+<DATE id="P6" start="441" end="452" text="February 23" TYPE="DATE" comment="" />
+<DATE id="P7" start="1337" end="1348" text="February 26" TYPE="DATE" comment="" />
+<PHI id="P8" start="1935" end="1949" text="Elias 
+Mercado" TYPE="DOCTOR" comment="" />
+<ID id="P9" start="2038" end="2048" text="VC341/8846" TYPE="IDNUM" comment="" />
+<NAME id="P10" start="2050" end="2067" text="DEXTER N. JOHNSON" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="2075" end="2079" text="DJ50" TYPE="USERNAME" comment="" />
+<DATE id="P12" start="2110" end="2118" text="04/10/96" TYPE="DATE" comment="" />
+<DATE id="P13" start="2177" end="2185" text="04/10/96" TYPE="DATE" comment="" />
+<NAME id="P14" start="2201" end="2218" text="DEXTER N. JOHNSON" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="2226" end="2230" text="DJ50" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

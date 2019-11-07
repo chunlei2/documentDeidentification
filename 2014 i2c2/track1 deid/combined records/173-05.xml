@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2077-10-05
+
+EDVISIT^04561326^NARVAEZ, OTIS^10/05/77^THORNE, OLIVER
+
+The patient was seen by me on 10/05/2077 with Dr. Bender. 
+
+Resident's history was reviewed.  The patient was interviewed and
+
+examined by me.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 68-year-old man
+
+recently diagnosed with diverticulitis, treated with
+
+ciprofloxacin and Flagyl.  He has had abdominal pain for the past
+
+4 days, and was discharged from the hospital.  He complains of
+
+left flank pain.  He has no abdominal pain.  Pain is colic in
+
+nature.  See resident's note for details.
+
+PAST MEDICAL HISTORY:  Diverticulosis, diabetes, gastric bypass,
+
+and coronary artery disease.
+
+CURRENT MEDICATIONS:  Cipro and Flagyl.  See resident's note for
+
+details.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  He denies drugs or alcohol.  He denies cigarette
+
+smoking.
+
+REVIEW OF SYSTEMS:  No chest pain, no shortness of breath, and no
+
+fever.
+
+PHYSICAL EXAMINATION:  Temperature 99, blood pressure 153/118,
+
+pulse 93, respirations 18, and O2 saturation 98% on room air. 
+
+HEENT:  Normocephalic and atraumatic.  Pupils are equal, round,
+
+and reactive to light.  Extraocular muscles are intact.  Neck is
+
+supple.  No meningeal signs.  CV:  Regular rate and rhythm. 
+
+Lungs:  Clear.  Abdomen:  Positive bowel sounds, soft, and
+
+nontender to palpation.  Back:  No CVAT.  Extremities:  No
+
+cyanosis, clubbing, or edema.  Neurologic:  Alert and oriented
+
+x3.  Cranial nerves are intact.  Motor and sensory are intact.
+
+LABORATORY DATA:  Whit e count 8.8, hematocrit 44, and platelets
+
+216,000.  Creatinine 1.7 and glucose 103.  Urinalysis is pending.
+
+ Abdominal CT scan evaluated from 10/01/2077 reveals a 6 x 8 mm
+
+stone in the left ureter, hydronephrosis, and adjacent stranding.
+
+EMERGENCY DEPARTMENT COURSE:  The patient in the Emergency
+
+ ******** Not reviewed by Attending Physician ********
+
+pain with stable vital signs.  He was seen by Urology.  He will
+
+be admitted to the Urology Service for further management.
+
+DIAGNOSIS:  Renal colic kidney stone.
+
+______________________________
+
+THORNE, OLIVER M.D.
+
+D: 10/05/77
+
+T: 10/06/77
+
+Dictated By: THORNE, OLIVER
+
+eScription document:0-1032417 BFFocus
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2077-10-05" TYPE="DATE" comment="" />
+<ID id="P1" start="36" end="44" text="04561326" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="45" end="58" text="NARVAEZ, OTIS" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="59" end="67" text="10/05/77" TYPE="DATE" comment="" />
+<NAME id="P4" start="68" end="82" text="THORNE, OLIVER" TYPE="DOCTOR" comment="" />
+<DATE id="P5" start="114" end="124" text="10/05/2077" TYPE="DATE" comment="" />
+<NAME id="P6" start="134" end="140" text="Bender" TYPE="DOCTOR" comment="" />
+<AGE id="P7" start="274" end="276" text="68" TYPE="AGE" comment="" />
+<DATE id="P8" start="1680" end="1690" text="10/01/2077" TYPE="DATE" comment="" />
+<NAME id="P9" start="2090" end="2104" text="THORNE, OLIVER" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="2114" end="2122" text="10/05/77" TYPE="DATE" comment="" />
+<DATE id="P11" start="2127" end="2135" text="10/06/77" TYPE="DATE" comment="" />
+<NAME id="P12" start="2150" end="2164" text="THORNE, OLIVER" TYPE="DOCTOR" comment="" />
+<ID id="P13" start="2186" end="2195" text="0-1032417" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

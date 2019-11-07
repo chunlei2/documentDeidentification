@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2083-11-17
+
+NORTHWEST IOWA HEALTH CENTER		        Date:	November 17, 2083
+
+RACINE, MAINE				Name:	Quiana Justus
+
+                                                NIHC #:	981-40-48
+
+PROGRESS NOTE					DOB:		
+
+
+
+
+
+
+
+Quiana is a 72-year-old woman who comes in for follow-up of her hypertension.  Please see her current medication list.  She also has a history of diabetes.  
+
+
+
+Over the past few weeks to one month she has been having intermittent right shoulder pain.  It is worse with lifting.  The pain is in her deltoid muscle and radiates a little bit across her upper back.  It is worse if she actually lies on her shoulder at night.  There is no history of trauma, no neck pain, no upper extremity numbness or weakness except for occasional left thumb numbness.  The thumb numbness resolves if she shakes her hand.
+
+
+
+She is also having bilateral knee pain when she walks.  There is no swelling or effusion or heat in her knees.  She had been on Vioxx for her spinal stenosis but stopped it because it was not helping her spinal stenosis pain.  Instead for her shoulder pain she has been taking Advil 200 mg 2 and up to 6 per day. She takes the Advil with food or milk and is not having any GI upset from it.  
+
+
+
+She is having a lot of stresses with her husband, whom she feels may have some early memory problems.  His mini-mental status on his last exam was a 30/40.  However, he makes, according to her, arbitrary decisions, does not complete projects he starts, and not as task-oriented as he used to be.  He does not complete tasks or shopping errands that she would like him to do.  We discussed that he should make a follow-up appointment to see me to repeat his mini-mental status exam, but that some of these problems are not likely to be easily resolvable, and that she might benefit from finding ways to manage her anxiety and stress level.  She does get very anxious and upset at times.  She had been considering taking Ativan p.r.n. when she gets very upset and frustrated.  She is also having stressors with her grandson, who lives next door and has a problem with substance abuse and questionable money issues.  
+
+
+
+She denies chest pain, PND, orthopnea, or edema.  She is on her diabetes medication.  She likes going to work because that gets her out of the house.
+
+
+
+ON EXAMINATION:  She is a pleasant, animated woman in no acute distress.  Her blood pressure initially was 160/80.  After discussing her situation with her husband, her blood pressure was 180/85.  Neck supple without JVD or bruits.  Lungs are clear without rales or rhonchi.  Cardiac exam shows a regular rate and rhythm and normal S1, S2 without S3, S4, or murmurs.  She has no peripheral edema.
+
+ 
+
+ASSESSMENT AND PLAN:  
+
+
+
+(1)	Hypertension, poor control.  Will increase her Zestril to 40 mg p.o. q.d.  Her daughter, Iyanna Field who is a registered nurse, will continue to monitor her blood pressure.  
+
+(2)	Right shoulder pain.  On exam she has good range of motion of her shoulder and her muscle strength and reflexes are intact.  She can continue the Advil p.r.n. but should take it with antacids or something to protect her stomach.  
+
+
+
+(3)	Adult-onset diabetes.  We will check her Hemoglobin A1c.  
+
+
+
+She will follow up for her complete physical in May.  
+
+
+
+
+
+Ida Xayachack, M.D.
+
+
+
+IX/delarosa/austin
+
+
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2083-11-17" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="28" end="56" text="NORTHWEST IOWA HEALTH CENTER" TYPE="HOSPITAL" comment="" />
+<DATE id="P2" start="72" end="89" text="November 17, 2083" TYPE="DATE" comment="" />
+<LOCATION id="P3" start="91" end="97" text="RACINE" TYPE="CITY" comment="" />
+<LOCATION id="P4" start="99" end="104" text="MAINE" TYPE="STATE" comment="" />
+<NAME id="P5" start="114" end="127" text="Quiana Justus" TYPE="PATIENT" comment="" />
+<LOCATION id="P6" start="177" end="181" text="NIHC" TYPE="HOSPITAL" comment="" />
+<ID id="P7" start="185" end="194" text="981-40-48" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P8" start="228" end="234" text="Quiana" TYPE="PATIENT" comment="" />
+<AGE id="P9" start="240" end="242" text="72" TYPE="AGE" comment="" />
+<NAME id="P10" start="2823" end="2835" text="Iyanna Field" TYPE="PATIENT" comment="" />
+<PROFESSION id="P11" start="2845" end="2861" text="registered nurse" TYPE="PROFESSION" comment="" />
+<DATE id="P12" start="3263" end="3266" text="May" TYPE="DATE" comment="" />
+<NAME id="P13" start="3275" end="3288" text="Ida Xayachack" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="3298" end="3300" text="IX" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="3301" end="3309" text="delarosa" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="3310" end="3316" text="austin" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

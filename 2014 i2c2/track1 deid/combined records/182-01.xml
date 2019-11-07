@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2127-04-21
+
+NAMC - Central WV Clinic Internal Medicine                   Date:	April 21, 2127
+
+LOS ALAMOS, WEST VIRGINIA				Name:  	Daniel Doherty
+
+NAMC #:	767-02-38
+
+PROGRESS NOTE				            	DOB:		07-17-64
+
+
+
+
+
+
+
+HISTORY OF PRESENT ILLNESS:  This is a 62-year-old gentleman with past medical history significant schizophrenia/personality disorder, tonsillectomy, cholecystectomy, left arm fracture, chronic fatigue, mole, seborrheic dermatitis, pancreatitis, hyperlipidemia, who returns for a follow-up of Lipitor. He stopped taking this medicine five days ago when the prescription ran out.  He states that he did not understand that it could be refilled.  He denies chest pain, shortness of breath, nausea.  He noted no bloating or abdominal pain with his medication.
+
+
+
+REVIEW OF SYSTEMS:  Otherwise negative.
+
+
+
+PAST MEDICAL HISTORY:  As above.
+
+
+
+MEDICATIONS:  Prozac, Lisinopril 10 q.d., Zyprexa, aspirin.
+
+
+
+ALLERGIES:  No known drug allergies.
+
+
+
+HEALTH CARE MAINTENANCE:  Stool cards due.  Immunizations current.  
+
+
+
+PHYSICAL EXAM:  The patient is in no acute distress.  Blood pressure 124/88.  Weight is 237.  Pulse is 80 and regular.  Lungs: Clear to auscultation bilaterally without wheezes, rhonchi or rales.  Cardiac:  Regular rate and rhythm.
+
+
+
+ASSESSMENT AND PLAN:  
+
+
+
+(1)	The active issues today is hyperlipidemia.  Fasting cholesterol is to be drawn tomorrow as well as liver function tests; however, he has been off the medicine for five to seven days and it may be elevated.  I explained to him the importance of compliance with this medicine and I recommended that he continue taking it on a regular basis.  
+
+
+
+(2)	With regard to healthcare maintenance issues, he was given stool cards today and he will have a complete physical over the summer.  Immunizations are current.
+
+
+
+
+
+                               
+
+Robert D. Briggs, M.D.
+
+
+
+RDB/jorgenson/camp
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2127-04-21" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="28" end="52" text="NAMC - Central WV Clinic" TYPE="HOSPITAL" comment="" />
+<DATE id="P3" start="95" end="109" text="April 21, 2127" TYPE="DATE" comment="" />
+<LOCATION id="P4" start="111" end="121" text="LOS ALAMOS" TYPE="CITY" comment="" />
+<LOCATION id="P5" start="123" end="136" text="WEST VIRGINIA" TYPE="STATE" comment="" />
+<NAME id="P6" start="148" end="162" text="Daniel Doherty" TYPE="PATIENT" comment="" />
+<LOCATION id="P7" start="164" end="168" text="NAMC" TYPE="HOSPITAL" comment="" />
+<ID id="P8" start="172" end="181" text="767-02-38" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P9" start="219" end="227" text="07-17-64" TYPE="DATE" comment="" />
+<AGE id="P10" start="274" end="276" text="62" TYPE="AGE" comment="" />
+<NAME id="P11" start="1859" end="1875" text="Robert D. Briggs" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="1885" end="1888" text="RDB" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="1889" end="1898" text="jorgenson" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="1899" end="1903" text="camp" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

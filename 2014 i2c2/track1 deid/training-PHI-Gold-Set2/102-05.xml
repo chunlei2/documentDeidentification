@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2127-09-30
+
+
+
+	CARDIOLOGY
+
+	
+
+	FAMILY HEALTH CLINIC
+
+	
+
+
+
+	Interval History:
+
+   His customary dyspnea persists, but otherwise, nothing is new.  No chest discomfort.  No PND or orthopnea.
+
+
+
+Medications:  Aspirin 325 mg qd, Lipitor 10 mg qd, Diovan 160 mg qd
+
+
+
+Physical examination:  Reveals him to be well appearing. His BP is 111/50 and his heart rate is 68 and regular. He is 176 pounds.  There is no jugular venous distention and carotid pulses are 2+ bilaterally without bruits.  His lungs are clear throughout, and notably demonstrate only very slight dullness at the left base.  His sternotomy is healing well and is stable.  His apical impulse is non-displaced with a slightly irregular rate and rhythm, a normal S1 and S2.  He has an S3 gallop.  No murmur.  His abdomen is benign without hepatosplenomegaly, bruits, or a dilated aorta.  There is no pedal edema and posterior tibial pulses are 2+ bilaterally.
+
+
+
+EKG:  NSR with a 1st degree AV block.  He has a narrow QRS with an old ASMI. Compared, the LBBB is no longer evident.
+
+
+
+Impression:
+
+
+
+1.CAD, s/p MI: currently stable.  Symptoms of dyspnea may be an ischemic equivalent, though, so I will give him a nitropatch.
+
+
+
+2. Hypertension: under good control.
+
+
+
+3.Hypercholesterolemia: controlled
+
+
+
+4. Dyspnea: I suspect he has an element of diastolic dysfunction together with age-related deconditioning and chronic lung disease.  Nitrates might help the former issue.
+
+	
+
+Bruce D. Brian, MD pager #94692
+
+	
+
+Signed electronically by  Bruce D. Brian, MD
+
+Document Status: Final
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2127-09-30" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="47" end="67" text="FAMILY HEALTH CLINIC" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="1456" end="1470" text="Bruce D. Brian" TYPE="DOCTOR" comment="" />
+<CONTACT id="P3" start="1482" end="1487" text="94692" TYPE="PHONE" comment="" />
+<NAME id="P4" start="1518" end="1532" text="Bruce D. Brian" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

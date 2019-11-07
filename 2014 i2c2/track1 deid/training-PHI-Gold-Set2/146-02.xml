@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2089-11-30
+
+
+MRN: 48726886
+
+
+FORT WASHINGTON HOSPITAL
+
+November 30, 2089
+
+RE:	Francis, Lydia
+PAH#:	981-82-02
+
+Established patient: Sick visit.
+
+CHIEF COMPLAINT: Shoulder pain.  
+
+She presents with approximately one week of acute onset of 
+left shoulder and neck pain without trauma.  She has limited 
+abduction and adduction of the left shoulder.  She has pain 
+at the AC joint.  There is bony deformity from arthritis of 
+the shoulder.  She has no swelling and no heat on this 
+joint.  Sensorimotor and DTRs are intact.  Light touch is 
+intact to sensation.  Vascular is intact.  No paracervical 
+muscle pain in the neck, and pain with adduction, flexion, 
+extension, and rotation in the neck.  
+
+ASSESSMENT: Neck and shoulder pain, which is atraumatic.  ? 
+of osteoarthritis with flare v. inflammatory arthritis v. 
+cervical spine stenosis.
+
+PLAN: X-rays of the neck and shoulder, ibuprofen 800mg 
+t.i.d. with food, Percocet one to two q.4-6h p.r.n. pain, 
+Neurontin 200mg b.i.d., heat to the shoulder, and follow up 
+with Dr. Gonzalez of Orthopedics for evaluation. 
+
+
+
+Yonathan Turk, M.D.
+Fort Washington Hospital 
+
+cc:
+Ulysses Gonzalez, M.D.
+Department of Orthopedics
+Pan American Hospital 
+
+AC:FM:8558  /  DD:11-28-89  /  DT:12-2-89
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2089-11-30" TYPE="DATE" comment="" />
+<ID id="P1" start="34" end="42" text="48726886" TYPE="MEDICALRECORD" comment="" />
+<LOCATION id="P2" start="45" end="69" text="FORT WASHINGTON HOSPITAL" TYPE="HOSPITAL" comment="" />
+<DATE id="P3" start="71" end="88" text="November 30, 2089" TYPE="DATE" comment="" />
+<NAME id="P4" start="94" end="108" text="Francis, Lydia" TYPE="PATIENT" comment="" />
+<LOCATION id="P5" start="109" end="112" text="PAH" TYPE="HOSPITAL" comment="" />
+<ID id="P6" start="115" end="124" text="981-82-02" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P7" start="1045" end="1053" text="Gonzalez" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="1089" end="1102" text="Yonathan Turk" TYPE="DOCTOR" comment="" />
+<LOCATION id="P9" start="1109" end="1133" text="Fort Washington Hospital" TYPE="HOSPITAL" comment="" />
+<NAME id="P10" start="1140" end="1156" text="Ulysses Gonzalez" TYPE="DOCTOR" comment="" />
+<LOCATION id="P11" start="1189" end="1210" text="Pan American Hospital" TYPE="HOSPITAL" comment="" />
+<ID id="P12" start="1213" end="1223" text="AC:FM:8558" TYPE="IDNUM" comment="" />
+<DATE id="P13" start="1231" end="1239" text="11-28-89" TYPE="DATE" comment="" />
+<DATE id="P14" start="1247" end="1254" text="12-2-89" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

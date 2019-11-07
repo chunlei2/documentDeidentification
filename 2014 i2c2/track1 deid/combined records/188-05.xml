@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2069-10-10
+
+
+	CARDIOLOGY
+	
+
+	OCHILTREE GENERAL HOSPITAL
+	
+
+
+	Reason for visit:
+   The patient is a 61 yo Equadorian male admitted for cardiac cath after an episode of chest pain with? positive markers.
+
+
+	Interval History:
+   The  patient was  transferred to OGH in 3/2067 because of chest pain with positive markers and aaaanterolateral T wave changes.At which time he was diagnosed with possible ETOH myocarditis. His EF was 34%. He underwent cardiac cath which showed that the Left Main and LAD were patent, , a very distal LCX lesion. RCA was dominant and patent. The patient was discharged to home on a program of ace, BB, ASA and instructed to curtail his ETOH use. His EF improved to 66 %. He had repeat nuclear stress testing which showed small anterior infarct/small prior inferior infarct and was negative for ischemia in July 2068..
+   Since then he has had a stable angina pattern with chest pain brought on when he has to move very heavy objects in his work as a packager . This is usually relieved with one TNG. Most recently, he was seen by his PC Dr. Thomson and treated with Augmentin/Robitussin AC for a URI. He had a productive cough  and some chest discomfort related to coughing. 
+   Most recently, he was brought into police custody for public intoxication. While in his jail cell,"resting" he developed the sudden onset on midsternal sharp chest pain accompanied by heavy breathing. There was no radiation to the arms, but he noted bilateral hand numbness. He also had palpitations and sweating and felt nauseated. He received one sl TNG. An ambulance was called and he received 2 TNG sprays. His pain diminished. His BP was 176/100 at the time. He was brought to the Evanston Hospital ER and found to have "high lateral changes" on his EKG's. Troponins were slightly elevated at .13- considered a "gray zone" for the hospitals range  for MI. The patient was pain free after a dose of Morphine. While in the hospital, he was placed on suicide watch. He has a history of a suicide attempt 3 years ago and has previously had counseling and been on antidepressants. He has a son who is in a vegetative state after an MVA whom he helps care for and this is very stressful. His recent arrest made hiite despondent. At Evanston Hospital, he was started on a beta blocker and Lovenox. He had a suboptimal stress test which was stopped because of SSCP and nausea. He is now transferred to OGH for further evaluation.
+
+
+	Past medical history:
+   diabetes
+Cardiomyopathy(?ETOH related)
+CAD- 50 % LCX lesion 3/67
+Depression with suicide attempt 3 years ago- was on antidepressants until 6 months ago
+Obesity
+
+
+	
+
+	Changes to Allergies
+	
+No known allergies
+No known drug allergy
+
+
+	Medications (Confirmed):
+
+	
+aspirin  325 mg daily
+Augmentin  500mg/125mg po q8h x 10 days
+Levitra  20mg po daily PRN
+Lipitor  10 mg daily
+lisinopril  40 mg daily
+metformin hydrochloride  500 mg daily
+Patanol 0.1% eye drops 
+Prilosec  20 mg daily
+Robitussin ac  100mg/10mg/5ml po q4-6h PRN cough
+Synalar ointment  0.025%
+Voltaren  75 mg BID PRN
+
+
+	Family history:
+   non contributory
+
+
+	Social history:
+   working until recently- was "packaging manager for Johnson & Johnson"
+ no smoking
+ rare etoh- one glass red wine with evening meal
+Lives with wife/2 daughters- has son in vegetative state after car accident whom family cares for
+
+
+	Review of systems:
+   see above. remainder negative in detail
+
+Physical examination:
+	
+-BMI: 42.6  Obese, high risk
+-Pulse: 62  bpm
+-weight: 225  lbs.
+-Neck:   jvp 6 cm without bruits
+-Chest:   Clear to auscultation and percussion.
+-Cardiac:   Left ventricular impulse discrete and nondisplaced. Regular rate and rhythm, normal S1 and S2. Split S2 There were no clicks or rubs.
+-Abdomen:   normal active bowel sounds.No HSM
+-Extremities:   without clubbing or edema.- Femoral pulse 2+ DP @+
+-BP: 126/87  
+
+
+	EKG:
+   NSB 60 Q 1, L, TWI L, V5-6, c/w 10/14 ECG
+
+Selected recent labs:
+
+	 to be drawn upon admission
+	
+
+
+	Other Data:
+   Cath: 3/67: patent LM/LAD, LCX 50% stenosis, RCA dominant
+Last echo 12 /67  EF 63%  walls 12/8 mild MR, symmetrical LVH, trace PI, RVSP 41 borderline RVH
+Nuclear cardiology 7/68: small prior ant infarct/inf. infarct- no ischemia, EF nl
+
+
+	Assessment and plan:
+   The patient is a 47 yo diabetic, with known CAD, improved EF after d/c of ETOH now admitted after episode of chest pain with ? EKG changes and  "intermediate"Troponins per local hospital assay.Case reviewed with Dr. Levine. Would continue ASA, beta Blocker and Lisinopril in addition to usual meds. He has previous CAD and is diabetic. Even though stess test was suboptimal, he has risk factors of diabetes, obesity and hypertension, and 50 % LCX lesion , so would proceed with cath tomorrow. NPO after midnight for cath lab. He is currently pain free so no heparin for now. Would check serial EKG;s, and troponins in addition to usual labs. Please obtain fasting cholesterol panel.
+
+Will need psychiatric consult to aseess suicidality though he currently denies this.
+
+Agree hold NSAIDs/Voltaren intil after cath.
+
+	
+Florene Kim, NP
+
+	
+Transcribed by: Florene Kim
+
+	
+Signed electronically by  Florene Kim, NP
+Document Status: Final
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2069-10-10" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="45" end="71" text="OCHILTREE GENERAL HOSPITAL" TYPE="HOSPITAL" comment="" />
+<AGE id="P2" start="115" end="117" text="61" TYPE="AGE" comment="" />
+<LOCATION id="P3" start="121" end="131" text="Equadorian" TYPE="COUNTRY" comment="" />
+<LOCATION id="P4" start="275" end="278" text="OGH" TYPE="HOSPITAL" comment="" />
+<DATE id="P5" start="282" end="288" text="3/2067" TYPE="DATE" comment="" />
+<DATE id="P6" start="848" end="857" text="July 2068" TYPE="DATE" comment="" />
+<PROFESSION id="P7" start="992" end="1000" text="packager" TYPE="PROFESSION" comment="" />
+<NAME id="P8" start="1083" end="1090" text="Thomson" TYPE="DOCTOR" comment="" />
+<LOCATION id="P9" start="1707" end="1724" text="Evanston Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P10" start="2252" end="2269" text="Evanston Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P11" start="2420" end="2423" text="OGH" TYPE="HOSPITAL" comment="" />
+<DATE id="P12" start="2536" end="2540" text="3/67" TYPE="DATE" comment="" />
+<PROFESSION id="P13" start="3143" end="3160" text="packaging manager" TYPE="PROFESSION" comment="" />
+<LOCATION id="P14" start="3165" end="3182" text="Johnson and Johnson" TYPE="ORGANIZATION" comment="" />
+<DATE id="P15" start="3983" end="3987" text="3/67" TYPE="DATE" comment="" />
+<DATE id="P16" start="4045" end="4051" text="12 /67" TYPE="DATE" comment="" />
+<DATE id="P17" start="4067" end="4071" text="12/8" TYPE="DATE" comment="" />
+<DATE id="P18" start="4150" end="4154" text="7/68" TYPE="DATE" comment="" />
+<AGE id="P19" start="4257" end="4259" text="47" TYPE="AGE" comment="" />
+<NAME id="P20" start="4456" end="4462" text="Levine" TYPE="DOCTOR" comment="" />
+<NAME id="P21" start="5058" end="5069" text="Florene Kim" TYPE="DOCTOR" comment="" />
+<NAME id="P22" start="5093" end="5104" text="Florene Kim" TYPE="DOCTOR" comment="" />
+<NAME id="P23" start="5134" end="5145" text="Florene Kim" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2075-08-30
+
+DLC INTERNAL MEDICINE ASSOCIATES          Stephenson, Brenna
+                                              92819461
+                                              8-30-75
+ 
+ 
+ 
+HPI:  Ms. Stephenson is a 57-year old woman who has a history of multinodular 
+goiter status post a hemithyroidectomy 7 years ago, and 
+non-insulin-dependent diabetes mellitus for the past 10 years complicated 
+by diabetic retinopathy.  She also has had a TAH and is on Premarin 
+replacement.  She has had only one prior visit in Internal Medicine one year ago with 
+Dr. Eric Olds, and since then has been seen for med refills by nurse 
+practitioners.  She has had no specific complaints, has been relatively 
+compliant with her medicines although her understanding of her disease 
+process appears to be limited.  She currently is taking Micronase 10 mg. a 
+day, an aspirin a day, and Premarin .625 mg. a day.  She describes 
+intermittent symptoms of hyperglycemia, although she follows her blood 
+sugars with urine dipsticks and says that they have been running in the 
+non-detected range most often.  She has not had any new visual blurring, 
+excessive polydipsia or polyuria.  She has not been taking her Synthroid 
+medication for the past year since she last saw Dr. Olds, since she ran out 
+of the medication.  She has made no effort to get a refill on this, and 
+has not noticed any significant difference.  She denies excessive fatigue, 
+palpitations, constipation, or lethargy, yet she inquires today about 
+potentially restarting this medicine.  She has no other specific 
+complaints.  She has a good energy level.
+ 
+Social History:  She works at Nvidia and lives with her son.
+ 
+Allergies:  None.
+ 
+Habits:  She does not drink.  She had quit smoking a year ago, but has 
+been smoking this past week due to some stresses at home, and is planning 
+on stopping this.
+ 
+Physical Exam:  Blood pressure 148/83.  Pulse 70 and regular.  HEENT exam 
+reveals a palpable right thyroid lobe and an absent left thyroid lobe 
+without specific nodularity or tenderness.  She has no adenopathy.  Her 
+oropharynx is clear.  Her chest is clear to auscultation.  Cardiac exam:  
+regular rate and rhythm, S1, S2, without murmurs or rubs.  Her abdomen is 
+obese, soft and non-tender.  She has abnormal pigmentation across her 
+skin, including her palms and her soles of her feet, and no peripheral 
+edema.
+ 
+Assessment/Plan:
+ 
+1)   Diabetes mellitus.  Will continue on Micronase 10 mg. a day, check a 
+     hemoglobin A1C, and send her to the eye doctor.  We have talked about 
+     good foot hygiene, and she will continue to check her urine 
+     dipsticks.  
+ 
+2)   History of multinodular goiter. I will send a TSH today to assess her 
+     DLC INTERNAL MEDICINE ASSOCIATES          Stephenson, Brenna
+Page 2                                        92819461
+                                              8-30-75
+ 
+ 
+ 
+     need for Synthroid replacement.
+ 
+3)   Routine health screening.  She does not need a pap smear.  She has 
+     had a TAH; however, I will perform a mammogram on her today.  She 
+     will come back and see me in one month to get the results of these 
+     tests, and we will make treatment decisions at that time.
+ 
+ 
+ 
+_________________________
+Olivia Jiang, M.D.
+ 
+SC:IQ:033X
+DD:9-01-75
+DT:9-03-75
+DV:8-30-75
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2075-08-30" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="28" end="31" text="DLC" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="70" end="88" text="Stephenson, Brenna" TYPE="PATIENT" comment="" />
+<ID id="P3" start="135" end="143" text="92819461" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="190" end="197" text="8-30-75" TYPE="DATE" comment="" />
+<NAME id="P5" start="214" end="224" text="Stephenson" TYPE="PATIENT" comment="" />
+<AGE id="P6" start="230" end="232" text="57" TYPE="AGE" comment="" />
+<NAME id="P8" start="575" end="584" text="Eric Olds" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="1275" end="1279" text="Olds" TYPE="DOCTOR" comment="" />
+<LOCATION id="P10" start="1660" end="1666" text="Nvidia" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P11" start="2738" end="2741" text="DLC" TYPE="HOSPITAL" comment="" />
+<NAME id="P12" start="2780" end="2798" text="Stephenson, Brenna" TYPE="PATIENT" comment="" />
+<ID id="P13" start="2845" end="2853" text="92819461" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P14" start="2900" end="2907" text="8-30-75" TYPE="DATE" comment="" />
+<NAME id="P15" start="3266" end="3278" text="Olivia Jiang" TYPE="DOCTOR" comment="" />
+<ID id="P16" start="3287" end="3297" text="SC:IQ:033X" TYPE="IDNUM" comment="" />
+<DATE id="P17" start="3301" end="3308" text="9-01-75" TYPE="DATE" comment="" />
+<DATE id="P18" start="3312" end="3319" text="9-03-75" TYPE="DATE" comment="" />
+<DATE id="P19" start="3323" end="3330" text="8-30-75" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

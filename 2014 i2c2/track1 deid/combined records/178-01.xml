@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2118-09-26
+
+
+
+Reason for Visit
+
+Patient presents today for a routine physical; her last one was in 12.
+
+She has the following concerns that she would like to have addressed:
+
+concerned about allergies
+
+needs PT for recently fractured humerus
+
+
+
+Past Medical History
+
+The patient has no history of cancer, CAD, HTN, Diabetes, or immune disorder.
+
+
+
+Past Surgical History
+
+0
+
+
+
+Family History
+
+Father: age 78 prostate cancer; diabetes
+
+Mother: age 40 + uterine cancer
+
+Siblings:1b
+
+Marital status:m
+
+Children:1F - 14
+
+FH is notable for the presence (+) or absence(-) of CAD   ;Cancer ++  ;diabetes +  ;HTN     ; genetic disorder
+
+
+
+Social History
+
+Smokes:1ppd
+
+Alcohol:1-2
+
+Occupation:butcher
+
+Exercise:0
+
+
+
+OB/GYN History
+
+Menopausal - 8 years ago
+
+
+
+Review of Systems
+
+CONSITUTIONAL :
+
+no fever, chills, weight change
+
+EYES : no blurring, visual changes, pain, diplopia, or discharge
+
+EARS : no hearing loss, dizziness, tinnitus, ear pain or discharge
+
+NECK : no sore throat, dysphagia, swelling or lumps
+
+CVS:no chest pain on exertion
+
+    no shortness of breath
+
+    no palpitations
+
+    no ankle swelling
+
+    no cough
+
+GI: no anorexia
+
+    no nausea
+
+    no heartburn
+
+    no abdominal pain
+
+    no bowel dysfunction
+
+    no blood in stool
+
+GU: no dysuria
+
+    no nocturia
+
+    no frequency or poor stream
+
+    no incontinence
+
+    
+
+CNS:no headaches
+
+    no dizziness
+
+    no diplopia
+
+    no memory disorder
+
+    no weakness
+
+    no seizures
+
+MUSCULUSKELETAL:no pains or limitation of mobility
+
+SKIN:no hives, rashes, changing moles
+
+ 
+
+
+
+Vital Signs
+
+      BLOOD PRESSURE   102/80
+
+      HEIGHT   63.5 in.
+
+      WEIGHT   162 lb
+
+
+
+Physical Exam
+
+CONSTITUTIONAL: well developed, in no acute distress
+
+EYES:conjuntiva clear; no icterus; EOM full; no strabismus or nystagmus; fundi normal
+
+ENT: no wax; membranes intact;hearing grossly normal; nose no obvious abnormality;sinuses not tender; pharynx no exudate
+
+NECK: supple; no thyromegaly; no lymphadenopathy; carotids palpable with no bruits 
+
+BREASTS: no masses or tenderness; no nipple abnormality or discharge; no adenopathy
+
+CARDIOVASCULAR SYSTEM: pulse 68 per min., regular ;  no cardiomegaly ; heart sounds 1 and 2 only;  no murmurs     no rubs    no gallop
+
+pedal pulses- absent left leg; bruit over right femoral
+
+no edema or varicosities
+
+RESPIRATORY : Chest expansion - normal
+
+     Percussion -normal
+
+     Auscultation - clear without rales or rhonchi
+
+ABDOMEN : no visceromegaly
+
+          no masses   no tenderness
+
+          hernial orifices normal
+
+          WILL SEE GYNE
+
+         
+
+CENTRAL NERVOUS SYSTEM:
+
+alert and oriented
+
+ cranial nerves
+
+  pupils -equal, reactive          
+
+  fundi -  no papilledema
+
+  tone - normal
+
+  power - normal
+
+  coordination - normal
+
+  reflexes normal
+
+JOINTS: no evidence of arthritis
+
+Spine no tenderness
+
+SKIN: no rashes, hives, changing moles normal 
+
+
+
+     
+
+
+
+Recommendation
+
+Based on history and examination today the following tests were ordered: 
+
+lipid profile
+
+glucose
+
+stool HOB
+
+flex sig.....to set up
+
+mammogram....5/18
+
+bone density scan....to set up
+
+EKG
+
+cxr
+
+Diet
+
+Exercise
+
+Stop smoking
+
+Further recommendations will be made on the basis of the results obtained
+
+Follow up advised with vascular surgeon to evaluate peripheral vas disease
+
+Given sample of allegra 180
+
+referred for PT
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2118-09-26" TYPE="DATE" comment="" />
+<DATE id="P1" start="115" end="117" text="12" TYPE="DATE" comment="" />
+<AGE id="P2" start="420" end="422" text="78" TYPE="AGE" comment="" />
+<AGE id="P3" start="462" end="464" text="40" TYPE="AGE" comment="" />
+<AGE id="P4" start="528" end="530" text="14" TYPE="AGE" comment="" />
+<PROFESSION id="P5" start="699" end="706" text="butcher" TYPE="PROFESSION" comment="" />
+<DATE id="P6" start="3057" end="3061" text="5/18" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

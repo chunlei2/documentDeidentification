@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2085-03-21
+
+ 
+
+
+
+
+
+
+
+
+
+21 March 2085
+
+
+
+
+
+Liam K. Mcmahon, MD
+
+Division of Cardiology
+
+Osteopathic Medical Center
+
+
+
+Re:	Bill FAIR
+
+	OMC 220-41-86-4
+
+
+
+Dear Dr. Mcmahon:
+
+
+
+I had the pleasure of caring for Mr. Fair at OMC 03/20-21/05.  He is a 61-year-old man with CAD, DM, high cholesterol, HTN, and family history of early CAD, who had a stress test that showed peri-infarct ischemia in the left circumflex and PDA.  Angiography showed a codominant system, a 100 percent left circumflex occlusion, an 85 percent RC lesion, and nonobstructive LAD lesions.  The left circumflex was recanalized and a Taxus 2.5mm by 32mm stent was placed.  The procedure was done with Angiomax and the sheath was pulled manually.  There were no complications.
+
+
+
+He spent an uneventful evening without complaints or complications, ambulating without difficulty.  His groin was soft and tender with ecchymosis but no hematoma.  Extremities were warm with 1+ edema to the ankles; pulses were 2+ throughout.  Morning labs included cholesterol of 114, triglycerides 109, HDL 34 and LDL 58.  He was discharged home on NPH insulin; Mucomyst, 600mg bid; aspirin, 325mg qd; atenolol, 25mg qd; Lasix, 60mg qd; glyburide, 10mg qd; lisinopril, 40mg qd; Lipitor, 40mg qd; Diovan, 80mg qd; Plavix, 75mg qd; metformin, 500mg bid to be restarted on 03/23/85; and sublingual nitroglycerin, prn chest pain.  He will require aspirin for life and Plavix for six months; he will not stop either medication unless told to do so by you.  His HDL is low and given his degree of atherosclerosis, you may wish to start gemfibrozil or Niaspan.  He will see you in follow-up in the next two weeks.  Thank you for allowing us to share in his care.  Please call if you have questions.
+
+
+
+Sincerely,
+
+
+
+
+
+
+
+Rodger Lester, MD
+
+RL/ferreira
+
+cc:	Uriel Lim, MD, 2192 Manatee Street, Plymouth, IN 74489
+
+DS:   03/21/85
+
+DD:   03/21/85
+
+DT:   03/25/85
+
+     
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2085-03-21" TYPE="DATE" comment="" />
+<DATE id="P1" start="39" end="52" text="21 March 2085" TYPE="DATE" comment="" />
+<NAME id="P2" start="58" end="73" text="Liam K. Mcmahon" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="103" end="129" text="Osteopathic Medical Center" TYPE="HOSPITAL" comment="" />
+<NAME id="P4" start="137" end="146" text="Bill FAIR" TYPE="PATIENT" comment="" />
+<LOCATION id="P5" start="149" end="152" text="OMC" TYPE="HOSPITAL" comment="" />
+<ID id="P6" start="153" end="164" text="220-41-86-4" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P7" start="177" end="184" text="Mcmahon" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="226" end="230" text="Fair" TYPE="PATIENT" comment="" />
+<LOCATION id="P9" start="234" end="237" text="OMC" TYPE="HOSPITAL" comment="" />
+<DATE id="P10" start="238" end="243" text="03/20" TYPE="DATE" comment="" />
+<DATE id="P11" start="244" end="249" text="21/05" TYPE="DATE" comment="" />
+<AGE id="P12" start="260" end="262" text="61" TYPE="AGE" comment="" />
+<DATE id="P13" start="1332" end="1340" text="03/23/85" TYPE="DATE" comment="" />
+<NAME id="P14" start="1775" end="1788" text="Rodger Lester" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="1794" end="1796" text="RL" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="1797" end="1805" text="ferreira" TYPE="DOCTOR" comment="" />
+<NAME id="P17" start="1811" end="1820" text="Uriel Lim" TYPE="DOCTOR" comment="" />
+<LOCATION id="P18" start="1826" end="1845" text="2192 Manatee Street" TYPE="STREET" comment="" />
+<LOCATION id="P19" start="1847" end="1855" text="Plymouth" TYPE="CITY" comment="" />
+<LOCATION id="P20" start="1857" end="1859" text="IN" TYPE="STATE" comment="" />
+<LOCATION id="P21" start="1860" end="1865" text="74489" TYPE="ZIP" comment="" />
+<DATE id="P22" start="1873" end="1881" text="03/21/85" TYPE="DATE" comment="" />
+<DATE id="P23" start="1889" end="1897" text="03/21/85" TYPE="DATE" comment="" />
+<DATE id="P24" start="1905" end="1913" text="03/25/85" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

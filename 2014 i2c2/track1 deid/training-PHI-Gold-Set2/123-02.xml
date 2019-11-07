@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2087-10-04
+
+
+
+Problems
+
+Diabetes mellitus : started 2082
+
+Psoriasis 
+
+Hysterectomy : due to bleeding
+
+Gastrectomy : partial, PUD 2061
+
+Hypertension : did not tolerate ACE-I 
+
+
+
+
+
+Medications
+
+Glyburide 5MG, 0.5 Tablet(s) PO QD
+
+Atenolol 50MG, 1 Tablet(s) PO QD 
+
+Diprolene ointment
+
+
+
+63 yo for f/u diabetes, HTN. Recently noticed balack and blue marks on forearms. Glu 115 after coffee. Sugars at home running 70-168
+
+
+
+PE wgt 170  BP142/80 HR 60
+
+lungs clear
+
+cor RRR
+
+ext: some scattered echhymosis forearms + psoriasis (thickened skin)
+
+
+
+A. psoriasis
+
+    HTN
+
+    DM
+
+    ecchymosis
+
+
+
+P. fasting lipids, CBC, platelets, HgA1c. F/U 1 month.
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2087-10-04" TYPE="DATE" comment="" />
+<DATE id="P1" start="68" end="72" text="2082" TYPE="DATE" comment="" />
+<DATE id="P2" start="145" end="149" text="2061" TYPE="DATE" comment="" />
+<AGE id="P3" start="301" end="303" text="63" TYPE="AGE" comment="" />
+</TAGS>
+</deIdi2b2>

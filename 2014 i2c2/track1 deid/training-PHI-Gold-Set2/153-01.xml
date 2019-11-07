@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2076-12-06
+
+
+
+
+
+INTERNAL MEDICINE ASSOCIATES
+
+MESA VISTA HOSPITAL
+
+
+
+Reason for visit   Follow up after recent hospitalization.
+
+
+
+History of present illness   Was admitted to LCMH after an episode of syncope.  Had a brief episode where he had light - headedness followed by slump to ground and brief LOC. No seizure activity.  Work-up at LCMH unrevealing - Holter, echo, enzymes and brain scan without issue.  I had let them know about the carotid bruit and the result of CNIS.
+
+No recurrence, feeling otherwise well.  THey added lipitor to his regime.
+
+
+
+Change in therapies and Renewals
+
+aspirin 325 mg po qd QTY:90 Refills:3 Start: 1/2/2076
+
+Lipitor 20mg po qd QTY:90 Refills:3 Start: 12/06/2076
+
+
+
+Physical examination
+
+Pulse 68  
+
+Blood pressure 138/88  both arms
+
+General appearance   Well developed, well nourished, no acute distress.
+
+Heent   NC/AT, PERRL, EOMI, O/P clear without erythema or exudates.
+
+Neck   JVP flat; carotid bruit as before, no goiter.
+
+Chest   CTA B w/o c/w/r. No dullness to precussion, no egophony.
+
+Cor   PMI at 5th ICS, MCL. RRR nl s1, s2 without m/r/g.
+
+Abdomen   NT/ND, no HSM. Normal active bowel sounds.
+
+
+
+Assessment and plan   Dec 76 
+
+Continue current meds.
+
+He is due to be seen by neuro at LCMH - no need to refer to neuro here.
+
+Call me if recurs, reassured likely vaso-vagal or due to BP meds.
+
+
+
+Nov 76 -
+
+HTN - add HCTZ, check labs in two weeks.
+
+DM - continue glucophage. HBA1C next visit. 
+
+Screening - to address next visit. 
+
+FLu shot given. 
+
+
+
+			
+
+Case reviewed with Dr. Lee. No med change for now. Pt's wife will reduce high Na+ sauces in her food preperation. Pt will walk min of 5x/week for 30-40 min. RTC x 1 week for b/p check. Pt refuses to purchase a b/p cuff for home moitoring. Will check labs at next visit.
+
+
+
+Disposition
+
+See me in three months.
+
+
+
+Signed electronically by   W. Ronnie  Le MD  on  Dec 12, 2076     
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2076-12-06" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="62" end="81" text="MESA VISTA HOSPITAL" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P2" start="192" end="196" text="LCMH" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P3" start="355" end="359" text="LCMH" TYPE="HOSPITAL" comment="" />
+<DATE id="P4" start="652" end="660" text="1/2/2076" TYPE="DATE" comment="" />
+<DATE id="P5" start="705" end="715" text="12/06/2076" TYPE="DATE" comment="" />
+<DATE id="P6" start="1184" end="1190" text="Dec 76" TYPE="DATE" comment="" />
+<LOCATION id="P7" start="1250" end="1254" text="LCMH" TYPE="HOSPITAL" comment="" />
+<DATE id="P8" start="1359" end="1365" text="Nov 76" TYPE="DATE" comment="" />
+<NAME id="P9" start="1542" end="1545" text="Lee" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="1859" end="1872" text="W. Ronnie  Le" TYPE="DOCTOR" comment="" />
+<DATE id="P11" start="1881" end="1893" text="Dec 12, 2076" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

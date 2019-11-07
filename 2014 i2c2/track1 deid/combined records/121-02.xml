@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2073-12-19
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December 19, 2073
+ 
+ 
+ 
+Jacob Bautista, M.D.
+989 Eldorado Circle
+Coeburn, WA 42646
+ 
+RE:  Kenneth Umstead
+     MR #401-10-87-8
+ 
+Dear Jac:
+ 
+I saw your patient, Kenneth Umstead, in the Cardiology Office today
+and he seems like he is improved. He feels his legs are better and
+that he can walk greater distances. He feels very comfortable. 
+ 
+His current medications include Metoprolol 50 mg per day,
+Nifedipine XL 60 mg per day, Lasix 20 mg per day. 
+ 
+On exam today, he has a blood pressure of 146/76, a heart rate of
+65 and regular. Weight 210 pounds. Head and neck unremarkable.
+Chest is clear. Cardiac exam is notable for an S4 and a I/VI
+systolic ejection murmur. The rest of his exam was unremarkable.
+ 
+Resting 12 lead electrocardiogram is unchanged demonstrating normal
+sinus rhythm and a left axis deviation. There is a nonspecific
+intraventricular conduction delay. 
+ 
+I think Mr. Umstead is doing very well. He would like to have his
+arterial pulses rechecked noninvasively and I tried to arrange that
+schedule. In addition, his Metoprolol has been only once a day and
+if he can tolerate it twice a day he will have a better control and
+more prolonged risk prevention. I suggest that we increase it to 50
+mg bid. I also told him how to take his pulse and he can keep an
+eye on it. If it drops too low we can reduce the dose. He asked
+that I see him again in about six months for routine re-evaluation
+and I will be happy to do so. If any problems develop in the
+interim please do not hesitate to contact me. 
+ 
+Thank you for allowing me to help with his care. 
+ 
+Kindest regards.
+ 
+Kenneth Umstead
+MR #401-10-87-8                   -2-           December 19, 2073
+ 
+Sincerely yours,
+ 
+ 
+ 
+ 
+ 
+Marshall O. Lehman, M.D.
+Wilson Medical Center
+23 Whipple St
+Tonkawa, WA 67495
+ 
+/donovan
+ 
+DD: 12/19/73
+DT: 12/22/73
+DV: 12/19/73
+ 
+ 
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2073-12-19" TYPE="DATE" comment="" />
+<DATE id="P1" start="42" end="59" text="December 19, 2073" TYPE="DATE" comment="" />
+<NAME id="P2" start="66" end="80" text="Jacob Bautista" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="87" end="106" text="989 Eldorado Circle" TYPE="STREET" comment="" />
+<LOCATION id="P4" start="107" end="114" text="Coeburn" TYPE="CITY" comment="" />
+<LOCATION id="P5" start="116" end="118" text="WA" TYPE="STATE" comment="" />
+<LOCATION id="P6" start="119" end="124" text="42646" TYPE="ZIP" comment="" />
+<NAME id="P7" start="132" end="147" text="Kenneth Umstead" TYPE="PATIENT" comment="" />
+<ID id="P8" start="157" end="168" text="401-10-87-8" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P9" start="176" end="179" text="Jac" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="203" end="218" text="Kenneth Umstead" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="933" end="940" text="Umstead" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="1635" end="1650" text="Kenneth Umstead" TYPE="PATIENT" comment="" />
+<ID id="P13" start="1655" end="1666" text="401-10-87-8" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P14" start="1699" end="1716" text="December 19, 2073" TYPE="DATE" comment="" />
+<NAME id="P15" start="1746" end="1764" text="Marshall O. Lehman" TYPE="DOCTOR" comment="" />
+<LOCATION id="P16" start="1771" end="1792" text="Wilson Medical Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P17" start="1793" end="1806" text="23 Whipple St" TYPE="STREET" comment="" />
+<LOCATION id="P18" start="1807" end="1814" text="Tonkawa" TYPE="CITY" comment="" />
+<LOCATION id="P19" start="1816" end="1818" text="WA" TYPE="STATE" comment="" />
+<LOCATION id="P20" start="1819" end="1824" text="67495" TYPE="ZIP" comment="" />
+<NAME id="P21" start="1828" end="1835" text="donovan" TYPE="DOCTOR" comment="" />
+<DATE id="P22" start="1842" end="1850" text="12/19/73" TYPE="DATE" comment="" />
+<DATE id="P23" start="1855" end="1863" text="12/22/73" TYPE="DATE" comment="" />
+<DATE id="P24" start="1868" end="1876" text="12/19/73" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

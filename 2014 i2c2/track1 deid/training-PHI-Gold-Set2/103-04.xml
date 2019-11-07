@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2072-01-01
+
+EDVISIT^84091519^THOMAS-YOSEF, JULIA^01/01/72^HOFFMAN, VICTOR
+
+Seen by me along with Dr. Ickes on 01/01/2072.  History as
+
+documented by Dr. Ickes was reviewed by me with the patient and
+
+found to be accurate and complete.  The physical exam was
+
+confirmed by my examination.  Evaluation and management was also
+
+concurred with.
+
+HISTORY OF PRESENT ILLNESS:  In brief, this is a 51-year-old
+
+woman with history of coronary artery disease status post MI
+
+stenting in 2068, presents with 3-day history of substernal chest
+
+pain radiating to her back, and also complaining of mild pain of
+
+inner medial aspect of her right arm, feels like her anginal
+
+symptoms that she had in 2068 with some very mild shortness of
+
+breath and even though she is quite sedentary and she noted that
+
+there is an increase in pain with exertion, position, as well as
+
+eating.  She took many Tums with no relief and says takes Zantac
+
+chronically, but ran out of it.  She says that the pain is
+
+burning epigastric at times, and the thing that is concerning was
+
+her back pain that was reminiscent of the pain that she had when
+
+she had her MI.
+
+PAST MEDICAL HISTORY:  She has a history of hypertension,
+
+diabetes, MI, and breast cancer status post lumpectomy and
+
+radiation.  Last stress test was may be in October, which was
+
+normal.
+
+FAMILY HISTORY:  Positive for breast cancer and diabetes
+
+mellitus.
+
+SOCIAL HISTORY:  She does not drink.  She smoked in the past,
+
+quit 15 years ago.
+
+REVIEW OF SYSTEMS:  As documented in the chart.  Please see notes
+
+for details.
+
+ALLERGIES:  As documented in the chart.  Please see notes for
+
+details.
+
+MEDICATIONS:  As documented in the chart.  Please see notes for
+
+details.
+
+PHYSICAL EXAMINATION:  Awake, alert, well-developed,
+
+well-nourished woman, and in no apparent distress.  Afebrile,
+
+slightly 96.7, pulse 72, respirations 16, blood pressure 124/72,
+
+and O2 saturation 98%.  Anicteric sclerae.  Mucous membranes are
+
+moist.  Neck is supple.  Lungs are clear of rales, wheezes, or
+
+rhonchi.  Cardiovascular:  Regular rate and rhythm.  Abdomen is
+
+obese.  Bowel sounds normoactive, nontender, and no guarding,
+
+rebound, or rigidity.  The skin is intact, warm, and dry.  She
+
+has point tenderness over the upper thoracic cage and trace pedal
+
+edema.
+
+LABORATORY DATA:  The patient has a normal CBC and normal
+
+electrolytes.  D-dimer was less than 200.  Troponin and CK were
+
+normal.
+
+IMAGING STUDIES:  EKG sinus rhythm with unchanged from previous. 
+
+Chest CT was negative PE.
+
+EMERGENCY DEPARTMENT COURSE:  As such, she was admitted to the
+
+Observation Unit for a second set of enzymes which if normal will
+
+be discharged home, after walking to see if she has any
+
+exertional component, as such, she was subsequently discharged to
+
+home in stable and satisfactory condition.  She was admitted to
+
+the Observation Unit 01/01/2072 with diagnosis of chest pain.
+
+______________________________
+
+HOFFMAN, VICTOR M.D.
+
+D: 01/01/72
+
+T: 01/02/72
+
+Dictated By: HOFFMAN, VICTOR
+
+eScription document:0-5469816 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2072-01-01" TYPE="DATE" comment="" />
+<ID id="P1" start="36" end="44" text="84091519" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="45" end="64" text="THOMAS-YOSEF, JULIA" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="65" end="73" text="01/01/72" TYPE="DATE" comment="" />
+<NAME id="P4" start="74" end="89" text="HOFFMAN, VICTOR" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="117" end="122" text="Ickes" TYPE="DOCTOR" comment="" />
+<DATE id="P6" start="126" end="136" text="01/01/2072" TYPE="DATE" comment="" />
+<NAME id="P7" start="169" end="174" text="Ickes" TYPE="DOCTOR" comment="" />
+<AGE id="P8" start="407" end="409" text="51" TYPE="AGE" comment="" />
+<DATE id="P9" start="494" end="498" text="2068" TYPE="DATE" comment="" />
+<DATE id="P10" start="702" end="706" text="2068" TYPE="DATE" comment="" />
+<DATE id="P11" start="1311" end="1318" text="October" TYPE="DATE" comment="" />
+<DATE id="P12" start="2869" end="2879" text="01/01/2072" TYPE="DATE" comment="" />
+<NAME id="P13" start="2943" end="2958" text="HOFFMAN, VICTOR" TYPE="DOCTOR" comment="" />
+<DATE id="P14" start="2968" end="2976" text="01/01/72" TYPE="DATE" comment="" />
+<DATE id="P15" start="2981" end="2989" text="01/02/72" TYPE="DATE" comment="" />
+<NAME id="P16" start="3004" end="3019" text="HOFFMAN, VICTOR" TYPE="DOCTOR" comment="" />
+<ID id="P17" start="3041" end="3050" text="0-5469816" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

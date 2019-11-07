@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2092-02-14
+
+
+
+
+Name:  Jennifer Neill
+MRN:  4634248
+
+
+CHIEF COMPLAINT:  Followup of diabetes.
+
+SUBJECTIVE:  Jennifer states that at home her blood sugars by fingerstick 
+typically went around 170.  She feels well.  She is not having any chest pains or 
+palpitations.  She is followed by cardiology at PMC, Dr. Samantha Noland.  Her 
+current medications include atenolol 25 mg p.o. q.d. and Zestril 20 mg p.o. q.d. 
+along with Glucovance.  She feels that the atenolol is causing some side effects.
+
+OBJECTIVE:  Appears healthy.  Blood pressure 132/68.  No acute distress.  
+Normal JVP.  Lungs clear.  Unremarkable heart sounds.  No peripheral edema.
+
+ASSESSMENT:
+1.	Diabetes with suboptimal control.
+2.	Hypertension with good control.
+3.	Possible side effects on atenolol.
+
+PLAN:
+1.	Discontinue atenolol.
+2.	Begin Lopressor 25 mg extended release 1 p.o. q.d.
+3.	Check glucose and glycohemoglobin and adjust medications as needed.
+
+
+
+
+William K. Joslin, M.D., M.P.H.
+
+WKJ/3454
+FI:  813458
+DD:  02/14/92
+DT:  02/15/92
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2092-02-14" TYPE="DATE" comment="" />
+<NAME id="P1" start="38" end="52" text="Jennifer Neill" TYPE="PATIENT" comment="" />
+<ID id="P2" start="59" end="66" text="4634248" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P3" start="123" end="131" text="Jennifer" TYPE="PATIENT" comment="" />
+<LOCATION id="P4" start="316" end="319" text="PMC" TYPE="HOSPITAL" comment="" />
+<NAME id="P5" start="325" end="340" text="Samantha Noland" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="948" end="965" text="William K. Joslin" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="981" end="984" text="WKJ" TYPE="DOCTOR" comment="" />
+<ID id="P8" start="985" end="989" text="3454" TYPE="IDNUM" comment="" />
+<ID id="P9" start="995" end="1001" text="813458" TYPE="IDNUM" comment="" />
+<DATE id="P10" start="1007" end="1015" text="02/14/92" TYPE="DATE" comment="" />
+<DATE id="P11" start="1021" end="1029" text="02/15/92" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

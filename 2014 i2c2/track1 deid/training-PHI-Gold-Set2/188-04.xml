@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2067-11-30
+
+CARDIOLOGY
+
+OCHILTREE GENERAL HOSPITAL
+
+
+
+Reason for visit:
+
+   Follow-up appointment for cardiomyopathy
+
+
+
+Interval History:
+
+   Mr Lara reports no problems since the time of his last visit. He insistists that he has absolutely abstained from etoh since his last visit.
+
+
+
+Denies fevers, chills. denies palpitations or syncope.
+
+
+
+Under a fair amount of stress at home: his son is home after a head injury and neurological complications of an MVA and is fairly debilitated. He has had to give up his job to help take care of him. 
+
+
+
+Past medical history:
+
+   diabetes, cad, cardiomyopathy
+
+
+
+Medications (Confirmed):
+
+
+
+			
+
+aspirin 325 mg 1 tab  qd
+
+Avandia 2 mg 1 tab  qd
+
+Levitra 10mg po qd PRN
+
+Lipitor
+
+lisinopril 10 mg  QD
+
+Patanol 0.1% eye drops
+
+Prilosec 20mg po bid
+
+Synalar ointment  .025%    
+
+Toprol XL
+
+
+
+Social history:
+
+   Currently not working out of the house; denies etoh..
+
+
+
+Review of systems:
+
+   see above. remainder negative in detail
+
+
+
+Physical examination:
+
+-BP: 160/90  
+
+-Pulse: 73  bpm
+
+-General:   No acute distress.
+
+-Heent:   Unremarkable
+
+-Chest:   Clear to auscultation and percussion.
+
+-Cardiac:   Left ventricular impulse discrete and nondisplaced. Regular rate and rhythm, normal S1 and S2. There were no clicks or rubs. ? faint 1/6 systolic murmur at the apex.
+
+-weight: 205  
+
+-BMI:   
+
+-Abdomen:   normal active bowel sounds.
+
+-Extremities:   without clubbing or edema.
+
+-Neuro:   A+Ox3
+
+
+
+EKG:
+
+   Sinus Rhythm with 2 pvcs. Q waves leads 1, AVL RPO high lateral infarction. Apical TWI. Q waves leads V5 and v6 rpo oapical MI. C 8/67, TWI more marked. 
+
+
+
+Assessment and plan:
+
+   55 yom with history of cardiomyopathy likely secondary to etoh use; at time of cath, he had mild-moderate CAD found. Also, hypetension
+
+1) Patient missed his last echo appt. Will reschedule to check for interval improvement on treatment and off moonshine. Pt counseled to give up all etoh for ~ 6mos at least. He voices understanidng.
+
+2) hypertension: not acceptable at this level given diabetes. I have asked Joe to increase his lisinopril to 40 mg 
+
+3) diabetes: well controlled by Dr. Thomson
+
+4) CAD: on a statin (DM is CAD equiv as well) 
+
+
+
+Cardiac prescriptions written
+
+
+
+Changes to Medications this visit
+
+Avandia 2 mg 1 tab    qd QTY:30 Refills:3 Start: 1/31/2065
+
+aspirin 325 mg 1 tab    qd QTY:30 Refills:1 yr Start: 3/12/2065
+
+lisinopril 40 mg  po qd QTY:30 Refills:11 Start: 8/4/2066
+
+Lipitor 10mg  po qd Start: 12/17/2066
+
+Toprol XL 50 mg  po qd Start: 03/06/2067
+
+Prilosec 20mg  po bid QTY:60 Refills:1 Start: 03/06/2067 take before meals
+
+Levitra 10mg  po qd PRN QTY:10 Refills:3 Start: 06/26/2067 Max: one tab per day; take one hour prior to sexual activity
+
+Synalar ointment  .025%      QTY: 45g Refills: 2 Start: 06/26/2067  apply bid
+
+Patanol 0.1% eye drops     QTY:5cc Refills:1 Start: 10/10/2065 2gtt  bid
+
+
+
+DX Tests Ordered:
+
+   echocardiogram to eval LV function
+
+
+
+Signed electronically by   Elon  Levine MD  on  Nov 30, 2067     
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2067-11-30" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="40" end="66" text="OCHILTREE GENERAL HOSPITAL" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="161" end="165" text="Lara" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="1599" end="1603" text="8/67" TYPE="DATE" comment="" />
+<AGE id="P4" start="1651" end="1653" text="55" TYPE="AGE" comment="" />
+<NAME id="P5" start="2140" end="2147" text="Thomson" TYPE="DOCTOR" comment="" />
+<DATE id="P6" start="2316" end="2325" text="1/31/2065" TYPE="DATE" comment="" />
+<DATE id="P7" start="2381" end="2390" text="3/12/2065" TYPE="DATE" comment="" />
+<DATE id="P8" start="2441" end="2449" text="8/4/2066" TYPE="DATE" comment="" />
+<DATE id="P9" start="2478" end="2488" text="12/17/2066" TYPE="DATE" comment="" />
+<DATE id="P10" start="2520" end="2530" text="03/06/2067" TYPE="DATE" comment="" />
+<DATE id="P11" start="2578" end="2588" text="03/06/2067" TYPE="DATE" comment="" />
+<DATE id="P12" start="2656" end="2666" text="06/26/2067" TYPE="DATE" comment="" />
+<DATE id="P13" start="2785" end="2795" text="06/26/2067" TYPE="DATE" comment="" />
+<DATE id="P14" start="2860" end="2870" text="10/10/2065" TYPE="DATE" comment="" />
+<NAME id="P15" start="2971" end="2983" text="Elon  Levine" TYPE="DOCTOR" comment="" />
+<DATE id="P16" start="2992" end="3004" text="Nov 30, 2067" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>
